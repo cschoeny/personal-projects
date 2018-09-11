@@ -1,0 +1,15573 @@
+
+1. Algebra is so much like arithmetic that all that you know about addition,
+subtraction, multiplication, and division, the signs that you have been using
+and the ways of working out problems, will be very useful to you in this study.
+There are two things the introduction of which really makes all the difference
+between arithmetic and algebra. One of these is the use of letters to represent
+numbers, and you will see in the following exercises that this change makes the
+solution of problems much easier.
+Exercise I.
+Illustrative Example. The sum of two numbers is 60, and the greater is four
+times the less. What are the numbers?
+Solution.
+Let x= the less number;
+then 4x= the greater number,
+and 4x + x=60,
+or 5x=60;
+therefore x=12,
+and 4x=48. The numbers are 12 and 48.
+1. The greater of two numbers is twice the less, and the sum of the numbers
+is 129. What are the numbers?
+2. A man bought a horse and carriage for $500, paying three times as much
+for the carriage as for the horse. How much did each cost?
+3. Two brothers, counting their money, found that together they had $186,
+and that John had five times as much as Charles. How much had each?
+4. Divide the number 64 into two parts so that one part shall be seven times
+the other.
+5. A man walked 24 miles in a day. If he walked twice as far in the forenoon
+as in the afternoon, how far did he walk in the afternoon?
+7
+6. For 72 cents Martha bought some needles and thread, paying eight times
+as much for the thread as for the needles. How much did she pay for each?
+7. In a school there are 672 pupils. If there are twice as many boys as girls,
+how many boys are there?
+Illustrative Example. If the difference between two numbers is 48, and
+one number is five times the other, what are the numbers?
+Solution.
+Let x= the less number;
+then 5x= the greater number,
+and 5x - x=48,
+or 4x=48;
+therefore x=12,
+and 5x=60.
+The numbers are 12 and 60.
+8. Find two numbers such that their difference is 250 and one is eleven times
+the other.
+9. James gathered 12 quarts of nuts more than Henry gathered. How many
+did each gather if James gathered three times as many as Henry?
+10. A house cost $2880 more than a lot of land, and five times the cost of the
+lot equals the cost of the house. What was the cost of each?
+11. Mr. A. is 48 years older than his son, but he is only three times as old.
+How old is each?
+12. Two farms differ by 250 acres, and one is six times as large as the other.
+How many acres in each?
+13. William paid eight times as much for a dictionary as for a rhetoric. If the
+difference in price was $6.30, how much did he pay for each?
+14. The sum of two numbers is 4256, and one is 37 times as great as the other.
+What are the numbers?
+15. Aleck has 48 cents more than Arthur, and seven times Arthur’s money
+equals Aleck’s. How much has each?
+16. The sum of the ages of a mother and daughter is 32 years, and the age of
+the mother is seven times that of the daughter. What is the age of each?
+17. John’s age is three times that of Mary, and he is 10 years older. What is
+the age of each?
+8
+Exercise 2.
+Illustrative Example. There are three numbers whose sum is 96; the second
+is three times the first, and the third is four times the first. What are the
+numbers?
+Solution.
+Let x=first number,
+3x=second number,
+4x=third number.
+x + 3x + 4x=96
+8x=90
+x=12
+3x=36
+4x=48
+The numbers are 12, 36, and 48.
+1. A man bought a hat, a pair of boots, and a necktie for $7.50; the hat cost
+four times as much as the necktie, and the boots cost five times as much
+as the necktie. What was the cost of each?
+2. A man traveled 90 miles in three days. If he traveled twice as far the first
+day as he did the third, and three times as far the second day as the third,
+how far did he go each day?
+3. James had 30 marbles. He gave a certain number to his sister, twice as
+many to his brother, and had three times as many left as he gave his sister.
+How many did each then have?
+4. A farmer bought a horse, cow, and pig for $90. If he paid three times as
+much for the cow as for the pig, and five times as much for the horse as
+for the pig, what was the price of each?
+5. A had seven times as many apples, and B three times as many as C had.
+If they all together had 55 apples, how many had each?
+6. The difference between two numbers is 36, and one is four times the other.
+What are the numbers?
+7. In a company of 48 people there is one man to each five women. How
+many are there of each?
+8. A man left $1400 to be distributed among three sons in such a way that
+James was to receive double what John received, and John double what
+Henry received. How much did each receive?
+9. A field containing 45,000 feet was divided into three lots so that the second
+lot was three times the first, and the third twice the second. How large
+was each lot?
+9
+10. There are 120 pigeons in three flocks. In the second there are three times
+as many as in the first, and in the third as many as in the first and second
+combined. How many pigeons in each flock?
+11. Divide 209 into three parts so that the first part shall be five times the
+second, and the second three times the third.
+12. Three men, A, B, and C, earned $110; A earned four times as much as B,
+and C as much as both A and B. How much did each earn?
+13. A farmer bought a horse, a cow, and a calf for $72; the cow cost twice as
+much as the calf, and the horse three times as much as the cow. What
+was the cost of each?
+14. A cistern, containing 1200 gallons of water, is emptied by two pipes in two
+hours. One pipe discharges three times as many gallons per hour as the
+other. How many gallons does each pipe discharge in an hour?
+15. A butcher bought a cow and a lamb, paying six times as much for the cow
+as for the lamb, and the difference of the prices was $25. How much did
+he pay for each?
+16. A grocer sold one pound of tea and two pounds of coffee for $1.50, and
+the price of the tea per pound was three times that of the coffee. What
+was the price of each?
+17. By will Mrs. Cabot was to receive five times as much as her son Henry. If
+Henry received $20,000 less than his mother, how much did each receive?
+Exercise 3.
+Illustrative Example. Divide the number 126 into two parts such that one part
+is 8 more than the other.
+Solution
+Let x=less part,
+x + 8=greater part.
+x + x + 8=126
+2x + 8=126
+2x=1181
+x=59
+x + 8=67
+The parts are 59 and 67.
+1. In a class of 35 pupils there are 7 more girls than boys. How many are
+there of each?
+1Where in arithmetic did you learn the principle applied in transposing the 8?
+10
+2. The sum of the ages of two brothers is 43 years, and one of them is 15
+years older than the other. Find their ages.
+3. At an election in which 1079 votes were cast the successful candidate had
+a majority of 95. How many votes did each of the two candidates receive?
+4. Divide the number 70 into two parts, such that one part shall be 26 less
+than the other part.
+5. John and Henry together have 143 marbles. If I should give Henry 15
+more, he would have just as many as John. How many has each?
+6. In a storehouse containing 57 barrels there are 3 less barrels of flour than
+of meal. How many of each?
+7. A man whose herd of cows numbered 63 had 17 more Jerseys than Holsteins.
+How many had he of each?
+8. Two men whose wages differ by 8 dollars receive both together $44 per
+month. How much does each receive?
+9. Find two numbers whose sum is 99 and whose difference is 19.
+10. The sum of three numbers is 56; the second is 3 more than the first, and
+the third 5 more than the first. What are the numbers?
+11. Divide 62 into three parts such that the first part is 4 more than the
+second, and the third 7 more than the second.
+12. Three men together received $34,200; if the second received $1500 more
+than the first, and the third $1200 more than the second, how much did
+each receive?
+13. Divide 65 into three parts such that the second part is 17 more than the
+first part, and the third 15 less than the first.
+14. A man had 95 sheep in three flocks. In the first flock there were 23 more
+than in the second, and in the third flock 12 less than in the second. How
+many sheep in each flock?
+15. In an election, in which 1073 ballots were cast, Mr. A receives 97 votes
+less than Mr. B, and Mr. C 120 votes more than Mr. B. How many votes
+did each receive?
+16. A man owns three farms. In the first there are 5 acres more than in the
+second and 7 acres less than in the third. If there are 53 acres in all the
+farms together, how many acres are there in each farm?
+17. Divide 111 into three parts so that the first part shall be 16 more than
+the second and 19 less than the third.
+18. Three firms lost $118,000 by fire. The second firm lost $6000 less than the
+first and $20,000 more than the third. What was each firm’s loss?
+11
+Exercise 4.
+Illustrative Example. The sum of two numbers is 25, and the larger is 3 less
+than three times the smaller. What are the numbers?
+Solution.
+Let x=smaller number,
+3x - 3=larger number.
+x + 3x - 3=25
+4x - 3=25
+4x=282
+x=7
+3x - 3=18
+The numbers are 7 and 18.
+1. Charles and Henry together have 49 marbles, and Charles has twice as
+many as Henry and 4 more. How many marbles has each?
+2. In an orchard containing 33 trees the number of pear trees is 5 more than
+three times the number of apple trees. How many are there of each kind?
+3. John and Mary gathered 23 quarts of nuts. John gathered 2 quarts more
+than twice as many as Mary. How many quarts did each gather?
+4. To the double of a number I add 17 and obtain as a result 147. What is
+the number?
+5. To four times a number I add 23 and obtain 95. What is the number?
+6. From three times a number I take 25 and obtain 47. What is the number?
+7. Find a number which being multiplied by 5 and having 14 added to the
+product will equal 69.
+8. I bought some tea and coffee for $10.39. If I paid for the tea 61 cents more
+than five times as much as for the coffee, how much did I pay for each?
+9. Two houses together contain 48 rooms. If the second house has 3 more
+than twice as many rooms as the first, how many rooms has each house?
+Illustrative Example. Mr. Y gave $6 to his three boys. To the second he
+gave 25 cents more than to the third, and to the first three times as much
+as to the second. How much did each receive?
+Solution.
+2
+Is the same principle applied here that is applied on page 12?
+12
+Let x=number of cents third boy received,
+x + 25=number of cents second boy received,
+3x + 75=number of cents first boy received.
+x + x + 25 + 3x + 75=600
+5x + 100=600
+5x=500
+x=100
+x + 25=125
+3x + 75=375
+1st boy received $3.75,
+2d boy received $1.25,
+3d boy received $1.00.
+10. Divide the number 23 into three parts, such that the second is 1 more
+than the first, and the third is twice the second.
+11. Divide the number 137 into three parts, such that the second shall be 3
+more than the first, and the third five times the second.
+12. Mr. Ames builds three houses. The first cost $2000 more than the second,
+and the third twice as much as the first. If they all together cost $18,000,
+what was the cost of each house?
+13. An artist, who had painted three pictures, charged $18 more for the second
+than the first, and three times as much for the third as the second. If he
+received $322 for the three, what was the price of each picture?
+14. Three men, A, B, and C, invest $47,000 in business. B puts in $500 more
+than twice as much as A, and C puts in three times as much as B. How
+many dollars does each put into the business?
+15. In three lots of land there are 80,750 feet. The second lot contains 250 feet
+more than three times as much as the first lot, and the third lot contains
+twice as much as the second. What is the size of each lot?
+16. A man leaves by his will $225,000 to be divided as follows: his son to
+receive $10,000 less than twice as much as the daughter, and the widow
+four times as much as the son. What was the share of each?
+17. A man and his two sons picked 25 quarts of berries. The older son picked
+5 quarts less than three times as many as the younger son, and the father
+picked twice as many as the older son. How many quarts did each pick?
+18. Three brothers have 574 stamps. John has 15 less than Henry, and Thomas
+has 4 more than John. How many has each?
+13
+Exercise 5
+.
+Illustrative Example. Arthur bought some apples and twice as many oranges
+for 78 cents. The apples cost 3 cents apiece, and the oranges 5 cents apiece.
+How many of each did he buy?
+Solution.
+Let x = number of apples,
+2x = number of oranges,
+3x = cost of apples,
+10x = cost of oranges.
+3x + 10x = 78
+13x = 78
+x = 6
+2x = 12
+Arthur bought 6 apples and 12 oranges.
+1. Mary bought some blue ribbon at 7 cents a yard, and three times as much
+white ribbon at 5 cents a yard, paying $1.10 for the whole. How many
+yards of each kind did she buy?
+2. Twice a certain number added to five times the double of that number
+gives for the sum 36. What is the number?
+3. Mr. James Cobb walked a certain length of time at the rate of 4 miles an
+hour, and then rode four times as long at the rate of 10 miles an hour, to
+finish a journey of 88 miles. How long did he walk and how long did he
+ride?
+4. A man bought 3 books and 2 lamps for $14. The price of a lamp was twice
+that of a book. What was the cost of each?
+5. George bought an equal number of apples, oranges, and bananas for $1.08;
+each apple cost 2 cents, each orange 4 cents, and each banana 3 cents. How
+many of each did he buy?
+6. I bought some 2-cent stamps and twice as many 5-cent stamps, paying for
+the whole $1.44. How many stamps of each kind did I buy?
+7. I bought 2 pounds of coffee and 1 pound of tea for $1.31; the price of a
+pound of tea was equal to that of 2 pounds of coffee and 3 cents more.
+What was the cost of each per pound?
+8. A lady bought 2 pounds of crackers and 3 pounds of gingersnaps for $1.11.
+If a pound of gingersnaps cost 7 cents more than a pound of crackers, what
+was the price of each?
+14
+9. A man bought 3 lamps and 2 vases for $6. If a vase cost 50 cents less than
+2 lamps, what was the price of each?
+10. I sold three houses, of equal value, and a barn for $16,800. If the barn
+brought $1200 less than a house, what was the price of each?
+11. Five lots, two of one size and three of another, aggregate 63,000 feet. Each
+of the two is 1500 feet larger than each of the three. What is the size of
+the lots?
+12. Four pumps, two of one size and two of another, can pump 106 gallons per
+minute. If the smaller pumps 5 gallons less per minute than the larger,
+how much does each pump per minute?
+13. Johnson and May enter into a partnership in which Johnson’s interest is
+four times as great as May’s. Johnson’s profit was $4500 more than May’s
+profit. What was the profit of each?
+14. Three electric cars are carrying 79 persons. In the first car there are 17
+more people than in the second and 15 less than in the third. How many
+persons in each car?
+15. Divide 71 into three parts so that the second part shall be 5 more than
+four times the first part, and the third part three times the second.
+16. I bought a certain number of barrels of apples and three times as many
+boxes of oranges for $33. I paid $2 a barrel for the apples, and $3 a box
+for the oranges. How many of each did I buy?
+17. Divide the number 288 into three parts, so that the third part shall be
+twice the second, and the second five times the first.
+18. Find two numbers whose sum is 216 and whose difference is 48.
+Exercise 6
+.
+Illustrative Example. What number added to twice itself and 40 more will
+make a sum equal to eight times the number?
+Solution.
+Let x = the number.
+x + 2x + 40 = 8x
+3x + 40 = 8x
+40 = 5x
+8 = x
+The number is 8.
+1. What number, being increased by 36, will be equal to ten times itself?
+15
+2. Find the number whose double increased by 28 will equal six times the
+number itself.
+3. If John’s age be multiplied by 5, and if 24 be added to the product, the
+sum will be seven times his age. What is his age?
+4. A father gave his son four times as many dollars as he then had, and his
+mother gave him $25, when he found that he had nine times as many
+dollars as at first. How many dollars had he at first?
+5. A man had a certain amount of money; he earned three times as much
+the next week and found $32. If he then had eight times as much as at
+first, how much had he at first?
+6. A man, being asked how many sheep he had, said, ”If you will give me 24
+more than six times what I have now, I shall have ten times my present
+number.” How many had he?
+7. Divide the number 726 into two parts such that one shall be five times the
+other.
+8. Find two numbers differing by 852, one of which is seven times the other.
+9. A storekeeper received a certain amount the first month; the second month
+he received $50 less than three times as much, and the third month twice
+as much as the second month. In the three months he received $4850.
+What did he receive each month?
+10. James is 3 years older than William, and twice James’s age is equal to
+three times William’s age. What is the age of each?
+11. One boy has 10 more marbles than another boy. Three times the first
+boy’s marbles equals five times the second boy’s marbles. How many has
+each?
+12. If I add 12 to a certain number, four times this second number will equal
+seven times the original number. What is the original number?
+13. Four dozen oranges cost as much as 7 dozen apples, and a dozen oranges
+cost 15 cents more than a dozen apples. What is the price of each?
+14. Two numbers differ by 6, and three times one number equals five times
+the other number. What are the numbers?
+15. A man is 2 years older than his wife, and 15 times his age equals 16 times
+her age. What is the age of each?
+16. A farmer pays just as much for 4 horses as he does for 6 cows. If a cow
+costs 15 dollars less than a horse, what is the cost of each?
+17. What number is that which is 15 less than four times the number itself?
+16
+18. A man bought 12 pairs of boots and 6 suits of clothes for $168. If a suit
+of clothes cost $2 less than four times as much as a pair of boots, what
+was the price of each?
+Exercise 7
+.
+Illustrative Example. Divide the number 72 into two parts such that one
+part shall be one-eighth of the other.
+Solution.
+Let x = greater part,
+1
+8
+x = lesser part.
+x +
+1
+8
+x = 72
+9
+8
+x = 72
+1
+8
+x = 8
+x = 64
+The parts are 64 and 8.
+1. Roger is one-fourth as old as his father, and the sum of their ages is 70
+years. How old is each?
+2. In a mixture of 360 bushels of grain, there is one-fifth as much corn as
+wheat. How many bushels of each?
+3. A man bought a farm and buildings for $12,000. The buildings were valued
+at one-third as much as the farm. What was the value of each?
+4. A bicyclist rode 105 miles in a day. If he rode one-half as far in the
+afternoon as in the forenoon, how far did he ride in each part of the day?
+5. Two numbers differ by 675, and one is one-sixteenth of the other. What
+are the numbers?
+6. What number is that which being diminished by one-seventh of itself will
+equal 162?
+7. Jane is one-fifth as old as Mary, and the difference of their ages is 12 years.
+How old is each?
+Illustrative Example. The half and fourth of a certain number are together
+equal to 75. What is the number?
+Solution.
+Let x = the number.
+1
+2
+x +
+1
+4
+x = 75.
+3
+4
+x = 75
+1
+4
+x = 25
+x = 100
+17
+The number is 100.
+8. The fourth and eighth of a number are together equal to 36. What is the
+number?
+9. A man left half his estate to his widow, and a fifth to his daughter. If they
+both together received $28,000, what was the value of his estate?
+10. Henry gave a third of his marbles to one boy, and a fourth to another boy.
+He finds that he gave to the boys in all 14 marbles. How many had he at
+first?
+11. Two men own a third and two-fifths of a mill respectively. If their part of
+the property is worth $22,000, what is the value of the mill?
+12. A fruit-seller sold one-fourth of his oranges in the forenoon, and threefifths
+of them in the afternoon. If he sold in all 255 oranges, how many
+had he at the start?
+13. The half, third, and fifth of a number are together equal to 93. Find the
+number.
+14. Mr. A bought one-fourth of an estate, Mr. B one-half, and Mr. C onesixth.
+If they together bought 55,000 feet, how large was the estate?
+15. The wind broke off two-sevenths of a pine tree, and afterwards two-fifths
+more. If the parts broken off measured 48 feet, how high was the tree at
+first?
+16. A man spaded up three-eighths of his garden, and his son spaded twoninths
+of it. In all they spaded 43 square rods. How large was the garden?
+17. Mr. A’s investment in business is $15,000 more than Mr. B’s. If Mr. A
+invests three times as much as Mr. B, how much is each man’s investment?
+18. A man drew out of the bank $27, in half-dollars, quarters, dimes, and
+nickels, of each the same number. What was the number?
+Exercise 8
+.
+Illustrative Example. What number is that which being increased by onethird
+and one-half of itself equals 22?
+Solution.
+Let x = the number.
+x +
+1
+3
+x +
+1
+2
+x = 22.
+1
+5
+6
+x = 22
+11
+6
+x = 22
+1
+6
+x = 2
+x = 12
+18
+The number is 12.
+1. Three times a certain number increased by one-half of the number is equal
+to 14. What is the number?
+2. Three boys have an equal number of marbles. John buys two-thirds of
+Henry’s and two-fifths of Robert’s marbles, and finds that he then has 93
+marbles. How many had he at first?
+3. In three pastures there are 42 cows. In the second there are twice as many
+as in the first, and in the third there are one-half as many as in the first.
+How many cows are there in each pasture?
+4. What number is that which being increased by one-half and one-fourth of
+itself, and 5 more, equals 33?
+5. One-third and two-fifths of a number, and 11, make 44. What is the
+number?
+6. What number increased by three-sevenths of itself will amount to 8640?
+7. A man invested a certain amount in business. His gain the first year
+was three-tenths of his capital, the second year five-sixths of his original
+capital, and the third year $3600. At the end of the third year he was
+worth $10,000. What was his original investment?
+8. Find the number which, being increased by its third, its fourth, and 34,
+will equal three times the number itself.
+9. One-half of a number, two-sevenths of the number, and 31, added to the
+number itself, will equal four times the number. What is the number?
+10. A man, owning a lot of land, bought 3 other lots adjoining, – one threeeighths,
+another one-third as large as his lot, and the third containing
+14,000 feet, – when he found that he had just twice as much land as at
+first. How large was his original lot?
+11. What number is doubled by adding to it two-fifths of itself, one-third of
+itself, and 8?
+12. There are three numbers whose sum is 90; the second is equal to one-half
+of the first, and the third is equal to the second plus three times the first.
+What are the numbers?
+13. Divide 84 into three parts, so that the third part shall be one-third of the
+second, and the first part equal to twice the third plus twice the second
+part.
+14. Divide 112 into four parts, so that the second part shall be one-fourth of
+the first, the third part equal to twice the second plus three times the first,
+and the fourth part equal to the second plus twice the first part.
+19
+15. A grocer sold 62 pounds of tea, coffee, and cocoa. Of tea he sold 2 pounds
+more than of coffee, and of cocoa 4 pounds more than of tea. How many
+pounds of each did he sell?
+16. Three houses are together worth six times as much as the first house, the
+second is worth twice as much as the first, and the third is worth $7500.
+How much is each worth?
+17. John has one-ninth as much money as Peter, but if his father should give
+him 72 cents, he would have just the same as Peter. How much money
+has each boy?
+18. Mr. James lost two-fifteenths of his property in speculation, and threeeighths
+by fire. If his loss was $6100, what was his property worth?
+Exercise 9
+.
+1. Divide the number 56 into two parts, such that one part is three-fifths of
+the other.
+2. If the sum of two numbers is 42, and one is three-fourths of the other,
+what are the numbers?
+3. The village of C—- is situated directly between two cities 72 miles apart,
+in such a way that it is five-sevenths as far from one city as from the other.
+How far is it from each city?
+4. A son is five-ninths as old as his father. If the sum of their ages is 84
+years, how old is each?
+5. Two boys picked 26 boxes of strawberries. If John picked five-eighths as
+many as Henry, how many boxes did each pick?
+6. A man received 60-1/2 tons of coal in two carloads, one load being fivesixths
+as large as the other. How many tons in each carload?
+7. John is seven-eighths as old as James, and the sum of their ages is 60
+years. How old is each?
+8. Two men invest $1625 in business, one putting in five-eighths as much as
+the other. How much did each invest?
+9. In a school containing 420 pupils, there are three-fourths as many boys as
+girls. How many are there of each?
+10. A man bought a lot of lemons for $5; for one-third he paid 4 cents apiece,
+and for the rest 3 cents apiece. How many lemons did he buy?
+20
+11. A lot of land contains 15,000 feet more than the adjacent lot, and twice
+the first lot is equal to seven times the second. How large is each lot?
+12. A bicyclist, in going a journey of 52 miles, goes a certain distance the first
+hour, three-fifths as far the second hour, one-half as far the third hour,
+and 10 miles the fourth hour, thus finishing the journey. How far did he
+travel each hour?
+13. One man carried off three-sevenths of a pile of loam, another man fourninths
+of the pile. In all they took 110 cubic yards of earth. How large
+was the pile at first?
+14. Matthew had three times as many stamps as Herman, but after he had
+lost 70, and Herman had bought 90, they put what they had together,
+and found that they had 540. How many had each at first?
+15. It is required to divide the number 139 into four parts, such that the first
+may be 2 less than the second, 7 more than the third, and 12 greater than
+the fourth.
+16. In an election 7105 votes were cast for three candidates. One candidate
+received 614 votes less, and the other 1896 votes less, than the winning
+candidate. How many votes did each receive?
+17. There are four towns, A, B, C, and D, in a straight line. The distance
+from B to C is one-fifth of the distance from A to B, and the distance from
+C to D is equal to twice the distance from A to C. The whole distance
+from A to D is 72 miles. Required the distance from A to B, B to C, and
+C to D.
+MODES OF REPRESENTING THE OPERATIONS.
+ADDITION.
+2. ILLUS. 1. The sum of y + y + y + etc. written seven times is 7y.
+ILLUS. 2. The sum of m + m + m + etc. written x times is xm.
+The 7 and x are called the coefficients of the number following.
+The coefficient is the number which shows how many times the number
+following is taken additively. If no coefficient is expressed, one is understood.
+Read each of the following numbers, name the coefficient, and state what it
+shows:
+6a, 2y, 3x, ax, 5m, 9c, xy, mn, 10z, a, 25n, x, 11xy.
+21
+ILLUS. 3. If John has x marbles, and his brother gives him 5
+marbles, how many has he?
+ILLUS. 4. If Mary has x dolls, and her mother gives her y
+dolls, how many has she?
+Addition is expressed by coefficient and by sign plus(+).
+When use the coefficient? When the sign?
+Exercise 10.
+1. Charles walked x miles and rode 9 miles. How far did he go?
+2. A merchant bought a barrels of sugar and p barrels of molasses. How
+many barrels in all did he buy?
+3. What is the sum of b + b + b + etc. written eight times?
+4. Express the, sum of x and y.
+5. There are c boys at play, and 5 others join them. How many boys are
+there in all?
+6. What is the sum of x + x + x + etc. written d times?
+7. A lady bought a silk dress for m dollars, a muff for l dollars, a shawl for
+v dollars, and a pair of gloves for c dollars. What was the entire cost?
+8. George is x years old, Martin is y, and Morgan is z years. What is the
+sum of their ages?
+9. What is the sum of m taken b times?
+10. If d is a whole number, what is the next larger number?
+11. A boy bought a pound of butter for y cents, a pound of meat for z cents,
+and a bunch of lettuce for s cents. How much did they all cost?
+12. What is the next whole number larger than m?
+13. What is the sum of x taken y times?
+14. A merchant sold x barrels of flour one week, 40 the next week, and a
+barrels the following week. How many barrels did he sell?
+15. Find two numbers whose sum is 74 and whose difference is 18.
+22
+SUBTRACTION.
+3. ILLUS. 1. A man sold a horse for $225 and gained $75.
+What did the horse cost?
+ILLUS. 2. A farmer sold a sheep for m dollars and gained
+y dollars. What did the sheep cost? Ans. m - y dollars.
+Subtraction is expressed by the sign minus (-).
+ILLUS. 3. A man started at a certain point and traveled
+north 15 miles, then south 30 miles, then north 20 miles,
+then north 5 miles, then south 6 miles. How far is he
+from where he started and in which direction?
+ILLUS. 4. A man started at a certain point and traveled east x
+miles, then west b miles, then east m miles, then east y
+miles, then west z miles. How far is he from where he started?
+We find a difficulty in solving this last example, because we do not know
+just how large x, b, m, y, and z are with reference to each other. This is only one
+example of a large class of problems which may arise, in which we find direction
+east and west, north and south; space before and behind, to the right and to the
+left, above and below; time past and future; money gained and lost; everywhere
+these opposite relations. This relation of oppositeness must be expressed in
+some way in our representation of numbers.
+In algebra, therefore, numbers are considered as increasing from zero in
+opposite directions. Those in one direction are called Positive Numbers (or +
+numbers); those in the other direction Negative Numbers (or - numbers).
+In Illus. 4, if we call direction east positive, then direction west will be negative,
+and the respective distances that the man traveled will be +x, -b, +m, +y,
+and -z. Combining these, the answer to the problem becomes x-b+m+y-z.
+If the same analysis be applied to Illus. 3, we get 15 - 30 + 20 + 5 - 6 = +4, or
+4 miles north of starting-point.
+The minus sign before a single number makes the number negative,
+and shows that the number has a subtractive relation to any
+other to which it may be united, and that it will diminish that number
+by its value. It shows a relation rather than an operation.
+Negative numbers are the second of the two things referred to on page 7, the
+introduction of which makes all the difference between arithmetic and algebra.
+NOTE.—Negative numbers are usually spoken of as less than zero, because
+they are used to represent losses. To illustrate: suppose a man’s money affairs
+be such that his debts just equal his assets, we say that he is worth nothing.
+Suppose now that the sum of his debts is $1000 greater than his total assets.
+He is worse off than by the first supposition, and we say that he is worth less
+than nothing. We should represent his property by -1000 (dollars).
+Exercise 11.
+1. Express the difference between a and b.
+23
+2. By how much is b greater than 10?
+3. Express the sum of a and b diminished by c.
+4. Write five numbers in order of magnitude so that a shall be the middle
+number.
+5. A man has an income of a dollars. His expenses are b dollars. How much
+has he left?
+6. How much less than c is 8?
+7. A man has four daughters each of whom is 3 years older than the next
+younger. If x represent the age of the oldest, what will represent the age
+of the others?
+8. A farmer bought a cow for b dollars and sold it for c dollars. How much
+did he gain?
+9. How much greater than 5 is x?
+10. If the difference between two numbers is 9, how may you represent the
+numbers?
+11. A man sold a house for x dollars and gained $75. What did the house
+cost?
+12. A man sells a carriage for m dollars and loses x dollars. What was the
+cost of the carriage?
+13. I paid c cents for a pound of butter, and f cents for a lemon. How much
+more did the butter cost than the lemon?
+14. Sold a lot of wood for b dollars, and received in payment a barrel of flour
+worth e dollars. How many dollars remain due?
+15. A man sold a cow for l dollars, a calf for 4 dollars, and a sheep for m
+dollars, and in payment received a wagon worth x dollars. How much
+remains due?
+16. A box of raisins was bought for a dollars, and a firkin of butter for b
+dollars. If both were sold for c dollars, how much was gained?
+17. At a certain election 1065 ballots were cast for two candidates, and the
+winning candidate had a majority of 207. How many votes did each receive?
+18. A merchant started the year with m dollars; the first month he gained
+x dollars, the next month he lost y dollars, the third month he gained b
+dollars, and the fourth month lost z dollars. How much had he at the end
+of that month?
+24
+19. A man sold a cow for $80, and gained c dollars. What did the cow cost?
+20. If the sum of two numbers is 60, how may the numbers be represented?
+MULTIPLICATION
+.
+4. ILLUS. 1. 4 · 5 · a · b · c, 7 × 6, x × y.
+ILLUS. 2. abc, xy, amx.
+ILLUS. 3. x · x = xx = x
+2
+.
+x · x · x = xxx = x
+3
+.
+These two are read “x second power,” or “x square,” and “x third power,”
+or “x cube,” and are called powers of x.
+A power is a product of like factors.
+The 2 and the 3 are called the exponents of the power.
+An exponent is a number expressed at the right and a little above another
+number to show how many times it is taken as a factor.
+Multiplication is expressed (1) by signs, i.e. the dot and the cross;
+(2) by writing the factors successively; (3) by exponent.
+The last two are the more common methods.
+When use the exponent? When write the factors successively?
+Exercise 12
+.
+1. Express the double of x.
+2. Express the product of x, y, and z.
+3. How many cents in x dollars?
+4. Write a times b times c.
+5. What will a quarts of cherries cost at d cents a quart?
+6. If a stage coach, goes b miles an hour, how far will it go in m hours?
+7. In a cornfield there are x rows, and a hills in a row. How many hills in
+the field?
+8. Write the cube of x.
+9. Express in a different way a × a × a × a × a × a × a × a × a.
+10. Express the product of a factors each equal to d.
+11. Write the second power of a added to three times the cube of m.
+25
+12. Express x to the power 2m, plus x to the power m.
+13. What is the interest on x dollars for m years at 6 %?
+14. In a certain school there are c girls, and three times as many boys less 8.
+How many boys, and how many boys and girls together?
+15. If x men can do a piece of work in 9 days, how many days would it take
+1 man to perform the same work?
+16. How many thirds are there in x?
+17. How many fifths are there in b?
+18. A man bought a horse for x dollars, paid 2 dollars a week for his keeping,
+and received 4 dollars a week for his work. At the expiration of a weeks
+he sold him for m dollars. How much did he gain?
+19. James has a walnuts, John twice as many less 8, and Joseph three times
+as many as James and John less 7. How many have all together?
+DIVISION
+.
+5. ILLUS. a ÷ b, x
+y
+Division is expressed by the division sign, and by writing the
+numbers in the fractional form.
+Exercise 13
+.
+1. Express five times a divided by three times c.
+2. How many dollars in y cents?
+3. How many books at a dimes each can be bought for x dimes?
+4. How many days will a man be required to work for m dollars if he receive
+y dollars a day?
+5. x dollars were given for b barrels of flour. What was the cost per barrel?
+6. Express a plus b, divided by c.
+7. Express a, plus b divided by c.
+8. A man had a sons and half as many daughters. How many children had
+he?
+9. If the number of minutes in an hour be represented by x, what will express
+the number of seconds in 5 hours?
+26
+10. A boy who earns b dollars a day spends x dollars a week. How much has
+he at the end of 3 weeks?
+11. A can perform a piece of work in x days, B in y days, and C in z days.
+Express the part of the work that each can do in one day. Express what
+part they can all do in one day.
+12. How many square feet in a garden a feet on each side?
+13. A money drawer contains a dollars, b dimes, and c quarters. Express the
+whole amount in cents.
+14. x is how many times y?
+15. If m apples are worth n chestnuts, how many chestnuts is one apple worth?
+16. Divide 30 apples between two boys so that the younger may have twothirds
+as many as the elder.
+ALGEBRAIC EXPRESSIONS.
+6. ILLUS. a, -c, b + 8, m - x + 2c
+2
+.
+An algebraic expression is any representation of a number by algebraic
+notation.
+7. ILLUS. 1. -3a
+2
+b, 2x + a
+2
+z
+3 - 5d
+4
+.
+-3a
+2
+b is called a term, 2x is a term, +a
+2
+z
+3
+is a term, -5d
+4
+is a term.
+A term is an algebraic expression not connected with any other by the sign
+plus or minus, or one of the parts of an algebraic expression with its own sign
+plus or minus. If no sign is written, the plus sign is understood. By what signs
+are terms separated?
+ILLUS. 2. a
+2
+bc 3x
+2y
+3
+-7a
+2
+bc -x
+2y
+3
+5a
+2
+bc 1
+2
+x
+2y
+3
+The terms in these groups are said to be similar.
+ILLUS. 3. x
+2y xy x2y
+3a
+2
+b 3x
+2y 3ab
+The terms of these groups are said to be dissimilar.
+Similar terms are terms having the same letters affected by the same
+exponents.
+Dissimilar terms are terms which differ in letters or exponents, or both.
+How may similar terms differ?
+ILLUS. 4. abxy.... fourth degree....7x
+2y
+2
+x
+3
+.... third degree ....abc
+3xy....second degree....a
+2
+2a
+2
+bx3
+.... sixth degree ....4a
+5
+b
+The degree of a term is the number of its literal factors. It can be found
+by taking the sum of its exponents.
+27
+ILLUS. 5. 2x
+4
+-a
+3y
+5x
+2y
+2
+How do these terms compare with reference to degree? They are called
+homogeneous terms.
+What are homogeneous terms?
+8. ILLUS. 3x
+2y called a monomial.
+7x
+3 - 2xy
+3y
+4 - z
+2 +3yz2
+¾
+called polynomials.
+A monomial is an algebraic expression of one term.
+A polynomial is an algebraic expression of more than one term.
+A polynomial of two terms is called a binomial, and one of three terms is
+called a trinomial.
+The degree of an algebraic expression is the same as the degree of its
+highest term. What is the degree of each of the polynomials above? What is a
+homogeneous polynomial?
+Exercise 14.
+1. Write a polynomial of five terms. Of what degree is it?
+2. Write a binomial of the fourth degree.
+3. Write a polynomial with the terms of different degrees.
+4. Write a homogeneous trinomial of the third degree.
+5. Write two similar monomials of the fifth degree which shall differ as much
+as possible.
+6. Write a homogeneous trinomial with one of its terms of the second degree.
+7. Arrange according to the descending powers of a: -80a
+3
+b
+3 + 60a
+4
+b
+2 +
+108ab5 + 48a
+5
+b + 3a
+6 - 27b
+6 - 90a
+2
+b
+4
+.
+What name? What degree?
+8. Write a polynomial of the fifth degree containing six terms.
+9. Arrange according to the ascending powers of x:
+15x
+2
+y
+3 + 7x
+5 - 3xy5 - 60x
+4
+y + y
+7 + 21x
+3
+y
+2
+What name? What degree? What is the degree of each term?
+When a = 1, b = 2, c = 3, d = 4, x = O, y = 8, find the value of the
+following:
+10. 2a + 3b + c.
+28
+11. 5b + 3a - 2c + 6x.
+12. 6bc - 3ax + 2xb - 5ac + 2cx.
+13. 3bcd + 5cxa - 7xab + abc.
+14. 2c
+2 + 3b
+3 + 4a
+4
+.
+15. 1
+2
+a
+3
+c - b
+3 - c
+3 -
+3
+4
+abc3
+.
+16. 2a - b -
+2ab
+a+b
+.
+17. 2bc -
+3
+4
+c
+3 + 3ab - 2a - x +
+4
+15 bx.
+18. a
+2
+bx+ab2
+c+abc2+xac2
+abc .
+19. Henry bought some apples at 3 cents apiece, and twice as many pears at
+4 cents apiece, paying for the whole 66 cents. How many of each did he
+buy?
+20. Sarah’s father told her that the difference between two-thirds and fivesixths
+of his age was 6 years. How old was he?
+29
+30
+OPERATIONS.
+ADDITION.
+9. In combining numbers in algebra it must always be borne in mind that
+negative numbers are the opposite of positive numbers in their tendency.
+ILLUS. 1. 3ax -7b
+2y
+5ax -3b
+2y
+2ax -4b
+2y
+10ax -14b
+2y
+To add similar terms with like signs, add the coefficients, annex the common
+letters, and prefix the common sign.
+ILLUS. 2. 5a
+2
+b 3x
+2y
+2
+-3a
+2
+b 8x
+2y
+2
+-4a
+2
+b -5x
+2y
+2
+6a
+2
+b -7x
+2y
+2
+4a
+2b -x
+2y
+2
+To add similar terms with unlike signs, add the coefficients of the plus terms,
+add the coefficients of the minus terms, to the difference of these sums annex
+the common letters, and prefix the sign of the greater sum.
+ILLUS. 3. a 2x
+b -5y
+c -3a
+a + b + c 2x - 5 - 3a
+To add dissimilar terms, write the terms successively, each with its own
+sign.
+ILLUS. 4. 2ab -3ax2 +2a
+2x
+-8ab -ax2 -5a
+2x +ax3
+12ab +10ax2 -6a
+2x
+6ab +6ax2 -9a
+2x +ax3
+To add polynomials, add the terms of which the polynomials consist, and
+unite the results.
+Exercise 15.
+Find the sum of:
+31
+1. 3x, 5x, x, 4x, 11x.
+2. 5ab, 6ab, ab, 13ab.
+3. -3ax3
+, -5ax3
+, -9ax3
+, -ax3
+.
+4. -x, -5x, -11x, -25x.
+5. -2a
+2
+, 5a
+2
+, 3a
+2
+, -7a
+2
+, 11a
+2
+.
+6. 2abc2
+, -5abc2
+, abc2
+, -8abc2
+.
+7. 5x
+2
+, 3ab, -2ab, -4a
+2
+, 5ab, -2a
+2
+.
+8. 5ax, -3bc, -2ax, 7ax, bc, -2bc.
+Simplify:
+9. 4a
+2 - 5a
+2 - 8a
+2 - 7a
+2
+.
+10. x
+5 + 5a
+4
+b - 7ab - 2x
+5 + 10ab + 3a
+4
+b.
+11. 1
+3
+a -
+1
+2
+a +
+2
+3
+a + a.
+12. 2
+3
+b -
+3
+4
+b - 2b -
+1
+3
+b +
+5
+6
+b + b.
+13. A lady bought a ribbon for m cents, some tape for d cents, and some
+thread for c cents. She paid x cents on the bill. How much remains due?
+14. A man travels a miles north, then x miles south, then 5 miles further
+south, and then y miles north. How far is he from his starting point?
+Add:
+15. a + 2b + 3c, 5a + 3b + c, c - a - b.
+16. x + y - z, x - y - z, y - x + z.
+17. x + 2y - 3z + a, 2x - 3y + z - 4a, 2a - 3x + y - z.
+18. x
+3 + 3x
+2 - x + 5, 4x
+2 - 5x
+3 + 3 - 4x, 3x + 6x
+3 - 3x
+2 + 9.
+19. ca - bc + c
+3
+, ab + b
+3 - ca, a
+3 - ab + bc.
+20. 3a
+m - a
+m-1 - 1, 3a
+m-1 + 1 - 2a
+m, a
+m-1 + 1.
+21. 5a
+5 - 16a
+4
+b - 11a
+2
+b
+2
+c + 13ab, -2a
+5 + 4a
+4
+b + 12a
+2
+b
+2
+c - 10ab, 6a
+5 - a
+4
+b -
+6a
+2
+b
+2
+c + 10ab, -10a
+5 + 8a
+4
+b + a
+2
+b
+2
+c - 6ab, a
+5 + 5a
+4
+b + 6a
+2
+b
+2
+c - 7ab.
+22. 15x
+3 + 35x
+2 + 3x + 7, 7x
+3 + 15x - 11x
+2 + 9, 9x - 10 + x
+3 - 4x
+2
+.
+23. 9x
+5y - 6x
+4y
+2 + x
+3y
+3 - 25xy5
+, -22x
+3y
+3 - 3xy5 - 9x
+5y - 3x
+4y
+2
+, 5x
+3y
+3 +
+x
+5y + 21x
+4y
+2 + 20xy5
+.
+32
+24. x - y - z - a - b, x + y + z + a + b, x + y + z + a - b, x + y - z - a - b,
+x + y + z - a - b.
+25. a
+2
+c + b
+2
+c + c
+3 - abc - bc2 - ac2
+, a
+2
+b + b
+3 - bc2 - ab2 - b
+2
+c - abc, a
+3 + ab2 +
+ac2 - a
+2
+b - abc - a
+2
+c.
+26. A regiment is drawn up in m ranks of b men each, and there are c men
+over. How many men in the regiment?
+27. A man had x cows and z horses. After exchanging 10 cows with another
+man for 19 horses, what will represent the number that he has of each?
+28. In a class of 52 pupils there are 8 more boys than girls. How many are
+there of each?
+What is the sum of two numbers equal numerically but of opposite sign?
+How does the sum of a positive and negative number compare in value with the
+positive number? with the negative number? How does the sum of two negative
+numbers compare with the numbers? Illustrate the above questions by a man
+traveling north and south.
+SUBTRACTION.
+10. How is subtraction related to addition? How are opposite relations expressed?
+Given the typical series of numbers
+-4a, -3a, -2a, -a, -0, a, 2a, 3a, 4a, 5a.
+What must be added to 2a to obtain 5a? What then must be subtracted
+from 5a to obtain 2a? 5a - 3a =?
+What must be added to -3a to obtain 4a? What then must be subtracted
+from 4a to obtain -3a? 4a - 7a =?
+What must be added to 3a to obtain -2a? What then must be subtracted
+from -2a to obtain 3a? (-2a) - (-5a) =?
+What must be added to -a to obtain -4a? What then must be subtracted
+from -4a to obtain -a? (-4a) - (-3a) =?
+Examine now these results expressed in another form.
+33
+1. From 5a To 5a
+take 3a add -3a
+2a 2a
+2. From 4a To 4a
+take 7a add -7a
+-3a -3a
+3. From 2a To 2a
+take 5a add -5a
+-3a -3a
+4. From -4a To -4a
+take -3a add 3a
+-a -a
+The principle is clear; namely,
+The subtraction of any number gives the same result as the addition
+of that number with the opposite sign.
+ILLUS.
+6a + 3b - c
+-4a + b - 5c
+10a + 2b + 4c
+To subtract one number from another, consider the sign of the subtrahend
+changed and add.
+What is the relation of the minuend to the subtrahend and remainder? What
+is the relation of the subtrahend to the minuend and remainder?
+Exercise 16.
+1. From 5a
+3
+take 3a
+3
+.
+2. From 7a
+2
+b take -5a
+2
+b.
+3. Subtract 7xy3
+from -2xy3
+.
+4. From -3x
+my take -7x
+my.
+5. Subtract 3ax from 8x
+2
+.
+6. From 5xy take -7by.
+7. What is the difference between 4a
+m and 2a
+m?
+8. From the difference between 5a
+2x and -3a
+2x take the sum of 2a
+2x and
+-3a
+2x.
+9. From 2a + b + 7c take 5a + 2b - 7c.
+10. From 9x - 4y + 3z take 5x - 3y + z.
+34
+11. Subtract 3x
+4 - x
+2 + 7x - 14 from 11x
+4 - 2x
+3 - 8x.
+12. From 10a
+2
+b
+2 + 15ab2 + 8a
+2
+b take -10a
+2
+b
+2 + 15ab2 - 8a
+2
+b.
+13. Subtract 1 - x + x
+2 - 3x
+3
+from x
+3 - 1 + x
+2 - x.
+14. From x
+m - 2x
+2m + x
+3m take 2x
+3m - x
+2m - x
+m.
+15. Subtract a
+2n + a
+nx
+n + x
+2n from 3a
+2n - 17a
+nx
+n - 8x
+2n.
+16. From 2
+3
+a
+2 -
+5
+2
+a - 1 take -
+2
+3
+a
+2 + a -
+1
+2
+.
+17. From x
+5 + 3xy4
+take x
+5 + 2x
+4y + 3x
+3y
+2 - 2xy4 + y
+5
+.
+18. From x take y - a.
+19. From 6a
+3 + 4a + 7 take the sum of 2a
+3 + 4a
+2 + 9 and 4a
+3 - a
+2 + 4a - 2.
+20. Subtract 3x-7x
+3+ 5x
+2
+from the sum of 2+ 8x
+2-x
+3 and 2x
+3-3x
+2+x-2.
+21. What must be subtracted from 15y
+3 + z
+3 + 4yz2 - 5z
+2x - 2xy2
+to leave a
+remainder of 6x
+3 - 12y
+3 + 4z
+3 - 2xy2 + 6z
+2x?
+22. How much must be added to x
+3 - 4x
+2 + 16x to produce x
+3 + 64?
+23. To what must 4a
+2 - 6b
+2 + 8bc - 6ab be added to produce zero?
+24. From what must 2x
+4 - 3x
+2 + 2x - 5 be subtracted to produce unity?
+25. What must be subtracted from the sum of 3a
+3 + 7a + 1 and 2a
+2 - 5a - 3
+to leave a remainder of 2a
+2 - 2a
+3 - 4?
+26. From the difference between 10a
+2
+b+8ab2-8a
+2
+b
+2-b
+3 and 5a
+2
+b-6ab3-7a
+2
+b
+2
+take the sum of 10a
+2
+b
+2 + 15ab2 + 8a
+2
+b and 8a
+2
+b - 5ab2 + a
+2
+b
+2
+.
+27. What must be added to a to make b?
+28. By how much does 3x - 2 exceed 2x + 1?
+29. In y years a man will be 40 years old. What is his present age?
+30. How many hours will it take to go 23 miles at a miles an hour?
+PARENTHESES
+.
+11. ILLUS. 1. 5(a + b).
+ILLUS. 2. (m + n)(x + y).
+ILLUS. 3. x - (a + y - c).
+The parenthesis indicates that the numbers enclosed are considered as one
+number.
+Read each of the above illustrations, state the operations expressed, and
+show what the parenthesis indicates.
+Write the expressions for the following:
+35
+1. The sum of a and b, multiplied by a minus b.
+2. c plus d, times the sum of a and b,—the whole multiplied by x minus y.
+3. The sum of a and b, minus the difference between two a and three b.
+4. (x - y) + (x - y) + (x - y)+ etc., written a times.
+5. The sum of a + b taken seven times.
+6. There are in a library m + n books, each book has c - d pages, and each
+page contains x + y words. How many words in all the books?
+ILLUS. 4. a + (b - c - x) = a + b - c - x.
+(By performing the addition.)
+ILLUS. 5. a + c - d + e = a + (c - d + e).
+Any number of terms may be removed from a parenthesis preceded
+by the plus sign without change in the terms.
+And conversely,
+Any number of terms may be enclosed in a parenthesis preceded
+by the plus sign without change in the terms.
+ILLUS. 6. x - (y + z - c) = x - y - z + c.
+(By performing the subtraction.)
+ILLUS. 7. a - b - c + d = a - (b + c - d).
+Any number of terms may be removed from a parenthesis preceded
+by the minus sign by changing the sign of each term.
+And conversely,
+Any number of terms may be enclosed in a parenthesis preceded
+by the minus sign by changing the sign of each term.
+Exercise 17
+.
+Remove the parentheses in the following:
+1. x + (a + b) + y + (c - d) + (x - y).
+2. a + (b - c) - b + (a + c) + (c - a).
+3. a
+2
+b - (a
+3 + b
+3
+) - a
+3 - (ab2 - a
+2
+b) - (b
+3 - a
+3
+).
+4. xy - (x
+2 + y
+2
+) - y
+2 - (x
+2 - 2xy) - (y
+2 - x
+2
+).
+5. (a + b - c) - (a - b + c) + (b - a - c) - (c - a - b).
+6. (x - y + z) + (x + y + z) - (y + x + z) - (z + x + y).
+7. a - (3b - 2c + a) - (2b - a - c) - (6 - c + a).
+8. 1
+2
+a -
+1
+2
+c - (
+2
+3
+b -
+1
+2
+c) - (a +
+1
+4
+c -
+1
+3
+b) - (
+2
+3
+b -
+1
+4
+c -
+1
+2
+a).
+In each of the following enclose the last two terms in a parenthesis preceded
+by a plus sign:
+36
+9. x - y + 2c - d.
+10. 2a
+2 + 3a
+3x - ab2 + by2
+.
+11. 10m3 + 31m2 - 20m - 21.
+12. ax4 - x
+3 + 2x - 2ax2
+.
+In each of the following enclose the last three terms in a parenthesis preceded
+by a minus sign:
+13. a
+4 + a
+3x + a
+2x
+2 - ax3 - 4x
+4
+.
+14. a
+4 + a
+3 - 6a
+2 + a + 3.
+15. 6a
+3 - 17a
+2x + 14ax2 - 3x
+3
+.
+16. ax3 + 2ax2 + ax + 2a.
+17. A man pumps x gallons of water into a tank each day, and draws off y
+gallons each day. How much water will remain in the tank at the end of
+five days?
+18. Two men are 150 miles apart, and approach each other, one at the rate of
+x miles an hour, the other at the rate of y miles an hour. How far apart
+will they be at the end of seven hours?
+19. Eight years ago A was x years old. How old is he now?
+20. A had x dollars, but after giving $35 to B he has one-third as much as B.
+How much has B?
+MULTIPLICATION.
+12. ILLUS. 1. 8 = 2 · 2 · 2 a
+3 = a · a · a
+6 = 2 · 3 b
+2 = b · b
+48 = 2 · 2 · 2 · 2 · 3 a
+3b
+2 = a · a · a · b · b
+ILLUS. 2. 2a
+2
+b
+3
+c
+3a
+4
+b
+2
+c
+3
+6a
+6b
+5c
+4
+In arithmetic you learned that multiplication is the addition of equal numbers,
+that the multiplicand expresses one of those equal numbers, and the multiplier
+the number of them. In algebra we have negative as well as positive
+numbers. Let us see the effect of this in multiplication. We have four possible
+cases.
+37
+1. Multiplication of a plus number by a plus number.
++7
+ILLUS. +4 This must mean four sevens, or 28.
+2. Multiplication of a minus number by a plus number.
+-7
+ILLUS. +4 This must mean four minus-sevens, or -28.
+3. Multiplication of a plus number by a minus number.
++7
+ILLUS. -4
+This must mean the opposite of what +4 meant as a
+multiplier. Plus four meant add, minus four must mean subtract. Subtracting
+four sevens gives -28.
+4. Multiplication of a minus number by a minus number.
+-7
+ILLUS. -4 This must mean subtract four minus-sevens, or 28.
+ILLUS. 3. +b -b +b -b
++a +a -a -a
+ab -ab -ab ab
+To multiply a monomial by a monomial, multiply the coefficients together for
+the coefficient of the product, add the exponents of like letters for the exponent
+of the same letter in the product, and give the product of two numbers having
+like signs the plus sign, having unlike signs the minus sign.
+Exercise 18.
+Find the product of:
+1. 5x and 7c.
+2. 51cy and -xa.
+3. 3x
+3y and 7axy2
+.
+4. 5a
+2
+bc and 2ab2
+c
+3
+.
+5. -3x
+2y, -2ax, and 3cy2
+.
+6. 5a
+2
+, -3bc3
+, and -2abc.
+7. 15x
+2y
+2
+, -
+2
+3
+xz, and 1
+10 yz2
+.
+8. 20a
+3
+b
+2
+,
+2
+5
+ab2
+, and -
+1
+8
+bc2
+.
+9. 1
+2
+xy, -
+2
+3
+cx2
+, -
+2
+5
+a
+2y, and -
+5
+3
+x
+2y
+2
+.
+10. -
+2
+3
+a
+2
+b
+2
+,
+1
+4
+c
+2
+, -
+6
+5
+ac, and -
+3
+4
+b
+3
+c.
+38
+11. In how many days will a boys eat 100 apples if each boy eats b apples a
+day?
+12. How many units in x hundreds?
+13. If there are a hundreds, b tens, and c units in a number, what will represent
+the whole number of units?
+14. If the difference between two numbers is 7, and one of the numbers is x,
+what is the other number?
+13. ILLUS. 1.
+a - b + c
+x
+ax - bx + cx
+To multiply a polynomial by a monomial, multiply each term of the polynomial
+by the monomial, and add the results.
+ILLUS. 2.
+x
+3 + 2x
+2 + 3x
+3x
+2 - 2x + 1
+3x
+5 + 6x
+4 + 9x
+3
+-2x
+4 - 4x
+3 - 6x
+2
+x
+3 + 2x
+2 + 3x
+3x
+5 + 4x
+4 + 6x
+3 - 4x
+2 + 3x
+To multiply a polynomial by a polynomial, multiply the multiplicand by each
+term of the multiplier, and add the products.
+How is the first term of the product obtained? How is the last term obtained?
+The polynomials being arranged similarly with reference to the exponents of
+some number, how is the product arranged?
+Exercise 19.
+Multiply:
+1. x
+2 + xy + y
+2byx
+2y
+2
+.
+2. a
+2 - ab + b
+2bya
+2
+b.
+3. a
+3 - 3a
+2
+b + b
+3by - 2ab.
+4. 8x
+3 + 36x
+2y + 27y
+3
+by3xy2
+.
+5. 5
+6
+a
+4 -
+1
+5
+a
+3
+b -
+1
+3
+a
+2
+b
+2by 6
+5
+ab2
+.
+6. x
+2 - xy + y
+2byx + y.
+7. x
+4 - 3x
+3 + 2x
+2 - x + 1 by x - 1.
+8. x
+3 - 2x
+2 + x by x
+2 + 3x + 1.
+9. xy + mn - xm - yn by xy - mn + xm - yn.
+39
+10. x
+4 - x
+3 + x
+2 - x + 1 by 2 + 3x + 2x
+2 + x
+3
+.
+11. a
+5 - a
+4
+b + a
+3
+b
+2 - a
+2
+b
+3 + ab4 - b
+5 by a + b.
+12. x
+2 - xy + y
+2 - yz + z
+2 - xz by x + y + z.
+13. x
+6 + x
+5y + x
+4y
+2 + x
+3y
+3 + x
+2y
+4 + xy5 + y
+6 by x - y.
+14. x
+4 - 4a
+2x
+2 + 4a
+4 by x
+4 + 4a
+2x
+2 + 4a
+4
+.
+15. a
+3 - 3a
+2y
+2 + y
+3 by a
+3 + 3a
+2y
+2 + y
+3
+.
+16. x
+4 + 10x + 12 + 9x
+2 + 3x
+3 by -2x + x
+2 - 1.
+17. 3x
+2 - 2 + x
+3 - 3x + 6x
+4 by -2 + x
+2 - 3x.
+18. If x represent the number of miles a man can row in an hour in still water,
+how far can the man row in 5 hours down a stream which flows y miles
+an hour? How far up the same stream in 4 hours?
+19. A can reap a field in 7 hours, and B can reap the same field in 5 hours.
+How much of the field can they do in one hour, working together?
+20. A tank can be filled by two pipes in a hours and b hours respectively.
+What part of the tank will be filled by both pipes running together for
+one hour?
+What does x - y express? What two operations will give that result?
+What operations will give 4x as a result?
+14. ILLUS. 1.
+x + 5
+x + 3
+x
+2 + 5x
+3x + 15
+x
+2 + 8x + 15
+ILLUS. 2.
+x - 5
+x - 3
+x
+2 - 5x
+- 3x + 15
+x
+2 - 8x + 15
+ILLUS. 3.
+x + 5
+x - 3
+x
+2 + 5x
+- 3x - 15
+x
+2 + 2x - 15
+40
+ILLUS. 4.
+x - 5
+x + 3
+x
+2 - 5x
+3x - 15
+x
+2 - 2x - 15
+How many terms in the product? What is the first term? How is the last
+term formed? How is the coefficient of x in the middle term formed?
+The answers to the examples in the following exercise are to be written
+directly, and not to be obtained by the full form of multiplication:
+Exercise 20.
+Expand:
+1. (x + 2)(x + 7).
+2. (x + 1)(x + 6).
+3. (x - 3)(x - 4).
+4. (x - 5)(x - 2).
+5. (x + 5)(x - 2).
+6. (x + 7)(x - 3).
+7. (x - 7)(x + 6).
+8. (x - 6)(x + 5).
+9. (x - 11)(x - 2).
+10. (x - 13)(x - 1).
+11. (y + 7)(y - 9).
+12. (x + 3)(x + 17).
+13. (y + 2)(y - 15).
+14. (y + 2)(y + 16).
+15. (a
+2 + 7)(a
+2 - 5).
+16. (a - 9)(a + 9).
+17. (m2 - 2)(m2 - 16).
+18. (b
+3 + 12)(b
+3 - 10).
+19. (x -
+1
+2
+)(x -
+1
+4
+).
+41
+20. (y +
+1
+3
+)(y +
+1
+6
+).
+21. (m +
+2
+3
+)(m -
+1
+3
+).
+22. (a -
+2
+5
+)(a +
+3
+5
+).
+23. (x -
+2
+3
+)(x -
+1
+2
+).
+24. (y +
+3
+4
+)(y +
+1
+5
+).
+25. (3 - x)(7 - x).
+26. (5 - x)(3 - x).
+27. (6 - x)(7 + x).
+28. (11 - x)(3 + x).
+29. (x - 3)(x + 3).
+30. (y + 5)(y - 5).
+31. Find a number which, being multiplied by 6, and having 15 added to the
+product, will equal 141.
+32. Mr. Allen has 3 more cows than his neighbor. Three times his number of
+cows will equal four times his neighbor’s. How many has Mr. Allen?
+INVOLUTION.
+15. What is the second power of 5? What is the third power of 4?
+Involution is the process of finding a power of a number.
+ILLUS. 1. (5a
+2
+b
+3
+)
+2 = 25a
+4
+b
+6
+.
+ILLUS. 2. (3xy2
+z)
+3 = 27x
+3y
+6
+z
+3
+.
+ILLUS. 3. Find by multiplication the 2d, 3d, 4th, and 5th powers of +a and -a.
+Observe the signs of the odd and of the even powers.
+To find any power of a monomial, raise the coefficient to the required power,
+multiply the exponent of each letter by the exponent of the power, and give every
+even power the plus sign, every odd power the sign of the original number.
+Exercise 21
+.
+Expand:
+1. (a
+2
+b)
+2
+.
+2. (xy2
+)
+3
+.
+3. (-a
+4
+b)
+2
+.
+4. (-x
+3y
+2
+)
+3
+.
+42
+5. (3a
+2y)
+3
+.
+6. (-7ab2
+c
+3
+)
+2
+.
+7. (xyz2
+)
+5
+.
+8. (-m2nd)
+4
+.
+9. (-5x
+3y
+4
+z)
+3
+.
+10. (11c
+5d
+12x
+4
+)
+2
+.
+11. ( 1
+2
+x
+2am3
+)
+2
+.
+12. (-
+1
+3
+ab3
+c)
+2
+.
+13. (-15c
+6dx2
+)
+2
+.
+14. (-9xy5
+z
+2
+)
+3
+.
+15. (a
+9
+b
+2
+c
+4d
+2
+)
+4
+.
+16. (-x
+8yz3m2n)
+5
+.
+17. (-
+2
+3
+a
+2
+bc4
+)
+2
+.
+18. ( 5
+6mn2x
+3
+)
+2
+.
+19. In how many days can one man do as much as b men in 8 days?
+20. How many mills in a cents? How many dollars?
+16. Find by multiplication the following:
+(a + b)
+2
+, (a - b)
+2
+, (a + b)
+3
+, (a - b)
+3
+, (a + b)
+4
+, (a - b)
+4
+.
+Memorize the results.
+It is intended that the answers in the following exercise shall be written
+directly without going through the multiplication.
+ILLUS. 1. (x - y)
+4 = x
+4 - 4x
+3y + 6x
+2y
+2 - 4xy3 + y
+4
+.
+ILLUS. 2. (x - 1)3 = x
+3 - 3x
+2 + 3x - 1.
+ILLUS. 3. (2xy + 3y
+2
+)
+4
+= (2xy)
+4 + 4(2xy)
+3
+(3y
+2
+) +6(2xy)
+2
+(3y
+2
+)
+2
++ 4(2xy)(3y
+2
+)
+3 + (3y
+2
+)
+4
+= 16x
+4y
+4 + 96x
+3y
+5 + 216x
+2y
+6 + 216xy7 + 81y
+8
+.
+43
+Exercise 22.
+Expand:
+1. (z + x)
+3
+.
+2. (a + y)
+4
+.
+3. (x - a)
+4
+.
+4. (a - m)
+3
+.
+5. (m + a)
+2
+.
+6. (x - y)
+2
+.
+7. (x
+2 + y
+2
+)
+3
+.
+8. (m3 - y
+2
+)
+2
+.
+9. (c
+2 - d
+2
+)
+4
+.
+10. (y
+2 + z
+4
+)
+3
+.
+11. (x
+2y + z)
+2
+.
+12. (a
+2
+b - c)
+4
+.
+13. (a
+2 - b
+3
+c)
+3
+.
+14. (x
+2y - mn3
+)
+2
+.
+15. (x + 1)3
+.
+16. (m - 1)2
+.
+17. (b
+2 - 1)4
+.
+18. (y
+3 + 1)3
+.
+19. (ab - 2)2
+.
+20. (x
+2y - 3)2
+.
+21. (1 - x)
+4
+.
+22. (1 - y
+2
+)
+3
+.
+23. (2x + 3y
+2
+)
+2
+.
+24. (3ab - x
+2y)
+3
+.
+25. (4mn3 - 3a
+2
+b)
+4
+.
+26. ( 1
+2
+x - y)
+2
+.
+44
+27. (1 -
+1
+3
+x
+2
+)
+3
+.
+28. (x
+2 - 3)4
+.
+29. John has 4a horses, James has a times as many as John, and Charles has
+d less than five times as many as James. How many has Charles?
+30. A man bought a pounds of meat at a cents a pound, and handed the
+butcher an x-dollar bill. How many cents in change should he receive?
+31. A grocer, having 25 bags of meal worth a cents a bag, sold x bags. What
+is the value of the meal left?
+32. If a = 5, x = 4, y = 3, find the numerical value of
+7a
+11x - 3y
++
+11x
+8x - 7y
+-
+10y
+7a - 5x
+.
+33. Find the value of
+a
+2
+b - c
+2
+d - (ab + cd)(ac - bd) - bc(a
+2
+c - bd2
+)
+when a = 2, b = 3, c = 4, and d = 0.
+Exercise 23. (Review.)
+1. Take the sum of x
+3 + 3x - 2, 2x
+3 + x
+2 - x + 5, and 4x
+3 + 2x
+2 - 7x + 4
+from the sum of 2x
+3 + 9x and 5x
+3 + 3x
+2
+.
+2. Multiply b
+4 - 2b
+2 by b
+4 + 2b
+2 - 1.
+3. Simplify 11x
+2 + 4y
+2 - (2xy - 3y
+2
+) + (2x
+2 - 3xy) - (3x
+2 - 5xy).
+4. Divide $300 among A, B, and C, so that A shall have twice as much as
+B, and B $20 more than C.
+5. Find two numbers differing by 8 such that four times the less may exceed
+twice the greater by 10.
+6. What must be added to 3a
+3 - 4a
+2 - 4 to produce 5a
+3 + 6?
+7. Add 2
+3
+a
+2 - ab -
+5
+4
+b
+2
+,
+2
+3
+a
+2 +
+1
+3
+ab -
+1
+4
+b
+2
+, and -a
+2 -
+2
+3
+ab + 2b
+2
+.
+8. Simplify 8ab2
+c
+4 × (-3a
+4
+bc2
+) × (-2a
+2
+b
+3
+c).
+9. Expand ¡
+-
+2
+3
+xy2
+z
+3
+¢4
+.
+10. Simplify (x - 2)(x + 7) + (x - 8)(x - 5).
+11. Expand (2a
+2
+b - 3xy)
+3
+.
+12. What must be subtracted from x
+3 - 3x
+2 + 2y - 5 to produce unity?
+45
+13. Multiply x
+3 + 3x
+2y + 3xy2 + y
+3 by 3xy2 - y
+3 - 3x
+2y + x
+3
+.
+14. Expand (x + 1)(x - 1)(x
+2 + 1).
+15. Add 4xy3 - 4y
+4
+, 4x
+3y - 12x
+2y
+2 + 12xy3 - 4y
+4
+, 6x
+2y
+2 - 12xy3 + 6y
+4 and
+x
+4 - 4x
+3y + 6x
+2y
+2 - 4xy3 + y
+4
+.
+16. A man weighs 36 pounds more than his wife, and the sum of their weights
+is 317 pounds. What is the weight of each?
+17. A watch and chain cost $350. What was the cost of each, if the chain cost
+3
+4
+as much as the watch?
+18. Simplify 3x
+2 - 2x + 1 - (x
+2 + 2x + 3) - (2x
+2 - 6x - 6).
+19. Simplify (a + 2y)
+2 - (a - 2y)
+2
+20. What is the value of 1 + 1
+2
+a +
+1
+3
+b times 1 -
+1
+2
+a +
+1
+3
+b ?
+DIVISION.
+17. What is the relation of division to multiplication?
+ILLUS. 3x
+2 × 2xy =? then 6x
+3y ÷ 2xy =?
+Division is the process by which, when a product is given and one factor
+known, the other factor is found.
+What is the relation of the dividend to the divisor and quotient? What
+factors must the dividend contain? What factors must the quotient contain?
+ILLUS. 1. 6a
+4
+b
+4
+c
+6 ÷ 2a
+3
+b
+2
+c
+3 = 3ab2
+c
+3
+.
+ILLUS. 2. +ab +ab2 -ab +ab2 +ab -ab2 -ab -ab2
+From the relation of the dividend, divisor, and quotient, and the law for
+signs in multiplication, obtain the quotients in Illus. 2.
+To divide a monomial by a monomial, divide the coefficient of the dividend
+by the coefficient of the divisor for the coefficient of the quotient, subtract the
+exponent of each letter in the divisor from the exponent of the same letter in the
+dividend for the exponent of that letter in the quotient: if dividend and divisor
+have like signs, give the quotient the plus sign; if unlike, the minus sign.
+Exercise 24.
+Divide:
+1. 15x
+2y by 3x.
+2. 39ab2 by 3b.
+3. 27a
+3
+b
+3
+c by 9ab2
+c.
+46
+4. 35x
+4y
+4
+z by 7x
+2yz.
+5. -51cx3y by 3cyx2
+.
+6. 121x
+3y
+3
+z by -11y
+2
+z.
+7. -28x
+2y
+2
+z
+2 by -7xy2
+.
+8. -36a
+3
+b
+2
+c
+4 by -4ab2
+c
+2
+.
+9. 1
+3
+a
+4
+b
+5 by 1
+6
+a
+2
+b
+2
+.
+10. 1
+5
+x
+3y
+4 by -
+1
+15xy3
+.
+11. -45x
+5y
+7
+z by 9x
+2y
+4
+z.
+12. 60a
+4
+bc11 by -4ab2
+c
+7
+.
+13. -
+2
+3
+x
+7y
+2 by -
+5
+6
+x
+4y.
+14. 3
+4
+a
+5m4n
+3 by -
+1
+4
+a
+2mn3
+.
+15. 5m4n
+2x
+5 by 5
+8mn2x.
+16. 4x
+3y
+2
+z
+8 by -
+2
+3
+xz5
+.
+17. 10(x + y)
+4
+z
+3 by 5(x + y)
+2
+z.
+18. 15(a - b)
+3x
+2 by 3(a - b)x.
+19. Simplify (-x
+2y
+3
+z
+2
+) × (-x
+4y
+5
+z
+4
+) ÷ 2x
+3y
+3
+z
+4
+.
+20. Simplify a
+5
+b
+2
+c × (-a
+3
+b
+3
+c
+3
+) ÷ 3(a
+3
+bc2
+)
+2
+.
+21. Expand (x
+3y
+2 - 3xy)
+3
+.
+22. If a man can ride one mile for a cents, how far can two men ride for b
+cents?
+23. In how many days can x men earn as much as 8 men in y days?
+24. a times b is how many times c?
+18. ILLUS. -3ab3 -6a
+3
+b
+3 + 15a
+2
+b
+4 - 3ab5
+2a
+2 - 5ab + b
+2
+To divide a polynomial by a monomial, divide each term of the dividend by
+the divisor, and add the quotients.
+47
+Exercise 25.
+Divide:
+1. 18a
+4
+b
+3 - 42a
+3
+b
+2 + 90a
+6
+bx by 6a
+3
+b.
+2. 10x
+5y
+2 + 6x
+3y
+2 - 18x
+4y
+4 by 2x
+3y.
+3. 72x
+5y
+6 - 36x
+4y
+3 - 18x
+2y
+2 by 9x
+2y.
+4. 169a
+4
+b - 117a
+3
+b
+2 + 91a
+2
+b by 13a
+2
+.
+5. -2a
+5x
+3 +
+7
+2
+a
+4x
+4 by 7
+3
+a
+3x.
+6. 1
+2
+x
+5y
+2 - 3x
+3y
+4 by -
+3
+2
+x
+3y
+2
+.
+7. 32x
+3y
+4
+z
+6 - 24x
+5y
+4
+z
+4 + 8x
+4y
+2 by -8x
+3y.
+8. 120a
+4
+b
+3
+c
+5 - 186a
+5
+b
+7
+c
+6 by 6a
+3
+b
+3
+c
+4
+.
+9. 4x
+8 - 10x
+5 + 2x
+6 - 16x
+3 - 6x
+4 by 4x
+2
+.
+10. 24y
+3 + 32y
+7 - 48y
+6 by 3y
+3
+.
+11. 1
+4
+a
+2x -
+1
+16 abx -
+3
+8
+acx by 3
+8
+ax.
+12. -
+5
+2
+x
+2 +
+5
+3
+xy +
+10
+3
+x by -
+5
+6
+x.
+13. An army was drawn up with x men in front and y men deep. How many
+men were there in the army?
+14. In how many minutes will a train go x miles at the rate of a miles an
+hour?
+15. How many apples at x cents apiece can be bought for b dollars?
+19. Since division is the reverse of multiplication, let us consider an example
+in the multiplication of polynomials.
+x
+3 + 2x
+2 + 3x
+3x
+2 - 2x + 3
+3x
+5 + 6x
+4 + 9x
+3
+- 2x
+4 - 4x
+3 - 6x
+2
+3x
+3 + 6x
+2 + 9x
+3x
+5 + 4x
+4 + 8x
+3 + 9x
+Which of these numbers will become the dividend in our division? Take x
+3+
+2x
+2+3x for the divisor. What will be the quotient? Write these names opposite
+the different numbers. What is the last operation performed in obtaining the
+dividend? What then is the dividend? How are these partial products obtained?
+Keeping these facts in mind, we will start on the work of division, using
+these same numbers for convenience.
+ILLUS. 1.3
+48
+x
+3 + 2x
+2 + 3x) 3x
+5 +4x
+4 + 8x
+3 + 9x (3x
+2 -2x + 3
+3x
+5 +6x
+4 + 9x
+3
+-2x
+4 - x
+3 + 9x
+-2x
+4 - 4x
+3 - 6x
+3x
+3 + 6x
+2 +9x
+3x
+3 + 6x
+2 +9x
+How was the first term of the dividend formed? How can the first term of
+the quotient be found? Knowing the divisor and first term of the quotient, what
+can be formed? Subtract this from the dividend. How was the first term of the
+remainder formed? What can now be found? How? What can then be formed?
+etc., etc. How long can this process be continued?
+ILLUS. 2.
+x
+2 - 3xy + 2y
+2
+) x
+4 -6x
+3y +12x
+2y
+2 -4y
+4
+(x
+2 -3xy + y
+2 +
+9xy3-6y
+4
+x2-3xy+2y2
+x
+4 -3x
+3y +2x
+2y
+2
+-3x
+3y +10x
+2y
+2 -4y
+4
+-3x
+3y +9x
+2y
+2 -6xy3
+x
+2y
+2 +6xy3 -4y
+4
+x
+2y
+2 -3xy3 +2y
+4
+9xy3 -6y
+4
+Why stop the work at the point given? What is the complete quotient?
+Is the dividend exactly divisible by the divisor? When is one number exactly
+divisible by another?
+To divide a polynomial by a polynomial, arrange the terms of the dividend,
+and divisor similarly, divide the first term of the dividend by the first term of the
+divisor for the first term of the quotient, multiply the divisor by the quotient and
+subtract the product from the dividend; divide the first term of the remainder
+by the first term of the divisor for the next term of the quotient, multiply and
+subtract as before; continue this work of dividing, multiplying, and subtracting
+until there is no remainder or until the first term of the remainder is not divisible
+by the first term of the divisor.
+Exercise 26.
+Divide:
+1. x
+2 + 8x - 105 by x + 15.
+2. x
+2 + 8x - 33 by x + 11.
+3. x
+4 + x
+2 - 20 by x
+2 - 4.
+4. y
+4 - y
+2 - 30 by y
+2 + 5.
+5. x
+4 - 31x
+2 + 9 by x
+2 + 5x - 3.
+3
+It would be well for the teacher to work out this example on the board with the class
+along the line of the questions which follow the example.
+49
+6. a
+4 - 12a
+2 + 16 by a
+2 - 2a - 4.
+7. x
+3 - y
+3 by x - y.
+8. a
+3 + b
+3 by a + b.
+9. 16a
+4 - 81b
+4 by 2a - 3b.
+10. 81x
+8 - y
+4 by 3x
+2 - y.
+11. x
+5 - x
+4y - 2x
+3y
+2 - 5x
+2y
+3 - 17xy4 - 12y
+5 by x
+2 - 2xy - 3y
+2
+.
+12. a
+5 + a
+4
+b - 14a
+3
+b
+2 + 15a
+2
+b
+3 - 4b
+3 by a
+2 - 3ab + 2b
+2
+.
+13. x
+6 - 5x
+3 + 3 + 5x
+4 - 10x - x
+5 + 10x
+2 by x
+2 + 3 - x.
+14. x
+6 - 2x
+3 - 2 + x - 3x
+5 + 2x
+4 - 5x
+2 by x
+3 + 2 + x.
+15. a
+5 - a - 2a
+2 - a
+3 by a + a
+3 + a
+2
+.
+16. x
+6 - 2x
+3 - x
+2 - x
+4 by 1 + xx2 + x.
+17. a
+11 - a
+2 by a
+3 - 1.
+18. a
+12 - a
+4 by a
+2 + 1.
+19. x
+4 + 4y
+4 by x
+2 - 2xy + y
+2
+.
+20. 4a
+4 + 81b
+4 by 2a
+2 + 6ab + 9b
+2
+.
+21. 1
+2
+x
+4 +
+3
+4
+x
+3y -
+1
+3
+x
+2y
+2 +
+7
+6
+xy3 -
+1
+3
+y
+4 by x
+2 -
+1
+2
+xy + y
+2
+.
+22. 2
+9
+y
+3 -
+5
+36x
+2y +
+1
+6
+xy2 +
+1
+6
+x
+3 by 1
+2
+x +
+1
+3
+y.
+23. 1
+4
+(x - y)
+5 - (x - y)
+3 -
+1
+2
+(x - y)
+2 -
+1
+16 (x - y) by 1
+2
+(x - y)
+2 + (x - y) + 1
+4
+.
+24. 16x
+8 - 81y
+4 by 27y
+3 + 18x
+2y
+2 + 8x
+6 + 12x
+4y.
+25. 4x
+4 - 10x
+2 + 6 by x + 1.
+26. 4a
+4 - 5a
+2
+b
+2 + b
+4 by 2a - b.
+27. a
+6 - b
+6 + a
+4 + b
+4 + a
+2
+b
+2 by a
+2 - b
+2 + 1.
+28. x
+6 - y
+6 - x
+4 - y
+4 - x
+2y
+2 by x
+2 - y
+2 - 1.
+29. 81a
+12 - 16b
+8 by 12a
+3
+b
+4 - 8b
+6 - 18a
+6
+b
+2 + 27a
+9
+.
+30. 1 + 3x by 1 + x to four terms of quotient.
+31. 1 - 2a by 1 - a to four terms of quotient.
+32. 4 + a by 2 - a to four terms.
+33. 9 - x by 3 + x to four terms.
+50
+34. If a boy can do a piece of work in x minutes, how many hours would it
+take him to perform 12 times as much work?
+35. A man has x dollars, y acres of land worth m dollars an acre, and c houses
+each worth b dollars. What is my share if I am one of n heirs?
+36. A storekeeper mixed m pounds of coffee worth a cents a pound with
+p pounds worth b cents a pound. How much is the mixture worth per
+pound?
+37. If John is y years old, how old was he 11 years ago?
+EVOLUTION.
+20. ILLUS. v
+a,
+p3 x
+2y,
+v4 x - y,
+v
+16, v3
+5, v5
+6a
+2bc.
+The root of a number is indicated by the radical sign and index. When
+no index is expressed, two is understood.
+Express:
+1. The square root of x, 2ab, 7x - 3y
+2
+, a
+2
+bc.
+2. The fifth root of 3y, 2m - n, 4x
+2yz3
+.
+3. The cube root of 2, x + y, 17x
+2y
+4
+, m.
+4. The sixth root of az, 5m2n - 3xy + 14 - 3ab3
+c.
+What is the square root of a number? the fifth root? the fourth root? the
+cube root? the eleventh root?
+ILLUS. 1. (3a
+2
+bc3
+)
+3 = ? Then v3
+27a
+6b
+3c
+9 = ?
+ILLUS. 2. (+a)
+4 =?
+(-a)
+4 =? ¾
+Hence v4 +a
+4 = ?
+(+a)
+3 = ? v3 +a
+3 = ?
+(-a)
+3 = ? v3 -a
+3 = ?
+To find the root of a monomial, find the required root of the coefficient, divide
+the exponent of each letter by the index of the root for the exponent of that letter
+in the root, give to even roots of plus numbers the plus-or-minus sign (±) , to
+odd roots of plus numbers the plus sign, and to odd roots of minus numbers the
+minus sign.
+Exercise 27.
+Simplify:
+1. v
+16a
+2b
+6.
+2. p4
+81x
+4y
+8.
+3. p3 -8x
+6y
+3.
+4. v5 -32a
+10b
+15.
+5. v5
+243a
+5b
+10.
+51
+6. p3
+27x
+3y
+9.
+7. p4
+16x
+8y
+4.
+8. p
+9x
+8y
+6.
+9. q
+4
+9m6y
+4.
+10. 3
+q
+8
+27 a
+9b
+6.
+11. 3
+q
+-
+27
+64x
+9y
+12.
+12. 5
+q
+-
+32
+243 a
+5b
+15.
+13. 6
+q
+x
+12 (a - b)
+6
+.
+14. 3
+q
+a
+9 (x
+2 + y
+2)
+3
+.
+15. q
+4a
+2b
+6 (x
+2 - y)
+4
+.
+16. q
+16x
+4y
+2 (m3 + y)
+6
+.
+17. q
+1
+9
+a
+4b
+6 - 3
+q
+1
+8
+a
+6b
+9 - 5
+q
+32
+243 a
+10b
+15 +
+v3
+a
+6b
+9.
+18. 3
+q
+1
+8
+x
+6y
+3 + 5
+q
+-
+1
+32x
+10y
+5 -
+p3 -x
+6y
+3 -
+q
+1
+4
+x
+4y
+2.
+19. Multiply v
+25a
+4b
+2c
+2 by -
+v3 -8a
+3b
+6c
+9.
+20. Divide p
+144x
+4y
+4 by p5
+243x
+10y
+5.
+21. Multiply -
+p3 -125x
+3y
+6z
+6 by p
+9x
+4y
+2z
+6.
+22. Divide v
+100a
+6b
+12 by v5
+32a
+15b
+25.
+23. From two cities a miles apart two trains start toward each other, the one
+going x miles an hour, and the other y miles an hour. How long before
+they will meet? How far will each train have gone?
+24. What number is that whose double exceeds its half by 39?
+25. Mr. A. is m years old, and 6 years ago he was one-half as old as Mr. B.
+How old was Mr. B. then? How old is Mr. B. now?
+52
+21. (a + b)
+2 = a
+2 + 2ab + b
+2 = a
+2 + (2a + b)b.
+ILLUS. 1. Find the square root of 9x
+2 - 12xy + 4y
+2
+.
+9x
+2 - 12xy + 4y
+2 3x - 2y
+a
+2 = 9x
+2
+2a + b = 6x -2y -12xy + 4y
+2
+(2a + b)b = -12xy + 4y
+2
+ILLUS. 2. Find the square root of x
+6 - 6x
+3 - 4x + 1 + 6x
+2 - 2x
+5 + 5x
+4
+.
+x
+6 -2x
+5 + 5x
+4 - 6x
+3 + 6x
+2 - 4x + 1 x
+3 - x
+2 + 2x - 1
+x
+6
+2x
+3 -x
+2 -2x
+5 + 5x
+4 - 6x
+3 + 6x
+2 - 4x + 1
+-2x
+5 + x
+4
+2(x
+3 - x
+2
+) + 2x = 2x
+3 -x
+2 +2x 4x
+4 - 6x
+3 + 6x
+2 - 4x + 1
+4x
+4 - 4x
+3 + 4x
+2
+2(x
+3 - x
+2 + 2x) + (-1) = 2x
+3 -2x
+2 +4x -1 -2x
+3 + 2x
+2 - 4x + 1
+-2x
+3 + 2x
+2 - 4x + 1
+To find the square root of a polynomial, arrange the terms with reference to
+the powers of some number; take the square root of the first term of the polynomial
+for the first term of the root, and subtract its square from the polynomial;
+divide the first term of the remainder by twice the root found for the next term of
+the root, and add the quotient to the trial divisor; multiply the complete divisor
+by the second term of the root, and subtract the product from the remainder.
+If there is still a remainder, consider the root already found as one term, and
+proceed as before.
+Exercise 28.
+Find the square root of each of the following:
+1. 4x
+2 - 12xy + 9y
+2
+.
+2. x
+4 + 10x
+3y
+3 + 25x
+2y
+6
+.
+3. 16a
+2
+b
+2
+c
+4 - 56abc2xy2
+z + 49x
+2y
+4
+z
+2
+.
+4. 1
+4
+x
+2 - xy2
+z + y
+4
+z
+2
+.
+5. a
+2
+b
+6 +
+2
+3
+ab3
+c
+4 +
+1
+9
+c
+8
+.
+6. x
+4 - 4x
+3 + 2x
+2 + 4x + 1.
+7. x
+4 + 6x
+3 + 17x
+2 + 24x + 16.
+8. 4x
+4 + 9x
+2 + 4 - 4x - 4x
+3
+.
+9. 6x
+3 - 5x
+2 + 1 - 2x + 9x
+4
+.
+10. x
+6 + 2x
+5 - x
+4 + 3x
+2 - 2x + 1.
+53
+11. 6x
+4 - 4x
+3 + 4x
+5 - 15x
+2 - 8x + x
+6 + 16.
+12. 7x
+2 - 6x - 11x
+4 + 10x
+3 - 4x
+5 + 1 + 4x
+6
+.
+13. A is x years old. If his age is as much above 50 as B’s age is below 40,
+what is B’s age?
+14. If x represents the first digit, and y the second digit, of a number, what
+will represent the number?
+22. (a + b)
+3 = a
+3 + 3a
+2
+b + 3ab2 + b
+3 = a
+3 + (3a
+2 + 3ab + b
+2
+)b
+ILLUS. 1. Find the cube root of 8m6 + 12m4n
+3 + 6m2n
+6 +n
+9
+.
+8m6+12m4n
+3+6m2n
+6+n
+9
+2m2+n
+3
+a
+3= 8m6
+3a
+2+3ab+b
+2= 12m4+6m2n
+3 +n
+6
+12m4n
+3+6m2n
+6+n
+9
+(3a
+2+3ab+b
+2
+)b= 12m4n
+3+6m2n
+6+n
+9
+ILLUS. 2. Find the cube root of 66x
+2 + 33x
+4 + 8 - 36x +x
+6 - 63x
+3 - 9x
+5
+.
+x
+6-9x
+5+33x
+4-63x
+3+66x
+2-36x+8 x
+2-3x+2
+x
+6
+3x
+4-9x
+3+9x
+2 -9x
+5+33x
+4-63x
+3+66x
+2-36x+8
+-9x
+5+27x
+4-27x
+3
+3(x
+2-3x)
+2= 3x
+4-18x
+3+27x
+2
+6x
+4-36x
+3+66x
+2-36x+8
+3(x
+2-3x)
+2×2= 6x
+2-18x
+2
+2= +4
+3x
+4-18x
+3+33x
+2-18x+4 6x
+4-36x
+3+66x
+2-36x+8
+To find the cube root of a polynomial, arrange the terms with reference to
+the powers of some number; take the cube root of the first term for the first
+term of the root, and subtract its cube from the polynomial; take three times
+the square of the root already found for a trial divisor, divide the first term of
+the remainder by it, and write the quotient for the next term of the root; add
+to the trial divisor three times the product of the first term by the second and
+the square of the second; multiply the complete divisor by the second term of
+the root, and subtract the product from the remainder. If there are other terms
+remaining, consider the root already found as one term, and proceed as before.
+Exercise 29
+.
+Find the cube root of each of the following:
+1. 27x
+3 - 27x
+2y + 9xy2 - y
+3
+.
+2. 15x
+2 - 1 - 75x
+4 + 125x
+6
+.
+3. 144a
+2
+b
+2 + 27b
+6 + 108ab4 + 64a
+3
+.
+54
+4. x
+6 - 8y
+6 + 12x
+2y
+4 - 6x
+4y
+2
+.
+5. 1 + 9x + 27x
+2 + 27x3.
+6. 1 - 21m - 343m3 + 147m2
+.
+7. 3x
+2 + 64x
+6 - 24x
+4 -
+1
+8
+.
+8. 27x
+9 +
+1
+27 + x
+3 + 9x
+6
+.
+9. 8a
+6 + 18a
+4 + 9a
+2 - 12a
+5 - 13a
+3 - 3a + 1.
+10. x
+9 - 7x
+6 + x
+3 - 3x
+4 - 3x
+8 + 6x
+7 + 6x
+5
+.
+11. 5x
+3 - 3x - 3x
+5 - 1 + x
+6
+.
+12. 1
+8
+a
+6 +
+3
+2
+a
+5 + 5 1
+4
+a
+4 + 2a
+3 - 10 1
+2
+a
+2 + 6a - 1.
+13. A board is 8x inches long and 2x inches wide. What is the length of a
+square board having the same area?
+14. If 3x represents the edge of a cubical box, what represents the cubical
+contents of the box?
+15. If a cubical cistern contains 64y
+3
+cubic feet, how long is one edge?
+16. A man travels north a miles, and then south b miles. How far is he from
+the starting-point? How far has he traveled?
+Exercise 30.
+Find the indicated roots:
+1. v
+2025.
+2. v
+9409.
+3. v
+20449.
+4. v
+904401.
+5. v
+70.56.
+6. v
+.9025.
+7. v
+94864.
+8. v
+.00000784
+9. v3
+59.319.
+10. v3
+389017.
+11. v3
+241804.367.
+55
+12. v
+7039.21.
+13. v3
+35.287552.
+14. v
+2550.25.
+15. v
+34.78312 to three decimal places.
+16. v
+7 to three decimal places.
+17. v3
+.1255 to three decimal places.
+18. A merchant bought a bale of cloth containing just as many pieces as there
+were yards in each piece. The whole number of yards was 1089. What
+was the number of pieces?
+19. A regiment, consisting of 5476 men, is to be formed into a solid square.
+How many men must be placed in each rank?
+20. What is the depth of a cubical cistern which contains 5000 gallons of
+water? (1 gallon = 231 cubic inches.)
+21. A farmer plants an orchard containing 8464 trees, and has as many rows
+of trees as there are trees in each row. What is the number of trees in
+each row?
+56
+FACTORS AND
+MULTIPLES
+FACTORING.
+23. When we divide a number into two numbers, which multiplied together will
+give a product equal to the given number, we have found the factors of that
+number. This process is called factoring.
+Name two factors of 48, 27, 18, 35, 49, 72.
+Name three factors of 24, 100, 75, 64, 72, 40.
+24. CASE I. To factor a polynomial which has a factor common
+to all its terms.
+ILLUS. Factor 2ab + 6ac + 4ad.
+2a 2ab + 6ac + 4ad
+b + 3c + 2d
+? 2ab + 6ac + 4ad = 2a (b + 3c + 2d).
+Divide the polynomial by the largest factor common to the terms. The quotient
+and divisor are the factors of the polynomial.
+Exercise 31.
+Factor:
+1. 5a
+2 - 25.
+2. 16 + 64xy.
+3. 2a - 2a
+2
+.
+4. 15a
+2 - 225a
+4
+.
+5. x
+3 - x
+2
+.
+6. 3a
+2 + a
+5
+.
+7. a
+2 - ab2
+.
+57
+8. a
+2 + ab.
+9. 6a
+3 + 2a
+4 + 4a
+5
+.
+10. 7x - 7x
+3 + 14x
+4
+.
+11. 3x
+3 - x
+2 + x.
+12. a
+3 - a
+2y + ay2
+.
+13. 3a(x + y) + 5mb(x + y) - 9d
+2x(x + y).
+14. 4(a - b) - 15xy(a - b) + (a - b) - 5a
+2
+b(a - b).
+15. 4x
+3y - 12ax2 - 8xy3
+.
+16. 6ax3y
+5 - 4ax2y
+6 + 2axy7 - 2a
+2xy9
+.
+17. 51x
+5y - 34x
+4y
+2 + 17x
+2y
+4
+.
+18. 6a
+2
+b
+2 - 3a
+3
+b
+3
+c - 9ab3
+c + 3abc2
+.
+19. 3ax7 - 24ax + 9ax5 - 3ax4 - 9ax6
+.
+20. 27a
+8
+b
+2
+c
+3 - 81a
+7
+b
+3
+c
+3 + 81a
+6
+b
+4
+c
+3 - 27a
+5
+b
+5
+c
+3 - 27a
+5
+b
+2
+c
+6
+.
+21. A lady bought a ribbon for m cents, some tape for d cents, and some
+thread for c cents, for which she paid x cents on account. How much
+remains due?
+22. Julia has the same number of beads in each hand. If she should change
+two from her left hand to her right hand, the right hand would contain
+twice as many as the left. How many beads has she?
+Sometimes a polynomial in the form given has no factor common to all its
+terms, but has factors common to several terms. It may be possible then to
+group the terms in parentheses so that there will be a binomial or trinomial
+factor common to all the terms of the polynomial in its new form.
+ILLUS. 1. Factor 2am + 2ax + bm + bx.
+2am + 2ax + bm + bx = 2a(m + x) + b(m + x).
+m + x 2a(m + x) +b(m + x)
+2a +b
+? 2am + 2ax + bm + bx = (m + x)(2a + b).
+ILLUS. 2. Factor a
+8 + a
+6 - a
+5 - a
+3 + a
+2 + 1.
+a
+8 + a
+6 - a
+5 - a
+3 + a
+2 + 1 = a
+6
+(a
+2 + 1) - a
+3
+(a
+2 + 1) + (a
+2 + 1).
+a
+2 + 1 a
+6
+(a
+2 + 1) -a
+3
+(a
+2 + 1) +(a
+2 + 1)
+a
+6 -a
+3 +1
+? a
+8 + a
+6 - a
+5 - a
+3 + a
+2 + 1 = (a
+2 + 1)(a
+6 - a
+3 + 1).
+58
+Exercise 32.
+Factor:
+1. ax + ay + bx + by.
+2. x
+2 + ax + bx + ab.
+3. ax2 + ay2 - bx2 - by2
+.
+4. x
+2 - ax + 5x - 5a.
+5. ax - bx + ab - x
+2
+.
+6. x
+2 + mxy - 4xy - 4my2
+.
+7. 2x
+4 - x
+3 + 4x - 2.
+8. mx - ma - nx + na.
+9. x
+3 + x
+2 + x + 1.
+10. y
+3 - y
+2 + y - 1.
+11. x
+5 + x
+4 - x
+3 - x
+2 + x + 1.
+12. a
+2x + abx + ac + aby + b
+2y + bc.
+13. ax - bx + by + cy - cx - ay.
+14. 3ax + 3ay - 2bx - 2by.
+15. 2ax - 3by + cy - 2ay + 3bx - cx.
+16. 6amx + 3amy - 6anx - 3any.
+17. A man had 250 acres of land and 30 houses. After trading x of his houses
+for y acres of land, how many has he of each?
+18. What is the number that will become four times as large by adding 36 to
+it?
+19. The fifth and seventh of a number are together equal to 24. What is the
+number?
+25. CASE II. To factor the difference of the squares of two numbers.
+ILLUS. 1. a
+2 - b
+2 = (a + b)(a - b).
+ILLUS. 2. 9x
+2y
+4 - 49a
+4
+b
+12 = (3xy2 + 7a
+2
+b
+6
+)(3xy2 - 7a
+2
+b
+6
+).
+ILLUS. 3.
+x
+8 - y
+8 = (x
+4 + y
+4
+)(x
+4 - y
+4
+) = (x
+4 + y
+4
+)(x
+2 + y
+2
+)(x
+2 - y
+2
+)
+= (x
+4 + y
+4
+)(x
+2 + y
+2
+)(x + y)(x - y).
+Write two factors, of which one is the sum and the other the difference of
+the square roots of the terms.
+59
+Exercise 33.
+Factor:
+1. x
+2 - y
+2
+.
+2. m2 - n
+2
+.
+3. a
+2
+b
+4 - c
+2d
+2
+.
+4. m2p
+4 - x
+6y
+4
+.
+5. a
+6
+b
+2x
+4 - m4
+c
+8y
+10
+.
+6. x
+2y
+4
+z
+4 - c
+2d
+2m4
+.
+7. x
+4y
+2 - a
+6y
+4
+.
+8. g
+6
+c
+6 - x
+6
+z
+8
+.
+9. 4a
+2 - 9x
+2
+.
+10. 16m2 - 9n
+2
+.
+11. 81x
+2y
+4 - 25b
+2d
+2
+.
+12. 729m4
+c
+2x
+10 - 10, 000y
+4
+.
+13. 121m2 - 64x
+2
+.
+14. x
+4 - y
+4
+.
+15. m8 - a
+8
+.
+16. a
+4
+b
+8 - l.
+17. x
+16 - b
+16.
+18. 16a
+4 - 1.
+19. a
+4 - ax2
+.
+20. 5b
+4 - 5a
+2
+b
+2
+.
+21. ax2 - ay2 - bx2 + by2
+.
+22. 5ax - 5a
+3x + 5ay - 5a
+3y.
+23. m2 - y
+2 - am + ay.
+24. a
+2 - x
+2 - a - x.
+25. By how much does x exceed 3y?
+26. Eleven years ago C was three times as old as D whose age was x years.
+What is C’s present age ?
+60
+26. CASE III. To factor the sum of the cubes of two numbers.
+ILLUS. 1. Divide a
+3 + b
+2 by a + b.
+ILLUS. 2. Divide m3 + n
+3y
+3 by m + ny.
+ILLUS. 3. Divide 8a
+6 + b
+3
+c
+9 by 2a
+2 + bc3
+.
+Notice in each case above:
+1. That the divisor is the sum of the cube roots of the terms of the dividend.
+2. That the quotient is the square of the first term of the divisor, minus the
+product of the first term by the second, plus the square of the second.
+Write two factors, one of which is the sum of the cube roots of the terms,
+and the other the quotient obtained by dividing the original number by the first
+factor.
+Exercise 34
+Factor:
+1. x
+5 + y
+5
+2. c
+3 + d
+3
+3. a
+3 + b
+3
+c
+3
+4. a
+3x
+3 + y
+3
+5. 8a
+5
+b
+3
+c
+6 + m6
+6. x
+6y
+3 + 216a
+3
+7. a
+6 + b
+6
+8. 64x
+6 + y
+6
+9. x
+3 + 8
+10. 27 + a
+3
+b
+6
+11. y
+3 + 1
+12. 1 + b
+3
+c
+3
+13. 1
+8
+a
+6
+b
+3 + c
+0
+14. 1
+27x
+3 + 1
+15. (m + n)
+3 + 8
+16. 1 + (x - y)
+3
+17. 2a
+2x
+3y
+6 + 2a
+8
+b
+9
+61
+18. mx + my - nx - ny
+19. a
+3x + b
+3x - a
+3y - b
+3y
+20. a
+6 - b
+6
+21. 729x
+6 - 64y
+6
+22. 1 - x
+8
+23. A had d dollars, but, after giving $26 to B, he had one-third as many as
+B. How many has B? How many had B at first?
+24. How many units in y tens?
+25. If the sum of two numbers is x, and one of the numbers is 8, what is the
+other number?
+26. What does a
+3 mean? What does 3a stand for? What is the product of x
+4
+and 0?
+27. CASE IV. To factor the difference of the cubes of two numbers.
+ILLUS. I. Divide a
+3 - b
+3 by a - b.
+ILLUS. 2. Divide 27a
+6
+b
+9 - c
+3d
+12 by 3a
+2
+b
+3 - cd4
+.
+Notice in each case above:
+1. That the divisor is the difference of the cube roots of the terms of the
+dividend.
+2. That the quotient is the square of the first term of the divisor, plus the
+product of the first by the second, plus the square of the second.
+Write two factors, one of which is the difference of the cube roots of the
+terms, and the other the quotient obtained by dividing the original number by
+the first factor.
+Exercise 35.
+Factor:
+1. x
+3 - a
+3
+2. c
+3 - b
+3
+3. a
+3 - x
+3y
+3
+.
+4. m3n
+3 - c
+3
+.
+5. 27m3 - 8x
+3
+.
+6. 8x
+3 - 64y
+3
+62
+7. 64a
+3x
+6
+b
+3 - 125m9
+c
+3y
+6
+.
+8. 27b
+3
+c
+6y
+3 - 216a
+9m6x
+6
+.
+9. 8x
+9y
+3 - 125.
+10. 27 - 64m3x
+6y
+3
+.
+11. a
+3 - b
+6
+.
+12. m6 - x
+3
+.
+13. x
+3 - 1.
+14. 1 - y
+3
+.
+15. 1
+27x
+3y
+6 - b
+9
+.
+16. 8 -
+1
+64m6n
+3
+.
+17. 1 - (a + b)
+3
+.
+18. x
+3y
+3 - (x - y
+2
+)
+3
+.
+19. x
+7 - xy3
+.
+20. ab3 - ac3 + mb3 - mc3
+.
+21. x
+6 - y
+6
+into four factors.
+22. x
+6 - x
+5 + x
+3 - x
+2 - x + 1.
+23. a
+2 - b
+2 + a
+3 - b
+3
+.
+24. mx3 + my3 - x - y.
+25. How many hours will it take x men to dig 75 bushels of potatoes if each
+man digs y bushels an hour?
+26. If there are x tens, y units, and z hundreds in a number, what will represent
+the whole number of units?
+28. CASE V. To factor trinomials which are perfect squares.
+Square c + b, c - b, x2 - y
+2
+, 3mn3 + y
+2
+, 2a
+2
+bc - 3x
+2yz3
+. How are the first and
+last terms of these trinomial squares formed? How is the middle term formed?
+When is a trinomial a square?
+Name those of the following trinomials which are squares:
+1. m2 - 2mp + p
+2
+.
+2. x
+2 + 2xy - y
+2
+.
+3. 4x
+2 - 4xy + y
+2
+.
+63
+4. x
+4 + 6x
+2y + 9y
+2
+.
+5. a
+4 - 18a
+2 + 9.
+6. 9b
+4 + 12d
+2 + 4.
+7. 16y
+4 - 8y
+2 + 1.
+8. 25c
+8d
+6 + 20c
+4d
+3x + 4x
+2
+.
+ILLUS. 1. a
+2 + 2ab + b
+2 = (a + b)(a + b) = (a + b)
+2
+.
+ILLUS. 2. a - 2ab + b = (a - b)(a - b) = (a - b)
+2
+.
+ILLUS. 3. 9a
+2 - 12ab + 4b
+2 = (3a - 2b)
+2
+.
+Write two binomial factors, each of which consists of the square roots of the
+squares connected by the sign of the middle term.
+Exercise 36.
+Factor:
+1. a
+2 + 2ax + x
+2
+.
+2. c
+2 - 2cd + d
+2
+.
+3. 4a
+2 + 4ay + y
+2
+.
+4. a
+2 + 4ab + 4b
+2
+.
+5. x
+2 - 6cx + 9c
+2
+.
+6. 16x
+2 - 8xy + y
+2
+.
+7. a
+2 + 2a + 1.
+8. 9 - 6x + x
+2
+.
+9. x
+2 - 10x + 25.
+10. 4y
+2 - 12y + 9.
+11. 9x
+2 + 24x + 16.
+12. 81a
+4 - 18a
+2 + 1.
+13. 9c
+2 + 66cd + 121d
+2
+.
+14. 4y
+2 - 36y + 81.
+15. x
+4 - 6x
+2y + 9y
+2
+.
+16. 9 - 12x
+2 + 4x
+4
+.
+17. 16x
+2y
+4 - 24a
+3xy2 + 9a
+6
+.
+64
+18. 25b
+2 + 30bc2y + 9c
+4y
+2
+.
+19. 49a
+2 + 28ax2y + 4x
+4y
+2
+.
+20. 1
+9
+x
+4 -
+2
+3
+x
+2y
+2 + 4y
+4
+.
+21. 1
+4
+a
+2 + 2ab + 4b
+2
+.
+22. 4
+9
+x
+6y
+2 -
+4
+3
+x
+3yz4 + z
+8
+.
+23. x
+9 - 4x
+6y
+4 + 4x
+3y
+8
+.
+24. 18a
+2y + 24ay3 + 8y
+5
+.
+25. 3a
+3x
+5 - 30a
+2
+bx4 + 75ab2x
+3
+.
+26. (x + y)
+2 - 2a
+2
+(x + y) + a
+4
+.
+27. (m2 - n
+2
+)
+2 - 2(m4 - n
+4
+) + (m2 + n
+2
+)
+2
+.
+28. a
+2 + 2ab + b
+2 + 6a + 6b.
+29. x
+2 + y
+2 - 3x - 2xy + 3y.
+30. x
+6 + y
+6 - 2x
+3y
+3
+.
+What must be added to the following to make them perfect squares?
+31. a
+2 + 2xy.
+32. m6 + 6m3y.
+33. c
+2 + d
+2
+.
+34. (x - y)
+4 + 2(x - y)
+2
+.
+35. (c - d)
+2 - 6(c - d).
+36. 9x
+4y
+2 - 12x
+2y
+3
+.
+37. 30xy4 + 9x
+2y
+6
+.
+38. 25a
+2
+b
+2 + 36b
+4
+c
+2
+.
+39. 49a
+2
+b
+2
+c
+2 + 25a
+2
+b
+4d
+2
+.
+40. a
+4 - 22a
+2 + 9 (two numbers).
+41. 64a
+2 - 177ay + 121y
+2
+.
+42. a
+4 - 10a
+2
+b
+2 + 9b
+4
+.
+43. x
+4 + x
+2 + 1.
+44. a
+2 + a + 1.
+65
+45. A stream flows at the rate of a miles an hour, and a man can row in still
+water b miles an hour. How far can the man row up the stream in an
+hour? In 6 hours? How far down the stream in an hour? In 3 hours?
+46. A cistern can he filled by two pipes in 3 hours and 5 hours respectively.
+What part of the cistern will be filled by both pipes running together for
+one hour?
+47. Nine years ago Henry was three times as old as Julius. If Henry is b years
+old, how old was Julius then? How old is Julius now?
+29. CASE VI. To factor trinomials in the form x
+2 ± cx ± d.
+This is the reverse of the case under Multiplication given in Art. 14.
+ILLUS. 1. x
+2 + 14x + 45 = (x + 9)(x + 5).
+ILLUS. 2. x
+2 - 6x + 5 = (x - 5)(x - 1).
+ILLUS. 3. x
+2 + 2x - 3 = (x + 3)(x - 1).
+ILLUS. 4. x
+2 - 8x - 20 = (x - 10)(x + 2).
+Write two binomial factors, the first term of each being the square root of
+the first term of the given trinomial, and for the second terms of the factors
+find two numbers whose algebraic sum is the coefficient of the second term and
+whose product is the last term.
+Exercise 37.
+Factor:
+1. a
+2 + 3a + 2.
+2. x
+2 + 9x + 18.
+3. x
+2 - 5x + 6.
+4. a
+2 - 7a + 10.
+5. y
+2 - 10y + 16.
+6. c
+2 - c - 6.
+7. x
+2 + 4x - 5.
+8. x
+2 + 5x - 6.
+9. y
+2 + 8y - 65.
+10. a
+2 - 4a - 77.
+11. x
+2 - 2x - 63.
+12. a
+2 + 10a - 75.
+13. a
+2 - 24a + 143.
+66
+14. x
+6 - 4x
+3 - 117.
+15. x
+6 + 4x
+3 - 77.
+16. 30 + 11x + x
+2
+.
+17. 21 + 10a + a
+2
+.
+18. 35 - 12x + x
+2
+.
+19. 36 - 13x + x
+2
+.
+20. c
+2 + 2cd - 3d
+2
+.
+21. a
+2 + 8ax + 15x
+2
+.
+22. x
+2 - xy - 20y
+2
+.
+23. x
+4 + x
+2y - 12y
+2
+.
+24. x
+4 - 14x
+2y
+2 + 45y
+4
+.
+25. x
+5 - 23x
+4 + 132x
+3
+.
+26. a
+6 - 12a
+5 + 35a
+4
+.
+27. 3ax4 - 39ax2 + 108a.
+28. 3a
+3 - 12a
+2
+b + 12ab2
+.
+29. c
+5d
+3 - c
+2 - a
+2
+c
+3d
+3 + a
+2
+.
+30. ax2 + bx2 - 5bx - 5ax + 6b + 6a.
+31. A field can be mowed by two men in a hours and b hours respectively.
+What part of the field can be mowed by both men working together for
+one hour?
+32. In how many days can two men do as much as x men in 7 days?
+Exercise 38. (Review.)
+1. Divide 50a + 9a
+4 + 24 - 67a
+2 by a + a
+2 - 6.
+2. Find the square root of
+12y
+5 - 14y
+3 + 1 - 8y
+4 + 4y + 9y
+6
+.
+3. Expand (x + y)(x - y)(x
+2 + y
+2
+).
+4. What must be subtracted from a
+3 - 5a
+2 + 27a - 1 to produce a + 1?
+5. Expand ¡
+x
+2y - 4z
+3a
+4
+¢3
+.
+Factor:
+67
+6. x
+2 - 11x + 10.
+7. (a + b)
+2 - (c + d)
+2
+.
+8. 6x
+3 + 4x
+2 - 9x - 6.
+9. 9x
+8 - 66x
+6 + 121x
+4
+.
+10. 8c
+6 - d
+9
+.
+11. 1 + 64x
+3
+.
+12. a
+6 - 1.
+13. x
+3 + 2x
+2 - x - 2.
+14. x
+5 - y
+5
+.
+15. 27 + 12x + x
+2
+.
+16. Find the cube root of 96m - 64 - 40m3 + m6 + 6m5
+.
+17. Simplify (m + 2n)
+2 - (2m - n)
+2
+.
+18. Simplify (5 + 7x)(5 - 7x) - (3 + 2x)
+2 + (x - 9)(x - 4).
+19. Simplify (y + x)(y
+2 - xy + x
+2
+) - (y - x)(y
+2 + yx + x
+2
+).
+20. Find three consecutive numbers whose sum is 57.
+21. What number, being increased by three-fifths of itself, will equal twice
+itself diminished by 24?
+22. Find the value of (4a + 5b)(3a + 4b) - a
+2
+b + b
+3
+c
+2 - c
+3 when a = 0, b = 1,
+and c = 2.
+GREATEST COMMON FACTOR.
+30. What are the factors of 9a
+4
+b
+2+9a
+3
+b
+3
+? Of 3a
+4
+b-3a
+2
+b
+3
+? Which are factors of
+each of them? What is the largest number that is a factor of each of them? This
+number is called their Greatest Common Factor. What factors of the numbers
+does it contain?
+ILLUS. Find the G.C.F. of
+3ac + 3bc and 6a
+2x + 12abx + 6b
+2x.
+3ac + 3bc = 3c(a + b)
+6a
+2x + 12abx + 6b
+2x = 6x(a + b)(a + b)
+G.C.F. = 3(a+b)=3a+3b
+To find the G.C.F. of two or more numbers, find the prime factors of each
+of the numbers and take the product of the common factors.
+68
+Exercise 39.
+Find the G.C.F. of each of the following:
+1. 3a
+4
+b
+3 + 6a
+2
+b
+5 and 9a
+3
+b
+2 + 18ab3
+.
+2. 5x
+5y - 15x
+2y
+2 and 15x
+3y
+3 - 45xy5
+.
+3. 2x
+5y
+4 + 2x
+2y
+7 and 6x
+3y
+3 - 6xy5
+.
+4. 3a
+6
+b - 3a
+3
+b
+4 and 12a
+4
+b
+4 - 12a
+2
+b
+6
+.
+5. mx - ma - nx + na and m3 - n
+3
+.
+6. 81x
+8 - 16 and 81x
+8 - 72x
+4 + 16.
+7. x
+2 - 20 - x, 3x
+2 - 24x + 45, and x
+2 - 5x.
+8. x
+2 + x - 6, x
+2 - 15 - 2x, and 3x
+2 - 27.
+9. a
+4 - 16, a2 - a - 6, and (a
+2 - 4)2
+.
+10. y
+3 - y, y
+3 + 9y
+2 - 10y, and y
+4 - y.
+11. x
+2 - y
+2
+, xy - y
+2 + xz - yz, and x
+3 - x
+2y + xy2 - y
+3
+.
+12. 3ac5d
+3 - 3ac2 - 3a
+3
+c
+3d
+3 + 3a3 and 9a
+2
+c
+4 - 9a
+6
+.
+13. 64x
+11 - 8x
+2y
+6 and 12x
+8 + 3x
+2y
+4 - 12x
+5y
+2
+.
+14. A merchant mixes a pounds of tea worth x cents a pound with b pounds
+worth y cents a pound. How much is the mixture worth per pound?
+15. If a man bought a horse for x dollars and sold him so as to gain 5%, what
+will represent the number of dollars he gained?
+16. The difference between two numbers is 6, and if 4 be added to the greater,
+the result will be three times the smaller. What are the numbers?
+Of how many terms does the expression x
+3 - 4x
+2y + y
+3
+consist? How
+many factors has each of the terms? What is the value of a number, one
+of whose factors is zero?
+LEAST COMMON MULTIPLE.
+31. ILLUS. 1. 12a
+2
+b
+3
+is the least common multiple of 3a
+2
+b and 4ab3
+. How
+many of the factors of 3a
+2
+b are found in the L.C.M.? How many of the factors
+of 4ab3
+?
+ILLUS. 2. Find the L.C.M. of 9ac + 9bc, 3a
+2x - 3b
+2x, and ax2 - bx2
+.
+9ac + 9bc = 9c(a + b)
+3a
+2x - 3b
+2x = 3x(a + b)(a - b)
+ax2 - bx2 = x
+2
+(a - b)
+L.C.M. = 9cx2
+(a + b)(a - b)
+69
+To find the L.C.M. of two or more numbers, find the prime factors of each
+number, take the product of the different factors, using each the greatest number
+of times it is found in any of the numbers.
+Exercise 40
+.
+Find the L.C.M. of each of the following:
+1. a
+2 - 4 and a
+2 + 3a - 10.
+2. x
+3 + 1 and x
+2 + 2x + 1.
+3. x
+2 - 2x - 15 and x
+2 - 9.
+4. x
+4 - 4x
+2 + 3 and x
+6 - 1.
+5. x
+2 - 1, x
+2 - 4x + 3, and 2x
+2 - 2x - 12.
+6. a
+3 + 1 + 3a + 3a
+2 and am - 2 - 2a + m.
+7. a
+2 - 4, a
+2 + 3a - 10, a
+2 - 25, a
+2 - 9, a
+2 - 8a + 15, and a
+2 + 5a + 6.
+8. x
+3 - 1 - 3x
+2 + 3x and xy - 3 - y + 3x.
+9. x
+2 - 1, x
+2 - 9, x
+2 - 2x - 3, x
+2 - 16, x
+2 - x - 12, x
+2 + 5x + 4.
+10. x
+6 + x
+3
+, 2x
+4 - 2x
+2
+, and x
+2 + x.
+11. a
+4 + 2a
+2 + 1, 1 - 2a
+2 + a
+4
+, and 1 - a
+4
+.
+12. a
+2
+z - x
+2
+z, 3ax - 3x
+2
+, and 2ax + 2a
+2
+.
+13. am + an - 3m - 3n, m2 - n
+2
+, and a
+2 - 10a + 21.
+14. 3b - 3b
+2
+, 1 - b
+3
+, and 2x - 2b
+2x.
+15. a
+2 - x
+2 - a - x, 5a
+2
+b - 10abx + 5bx2
+, and a
+2
+b - abx - ab.
+16. The thermometer now indicates c degrees above zero, but yesterday it
+indicated y degrees below zero. How much warmer is it to-day than yesterday?
+17. A certain county extends from b degrees north latitude to y degrees north
+latitude. What is the extent of the county from north to south?
+18. If A can build a wall in x days, what part of the wall will he build in two
+days?
+19. How many times can x
+3 + 12 be subtracted from x
+6 + 24x
+3 + 144?
+20. Divide $2142 between two men so that one shall receive six times as much
+as the other.
+70
+Exercise 41.4
+1. Reduce to lowest terms:
+3
+6
+,
+6
+9
+,
+4
+10 ,
+12
+14 ,
+2
+16 ,
+9
+36 ,
+8
+22 ,
+8
+20 ,
+7
+8
+,
+9
+30 ,
+25
+150 ,
+490
+560 ,
+75
+325 .
+2. Change:
+a.
+1
+4
+to 8ths.
+b.
+5
+6
+to 12ths.
+c.
+7
+8
+to 32ds.
+d.
+3
+5
+to 25ths.
+e.
+2
+3
+to 21sts.
+f.
+9
+10 to 50ths.
+g.
+3
+7
+to 28ths.
+h.
+5
+9
+to 36ths.
+i.
+6
+13 to 39ths.
+3. How many 15ths in 3
+5
+,
+2
+3
+,
+4
+5
+, 3, 1 2
+5
+, 2 2
+3
+?
+4. How many 12ths in 1
+6
+,
+3
+4
+,
+5
+6
+, 4, 9, 2 1
+3
+, 7 3
+6
+?
+5. Change to equivalent fractions:
+a. 2 5
+6
+.
+b. 3 3
+4
+.
+c. 12 2
+3
+.
+d. 27 1
+8
+.
+e. 9 6
+7
+.
+f. 18 2
+5
+.
+6. Change to equivalent entire or mixed numbers:
+a.
+12
+6
+.
+b.
+15
+8
+.
+c.
+17
+4
+.
+d.
+84
+12 .
+e.
+57
+8
+.
+f.
+61
+5
+.
+g.
+125
+6
+.
+h.
+97
+11 .
+i.
+225
+7
+.
+4This exercise should be conducted orally, and if, at any point, the students do not readily
+recall the method, the examples of that class should be duplicated till the principle is clear.
+71
+7. Change to equivalent fractions having L. C. D.:
+a.
+1
+2
+,
+3
+4
+,
+2
+3
+.
+b.
+2
+3
+,
+5
+8
+,
+7
+12 .
+c.
+1
+4
+,
+2
+5
+,
+3
+10 .
+d.
+2
+3
+,
+4
+5
+,
+1
+6
+.
+e.
+7
+8
+,
+1
+5
+,
+1
+2
+.
+f.
+14
+15 ,
+11
+20 ,
+7
+9
+,
+1
+5
+.
+8. Add:
+a.
+1
+2
+and 1
+3
+.
+b.
+1
+4
+and 1
+5
+.
+c.
+1
+6
+and 1
+2
+.
+d.
+2
+3
+and 3
+4
+.
+e.
+2
+5
+and 1
+6
+.
+f.
+3
+7
+and 5
+6
+.
+g. 2 1
+3
+and 3 1
+5
+.
+h. 4 2
+5
+and 11 5
+6
+.
+i. 14 3
+4
+and 27 4
+7
+.
+9. Subtract:
+a.
+1
+4
+from 1
+2
+.
+b.
+1
+7
+from 1
+4
+.
+c.
+1
+9
+from 1
+6
+.
+d.
+2
+5
+from 7
+10 .
+e.
+3
+7
+from 5
+6
+.
+f.
+4
+9
+from 1
+2
+.
+g. 2 1
+5
+from 5 1
+2
+.
+h. 6 3
+5
+from 15 3
+6
+.
+i. 27 7
+8
+from 29 1
+3
+.
+10. Find the product of:
+a.
+2
+7
+by 3.
+b.
+3
+10 by 2.
+c.
+3
+8
+by 6.
+d. 5 by 2
+9
+.
+e. 9 by 7
+18 .
+f. 4 by 5
+6
+.
+72
+g. 2
+34
+by 5.
+h. 12
+39
+by 3.
+i. 25 by 2
+25
+.
+j
+.
+12
+by
+15
+.
+k
+.
+13
+by
+45
+.
+l
+.
+59
+by
+37
+.
+m
+.
+33
+54 by 12
+44
+.
+n. 15
+25
+by
+23
+.
+o. 24
+14
+by
+58
+.
+p. 36
+25
+by
+59
+.
+q. 2
+13
+by 5
+12
+.
+r. 3
+56
+by 4
+35
+.
+11. Divide: a.
+12
+17 by 3.
+b
+.
+10
+27 by 5.
+c
+.
+57
+by 4.
+d
+.
+34
+by 12.
+e. 728 14
+15 by 7.
+f. 843
+15
+by 8.
+g. 679
+12
+by 6.
+h
+.
+14
+by
+18
+.
+i
+.
+23
+by
+27
+.
+j
+.
+49
+by
+38
+.
+k. 6 by
+23
+.
+l. 9 by
+56
+.
+m
+.
+12
+25 by
+9
+20
+.
+n. 3
+12
+by 1
+34
+.
+o. 3
+35
+by 2
+25
+.
+p. 48 by 3
+15
+.
+q. 63 by 4
+23
+.
+r
+.
+56
+by
+38
+.
+12. Simplify: a. 45 + 12
+-
+13 = ?
+b
+.
+34
++
+23
+34
+-
+23
+= ?
+73
+c.
+5
+6 -
+1
+4 +
+4
+5 = ?
+d.
+2
+1
+3
+4
+1
+5
+= ?
+13. 16 is 4
+7
+of what number?
+14. 3
+4
+is what part of 7?
+15. 2
+5
+is what part of 5
+6
+?
+16. What is 5
+8
+of 4
+15 ?
+17. If 2
+3
+of a number is 20, what is 2
+5
+of the number?
+18. 2
+3
+of 60 is 4
+9
+of what number?
+74
+FRACTIONS.
+32. In the previous exercise the different operations performed upon fractions
+in arithmetic have been reviewed. The principles and methods of operation are
+the same in algebra.
+REDUCTION OF FRACTIONS.
+33. ILLUS. 1. Reduce 5a
+2
+b
+10ab2 to lowest terms.
+5a
+2
+b ÷ 5ab
+10ab2 ÷ 5ab =
+a
+2b
+ILLUS. 2. Reduce a
+2
+bx-b
+3x
+a2bx-ab2x
+to lowest terms.
+a
+2
+bx - b
+3x
+a
+2bx - ab2x
+=
+bx(a
+2 - b
+2
+) ÷ bx(a - b)
+abx(a - b) ÷ bx(a - b)
+=
+a + b
+a
+To reduce a fraction to its lowest terms, divide the terms of the fraction by
+their greatest common factor.
+Exercise 42.
+Reduce to lowest terms:
+1. 15x
+3
+y
+2
+z
+40x
+2
+y
+2
+z
+2
+.
+2. 12x
+5
+y
+2
+z
+3
+30xy3
+z
+3
+.
+3.
+x
+2 - 7x + 12
+x
+3 + x - 20
+.
+4. x
+2 + 9x + 18
+x
+2 - 2x - 15
+.
+5.
+a
+6 + a
+4
+a
+4 - 1
+75
+6.
+x
+5 - x
+2
+x
+6 - 1
+7.
+mx - ny + nx - my
+ax - 2by + 2bx - ay
+8.
+ac - bd + ad - bc
+ax - 2by + 2ay - bx
+9.
+ac2d - a
+3d
+3
+a
+3c + a
+4d
+10.
+a
+2xy - x
+3y
+3
+ax2 - x
+3y
+11.
+a
+4 - b
+4
+(a
+2 + 2ab + b
+2)(a
+2 + b
+2)
+12.
+x
+8 - y
+8
+(x
+4 + y
+4)(x
+4 - 2x
+2y
+2 + y
+4)
+13.
+a
+2x
+2 - 16a
+2
+ax2 + 9ax + 20a
+14. a
+4 - 14a
+2 - 51
+a
+4 - 2a
+2 - 15
+15.
+3 + 4x + x
+2
+6 + 5x + x
+2
+16.
+a
+2 - a
+2
+b
+2
+(a - ab)
+2
+17. At two-thirds of a cent apiece, what b apples cost?
+18. James is x times as old as George. If James is a years old, how old is
+George?
+34. ILLUS. 1. Change ac-bc-d
+c
+to an equivalent entire or mixed number.
+ac - bc - d
+c
+= a - b -
+d
+c
+To find an entire or mixed number equivalent to a given fraction, divide the
+numerator by the denominator.
+ILLUS. 2. Change to equivalent fractions b +
+a
+c
+, b -
+a-x
+c
+.
+b +
+a
+c
+=
+bc + a
+c
+, b -
+a - x
+c
+=
+bc - a + x
+c
+To find a fraction equivalent to a given mixed number, multiply the entire
+part by the denominator of the fraction, add, the numerator if the sign of the
+76
+fraction be plus, subtract it if the sign be minus, and write the result over the
+denominator.
+How may an entire number be changed to a fraction having a given denominator?
+ILLUS. 3. Change a
+b
+,
+c
+d
+, and x
+ab to equivalent fractions having a common
+denominator.
+a × ad = a
+2d
+b × ad abd
+c × ab = abc
+d × ab abd
+x × d = xd
+ab × d abd
+To change fractions to equivalent fractions having a common denominator,
+multiply the terms of each fraction by such a number as will make its denominator
+equal to the L.C.M. of the given denominators.
+Exercise 43.
+Change to equivalent entire or mixed numbers:
+1.
+bx - cx + m
+x
+2.
+mn + an + x
+n
+3.
+x
+2 + y
+2 + 3
+x - y
+4. a
+3 + b
+3 + 3
+x - y
+5.
+6a
+3
+b
+2
+c - 9a
+2
+b
+2 + 3c
+3a
+2b
+6.
+6x
+3y
+2 + 10x
+2y
+2
+z - 2m
+2xy2
+7.
+x
+3 + 2x
+2 - 2x + 1
+x
+2 - x - 1
+8.
+2a
+3 + a
+2 - 2a + 1
+a
+2 + a - 2
+9.
+x
+3 + y
+3
+x - y
+10.
+a
+3 - b
+3
+a + b
+77
+11.
+8a
+3
+2a - 1
+12.
+27x
+3
+3x + 1
+13.
+3x
+3 + 8x
+2 + 2
+x
+2 + 2x - 1
+14. 2a
+3 + 3a
+2 + 10a - 4
+a
+2 + 3a + 2
+15.
+2a
+4 + 6a
+3 - 6a + 2
+a
+2 + a - 1
+16.
+3x
+4 - 5x
+3 + x - 1
+x
+2 - x - 1
+Change to equivalent fractions:
+17. x + y -
+xy
+x - y
+18. a - b -
+2ab
+a + b
+19. -c + d +
+c
+3 + d
+3
+c
+2 + cd + d
+2
+20.
+x
+2y + xy2
+x - y
++ x
+2 - y
+2
+21.
+x + 2
+3x - 1
+- x - 2
+22. 2a - 1 -
+a - 2
+a + 3
+23. a
+2 - 3a + 2 -
+a + 3
+2a
+2 - 1
+24. 2x
+2 + x - 3 -
+x - 2
+3x
+2 + 1
+25.
+3x + 2
+x
+2 + x + 2
+- 1.
+26. 1 -
+2a
+2 + 3
+a
+2 - 2a + 3
+.
+27.
+a
+2
+a
+2 - a + 3
+- a
+2 - a - 1.
+78
+28.
+x
+4
+x
+2 + x - 1
+- x
+2 + x - 1.
+Change to equivalent fractions having a common denominator:
+29.
+a
+2
+2
+,
+xy
+3
+,
+5ab2
+4
+.
+30.
+x
+3
+3
+,
+am
+2
+,
+3x
+2y
+5
+.
+31.
+7x
+2
+3y
+,
+5xy
+2a
+,
+x
+3
+ay
+.
+32.
+2a
+2
+7m
+,
+5ab
+3n
+,
+b
+4
+mn
+.
+33.
+5
+y + x
+,
+3x
+x - y
+,
+2ab
+x
+2 - y
+2
+.
+34. 2
+3 + a
+,
+5a
+a - 3
+,
+2ax
+a
+2 - 9
+.
+35.
+b
+2
+a
+2 - ab ,
+a
+2
+b
+a
+2 - b
+2
+.
+36.
+m3
+nm + n2
+,
+m2n
+m2 - n2
+.
+37.
+2
+x
+4 - y
+4
+,
+3
+x
+2 + xy - 2y
+2
+.
+38.
+5
+a
+8 - b
+8
+,
+2
+a
+4 - 4a
+2b
+2 + 3b
+4
+.
+39.
+a - 1
+a
+2 - 2a - 15
+,
+a + 2
+a
+2 + a - 6
+,
+a + 3
+a
+2 - 7a + 10
+.
+40. x + 1
+x
+2 - x - 6
+,
+x - 2
+x
+2 + 6x + 8
+,
+x + 2
+x
+2 + x - 12
+.
+41. x
+2 + 3x + 2
+x
+2 - x - 6
+,
+x
+2 - x
+x
+2 + 5x + 4
+,
+x
+2 - 6x + 9
+x
+2 + x - 12
+.
+42. If x quarts of milk cost m cents, what will one pint cost?
+43. Express four consecutive numbers of which a is the largest.
+44. What is the next even number above 2m?
+45. What is the next odd number below 4a + 1?
+79
+OPERATIONS UPON FRACTIONS.
+ADDITION AND SUBTRACTION.
+35. ILLUS. 1. Find the sum of 6a
+2
+9x2 ,
+2a
+2-a
+9x2 , and -
+3a
+2+1
+9x2 .
+6a
+2
+9x
+2
++
+2a
+2 - a
+9x
+2
++
+µ
+-
+3a
+2 + 1
+9x
+2
+¶
+=
+6a
+2 + 2a
+2 - a - 3a
+2 - 1
+9x
+2
+=
+5a
+2 - a - 1
+9x
+2
+ILLUS. 2. Find the sum of x
+xy-y2 ,
+1
+x-y
+, and -
+1
+y
+.
+x
+xy - y
+2
++
+1
+x - y
++ (-
+1
+y
+) = x
+y(x - y)
++
+y
+y(x - y)
+-
+x - y
+y(x - y)
+=
+2y
+y(x - y)
+=
+2
+x - y
+To add fractions, find equivalent fractions having a common denominator,
+add their numerators, write the sum over the common denominator, and reduce
+to lowest terms.
+ILLUS. 3. Subtract a-4b
+a-2b
+from a-2b
+a
+.
+a - 2b
+a
+-
+a - 4b
+a - 2b
+=
+a
+2 - 4ab + 4b
+2
+a(a - 2b)
+-
+a
+2 - 4ab
+a(a - 2b)
+=
+4b
+2
+a(a - 2b)
+Make a statement of the method of subtracting one fraction from another.
+Exercise 44.
+Find the value of:
+1.
+2a
+3
++
+a
+4
+-
+5a
+6
+.
+2.
+2x
+5
++
+1
+3
+x -
+2x
+3
+.
+3.
+2x
+3
+-
+3x
+4
+-
+4x
+5
+.
+4. 4a
+b
++
+3x
+2m
+.
+5.
+2x
+3
+- x +
+3x
+5
+.
+6.
+m2
+n2
+- 2 +
+n
+2
+m2
+.
+80
+7.
+x
+mn
+-
+x + mn
+3n
++ 2m.
+8.
+2b + x
+3x
++
+5b - 4x
+9x
+.
+9.
+3m - a
+am
++
+b - 2m
+bm -
+3b - 2a
+ab .
+10.
+2a
+2
+a
+2 - b
+2
+-
+2a
+a + b
+.
+11.
+2a - 3b
+a - 2b
+-
+2a - b
+a - b
+.
+12.
+x + 4
+x + 5
+-
+x + 2
+x + 3
+.
+13.
+x - 4y
+x - 2y
+-
+x
+2 - 4y
+2
+x
+2 + 2xy
+.
+14. x - 7
+x + 2
++
+x + 4
+x - 3
+.
+15.
+(x + 2a)
+2
+x
+3 - 8a
+3
+-
+1
+x - 2a
+.
+16.
+x
+6 + x
+3y
+3 + y
+6
+x
+3 + y
+3
++
+x
+6 - x
+3y
+3 + y
+6
+x
+3 - y
+3
+.
+17.
+m - 3
+m + 2
+-
+m - 2
+m + 3
++
+1
+m - 1
+18.
+2(4a + b)
+15a
+2 - 15b
+2
+-
+1
+5(a + b)
+-
+1
+3a - 3b
+19.
+3x
+3 - 3x
+2 + x - 1
+3x
+3 - 3x
+2 - x + 1
+-
+3x
+3 + 3x
+2 - x - 1
+3x
+3 + 3x
+2 + x + 1
+20.
+1
+a
+2 - 7a + 12
+-
+1
+a
+2 - 5a + 6
+21.
+a - 1
+a - 2
++
+5 - 2a
+a
+2 - 5a + 6
++
+a - 2
+a - 3
+22.
+1
+a
+2 + 3a + 2
++
+2a
+a
+2 + 4a + 3
++
+1
+a
+2 + 5a + 6
+23.
+x + 2
+x - 5
++
+x - 3
+x + 4
+-
+2x
+2 - 3x - 2
+x
+2 - x - 20
+24. m - n
+mn
++
+p - m
+mp
++
+n - p
+np
+81
+25.
+a + b
+ab -
+a - c
+ac
+-
+c - b
+bc
+26.
+x
+2 - yz
+(x + y)(x + z)
++
+x
+2 - xz
+(y + z)(y + x)
++
+z
+2
+(z + x)(z + y)
+27. m2 - bx
+(m + b)(m + x)
+-
+mx - b
+2
+(b + x)(b + m)
+-
+mb - x
+2
+(x + m)(x + b)
+28. x is how many times y?
+29. If a is 2
+5
+of a number, what is 1
+5
+of the number?
+30. If x is 3
+7
+of a number, what is the number?
+31. Seven years ago A was four times as old as B. If B is x years old, what is
+A’s present age?
+36. What is the effect of multiplying a number twice by -1? How many
+signs to a fraction?
+Note carefully in the following illustrations the variety of changes that may
+be made in the signs without changing the value of the fraction:
+ILLUS. 1.
+a
+b
+=
+-a
+-b
+= -
+-a
+b
+= -
+a
+-b
+.
+In case the terms of the fraction are polynomials, notice that the change in
+sign affects every term of the numerator or denominator.
+ILLUS. 2.
+a - b
+x - y
+=
+b - a
+y - x
+= -
+b - a
+x - y
+= -
+a - b
+y - x
+.
+ILLUS. 3.
+a - b + c
+x + y + z
+=
+b - c - a
+-x - y - z
+= -
+b - c - a
+x + y + z
+= -
+a - b + c
+-x - y - z
+When the denominator of the fraction is expressed in its factors, the variety
+of changes is increased.
+ILLUS. 4.
+a
+(x - y)(m - n)
+=
+a
+(y - x)(n - m)
+=
+-a
+(y - x)(m - n)
+=
+-a
+(x - y)(n - m)
+=
+-a
+(x - y)(m - n)
+=
+a
+(y - x)(m - n)
+=
+a
+(y - x)(n - m)
+ILLUS. 5.
+82
+a - b
+(x - y)(c - d)
+=
+b - a
+(y - x)(c - d)
+=
+a - b
+(y - x)(d - c)
+= -
+a - b
+(y - x)(c - d)
+= etc.
+What is the effect on the value of a fraction of changing the signs of two
+factors of either denominator or numerator? Why? If the signs of only one
+factor of the denominator are changed, what must be done to keep the value of
+the fraction the same?
+Write three equivalent fractions for each of the following by means of a
+change in the signs:
+1.
+xy
+mn
+2.
+3ab
+2x
+3
+3.
+x + y
+a - b
+4. 1 - x
+3c - a
+2
+5.
+x - y - x
+c + d - a
+6.
+3a - x + y
+2
+m2 + 2c
+2d - z
+Write six equivalent fractions for each of the following:
+7. x
+(a - b)(m - n)
+8.
+3a
+2
+bc
+(2x - y)(a - z)
+9.
+a - m
+(c - d)(x - y)
+10.
+2c + d
+(a - b + c)(x - z)
+Write as many equivalent fractions as possible for each of the following:
+11.
+c
+(a - b)(x - y)(m - n)
+12.
+a
+(c - d)(m - x)(y - b)
+83
+13.
+a
+2x
+(2m - n)(c - x)(d - y
+2)
+14. (x - y)(2a - b)
+(m - x)(a - c)(d - y)
+ILLUS. 1. Find the value of 1
+x+1 -
+1
+1-x -
+x
+x2-1
+.
+1
+x + 1
+-
+1
+1 - x
+-
+x
+x
+2 - 1
+=
+1
+x + 1
++
+1
+x - 1
+-
+x
+x
+2 - 1
+=
+x - 1
+x
+2 - 1
++
+x + 1
+x
+2 - 1
+-
+x
+x
+2 - 1
+=
+x
+x
+2 - 1
+ILLUS. 2. Find the value of 1
+(a-b)(b-c) +
+1
+(b-a)(a-c) +
+1
+(c-a)(c-b)
+.
+1
+(a - b)(b - c)
++
+1
+(b - a)(a - c)
++
+1
+(c - a)(c - b)
+=
+1
+(a - b)(b - c)
+-
+1
+(a - b)(a - c)
++
+1
+(a - c)(b - c)
+=
+a - c
+(a - b)(b - c)(a - c)
+-
+b - c
+(a - b)(b - c)(a - c)
++
+a - b
+(a - b)(b - c)(a - c)
+=
+2a - 2b
+(a - b)(b - c)(a - c)
+=
+2
+(b - c)(a - c)
+Exercise 45.
+Find the value of:
+1.
+2x
+x
+2 - 4
++
+1
+2 - x
++
+1
+2 + x
+.
+2.
+3a
+a
+2 - 9
++
+1
+3 - a
+-
+1
+3 + a
+.
+3. m2 -
+am2
+a - m
+-
+am2
+m + a
+-
+2a
+2m2
+m2 - a
+2
+.
+4. 20a - 4
+4a
+2 - 1
++
+3
+1 - 2a
+-
+6
+1 - 2a
+.
+5.
+1
+x - y
++
+3y
+3
+y
+3 - x
+3
+-
+1
+3(1 + a)
+.
+6.
+a + 3
+6(a
+2 - 1) +
+1
+2(1 - a)
++
+1
+3(1 + a)
+.
+7.
+1
+5(3b - y
+2)
+-
+1
+2(3b + y
+2)
+-
+11b - 7y
+2
+10(y
+4 - 9b
+2)
+.
+84
+8.
+3
+(1 - x)(3 - x)
++
+1
+(2 - x)(x - 3) -
+1
+(x - 1)(x - 2).
+9.
+a
+(a - b)(b - c)
++
+1
+c - a
+-
+a - b
+(c - a)(c - b)
+.
+10.
+1
+(z - a)(z - y)
++
+1
+(a - z)(a - y)
++
+1
+(y - z)(y - a)
+.
+11.
+1
+(1 - x)(1 - y)
+-
+x
+2
+(x - 1)(y - x)
+-
+y
+2
+(y - 1)(x - y)
+.
+12. a -
+a
+2
+a + 1
+-
+a
+1 - a
+.
+13. 1 - a + a
+2 - a
+3 +
+a
+1 + a
+.
+14. 1
+x
+2 - 7x + 12
+-
+2
+x
+2 - 6x + 8
++
+2
+x
+2 - 5x + 6
+.
+15. What will a pounds of rice cost if b pounds costs 43
+cents?
+16. x is 4
+9
+of what number?
+17. m is 5
+x
+of what number?
+18. y is a
+b
+of what number?
+MULTIPLICATION AND DIVISION.
+37. ILLUS. x
+3
+y
+× c =
+x
+3
+c
+y
+,
+4x
+y
+5a
+2bc3
+× ab =
+4x
+2y
+5ac3
+A fraction is multiplied by multiplying the numerator or dividing the denominator.5
+Exercise 46.
+Multiply:
+1.
+a
+b
+2
+by x.
+2.
+3a
+2
+bc
+7x
+2y
+3
+by y
+2
+.
+3.
+1
+2c
+2d
+by a
+2d.
+4. 4abc2
+9x
+2y
+by 3xy.
+85
+5.
+3mn
+2x
+2y
+2
+by 6x
+2y.
+6.
+x - y
+2mn
+by 3x.
+7.
+2a - b
+3x
+2 - xy
+by x.
+8.
+x
+2
+x
+3 - y
+3
+by x - y.
+9.
+3x + 3y
+x - y
+by x
+2 - y
+2
+.
+10.
+a
+2 - 4a - 21
+a
+2 - 3a - 10
+by a - 5.
+11. x + y -
+4xy
+x + y
+by x + y.
+12. a - b +
+4ab
+a - b
+by a - b.
+13.
+1
+x - y + z
++
+2z
+(x - y)
+2 - z
+2
+by x
+2 - xy - xz.
+14. 1
+a - b + c
+-
+2b
+(a + c)
+2 - b
+2
+by ac + bc + c
+2
+.
+15. How many units of the value of 1
+5
+are there in 2?
+16. How many units of the value of 1
+x
+are there in 5?
+17. How many sixths are there in 4a?
+38. ILLUS. xy3
+2c
+÷ y
+3 =
+x
+3c
+,
+5abc
+3mn2
+A fraction is divided by dividing the numerator or multiplying
+the denominator.6
+Exercise 47.
+Divide:
+1.
+a
+2x
+b
+by ax.
+5
+In arithmetic, which of these two methods did you find would apply to all examples?
+When either method may he applied to any given example, which is preferable, and why?
+86
+2.
+3m2n
+2xy
+by 2x.
+3.
+18cd5
+5x
+by 6cd3
+.
+4. 6x
+2y
+m
+by 9mn.
+5.
+a
+c + d
+by 3x.
+6.
+3x
+3 - 3xy
+2m2n
+by 3x.
+7.
+2ab - 2b
+4
+5x
+2yz
+by 2ab.
+8.
+5(a
+2 - b
+2
+)
+xy
+by a - b.
+9.
+m + n
+2m2 - 2mn
+by m2 - n
+2
+.
+10.
+x
+2 + 5x - 14
+x
+2 - 7x + 12
+by x - 2.
+11. ax + bx + a + b +
+a + b
+3x
+by a + b.
+12. Multiply x
+2 - 5x + 6
+x
+2 + 3x - 4
+by x - 1.
+13. Divide 5bc2
+6ax3
+by 10abc.
+14. Multiply 1 + 3ac
+4x
+2y
+by 2ac.
+15. Divide 5x
+2y - 5y
+3
+2x
+2z
+by 4x + 4y.
+16. Divide 4x
+2y
+3mn2
+by 6axy.
+17. A can do a piece of-work in 2 1
+3
+days, and B in 2 1
+2
+days. How much of the
+work can they both together do in one day?
+18. If C can do a piece of work in m days, and D works half as fast as G, how
+much of the work can D do in one day?
+6See previous foot-note.
+87
+39. ILLUS. 1. x
+y
+×
+a
+4
+=
+ax
+4y
+ILLUS. 2. 7x
+5y
+4
+5a
+3z
+2
+×
+20a
+2
+z
+3
+42x
+4y
+3
+=
+2xyz
+3a
+ILLUS. 3. ab - ax - 2b + 2x
+b
+3 - x
+3
+×
+b
+2x + bx2 + x
+3
+a - 2
+=
+(a - 2)(b - x)x(b
+2 + bx + x
+2
+)
+(b - x)(b
+2 + bx + x
+2)(a - 2) = x
+To multiply one fraction by another, multiply the numerators together for
+the numerator of the product and the denominators for its denominator, and
+reduce to lowest terms.
+Exercise 48.
+Simplify:
+1.
+7a
+2
+b
+2
+c
+18x
+2y
+2z
+×
+9xyz2
+28abc2
+2.
+9a
+2
+b
+2
+8nx3y
+2
+×
+5x
+2y
+2
+2am2n
+×
+24m2n
+2x
+90ab2
+3.
+x
+2 - 16y
+2
+xy - 4y
+2
+×
+2y
+x + 4y
+4. 3a - b
+2b
+×
+18ab + 6b
+2
+9a
+2 - b
+2
+5.
+abd + cd2
+a
+2d - abc
+×
+acd - bc2
+ab2 + bcd
+6.
+2ax - 4y
+mn2 + any
+×
+mny + ay2
+a
+2x - 2ay
+7. x
+2 - x - 6
+x
+2 + x - 2
+×
+x
+2 + 3x - 4
+x
+2 - 2x - 3
+8.
+a
+2 + 2a - 3
+a
+2 + a - 2
+×
+a
+2 + 7a + 10
+a + 3
+9.
+x
+4 - 64x
+3x
+2 - 2x
+×
+9x
+2 - 4
+x
+2 - 4x
+10.
+m2 - 25
+m2 + 2m - 15
+×
+m4 - 27m
+m2 - 5m
+11.
+a
+3 - a
+2y + ay2
+x - 3
+×
+ax + xy - 3a - 3y
+a
+3 + y
+3
+88
+12.
+x
+3 + x
+2 - x - 1
+x
+2 + 6x + 9
+×
+x
+2 + 2x - 3
+2x
+3 + 4x
+2 + 2x
+13.
+a
+3 - a
+2 - a + 1
+a
+2 + 4a + 4
+×
+a
+2 + 3a + 2
+3a
+3 - 6a
+2 + 3a
+14. (m +
+mn
+m - n
+)(n -
+mn
+m + n
+)
+15. A grocer purchased y pounds of tea for $25. Another grocer purchased
+4 pounds less for the same money. What was the price per pound which
+each paid?
+16. What is a
+3
+of 2
+c
+?
+17. Two numbers differ by 28, and one is eight-ninths of the other. What are
+the numbers?
+40. ILLUS. b
+c
+÷
+x
+y
+=
+b
+c
+×
+y
+x
+=
+by
+cx
+To divide one fraction by another, invert the divisor and proceed as in
+multiplication.
+Exercise 49.
+Simplify:
+1.
+18a
+6
+b
+2
+c
+35x
+3y
+3z
+÷
+3a
+4
+b
+5x
+2yz
+.
+2.
+7axy2
+8m2n
+÷
+2xz3
+3ab2m
+.
+3.
+4x
+2y
+3
+z
+4
+3a
+2b
+3c
+4
+÷
+3x
+4y
+3
+z
+2
+4a
+4b
+3c
+2
+.
+4. 2am3n
+2
+3x
+3yz2
+÷
+3a
+3mn2
+2x
+3yz2
+.
+5.
+x
+2 - 7x + 10
+x
+2
+÷
+x
+2 - 4
+x
+2 + 5x
+.
+6.
+x - 6
+x - 3
+÷
+x
+2 - 3x
+x
+2 - 5x
+.
+7.
+x - 2
+x - 7
+÷
+x
+2 - 9x + 20
+x
+2 - 10x + 21
+÷
+x
+2 - 4x + 3
+x
+2 - 5x + 4
+.
+8.
+a
+2 - 7a
+a - 8
+÷
+a
+2 + 10a + 24
+a
+2 - 14a + 48
+÷
+a
+2 - 7a + 6
+a
+2 + 3a - 4
+.
+89
+9.
+a + b
+(a - b)
+2
+div a
+2 + b
+2
+a
+2 - b
+2
+×
+a
+4 - b
+4
+(a + b)
+3
+.
+10.
+x
+2 - y
+2
+x
+2 + y
+2
+×
+x
+4 - y
+4
+(x - y)
+3
+÷
+(x + y)
+2
+x - y
+.
+11.
+a
+2 - 2a - 8
+a
+2 + 2a - 15
+÷
+a
+2 + 5a + 6
+a
+2 - 4a + 3
+÷
+a
+2 - 5a + 4
+a
+2 + 8a + 15
+.
+12.
+x
+2 - 9x + 20
+x
+2 - 5x - 14
+÷
+x
+2 - 7x + 12
+x
+2 - x - 42
+×
+x
+2 - x - 6
+x
+2 + 11x + 30
+.
+13.
+a
+2 - a - 2
+a
+2 + 2a - 8
+×
+a
+2 + 5a
+ab + b
+÷
+a
+2 - 25
+a
+2 - a - 20
+.
+14. m - 2
+2m - 14
+×
+m2 - 5m - 14
+2m2 + 4m
+×
+4m2
+m2 - 4
+÷
+2mn - 14n
+m2 - 5m - 14
+.
+15. µ
+a + 1
+a - 1
++ 1¶ µa - 1
+a + 1
++ 1¶
+÷
+µ
+a + 1
+a - 1
+- 1
+¶ µ1 -
+a - 1
+a + 1¶
+.
+16. µ
+1 +
+x
+1 - x
+¶ µ1 -
+x
+1 + x
+¶
+÷
+µ
+1 +
+1 + x
+1 - x
+¶ µ1 -
+1 - x
+1 + x
+¶
+.
+17. How much times 7 is 21?
+18. How much times 3
+14 is 6
+7
+?
+19. How much times c
+d
+is
+x
+4
+?
+20. How much times 5bz
+7mx3
+is
+3xy2
+z
+4amn2
+?
+What may be done to a fraction without changing its value? How multiply
+a fraction? When is a fraction in its lowest terms? How reduce a fraction to
+lowest terms? How divide one fraction by another? How add fractions? How
+divide a fraction? What is the effect of increasing the denominator of a fraction?
+What is the effect of dividing the numerator of a fraction? What is the effect
+of subtracting from the denominator of a fraction? How multiply two or more
+fractions together? What is the effect of adding to the numerator of a fraction?
+What is the effect of multiplying a fraction by its denominator? What changes
+in the signs of a fraction can be made without changing the value of the fraction?
+How change an entire number to a fraction with a given denominator?
+INVOLUTION, EVOLUTION, AND FACTORING.
+41. ILLUS. 1. ³a
+b
+´2
+=
+a
+b
+×
+a
+b
+=
+a
+2
+b
+2
+.
+What is the square of 3x
+2y
+? What is the cube of x
+y
+? of
+2a
+2
+b
+xy
+? What is the square root of 64x
+2
+9y4 ? What is the
+90
+cube root of 8a
+3x
+6
+27b
+9y3 ? How find any power of a fraction?
+How find any root of a fraction?
+ILLUS. 2. µ
+m
+n
++
+1
+x
+¶ µm
+n
+-
+1
+x
+¶
+=
+m2
+n2
+-
+1
+x
+2
+.
+ILLUS. 3. µ
+x
+y
+- 3
+¶ µx
+y
+- 6
+¶
+=
+x
+2
+y
+2
+-
+9x
+y
++ 18.
+ILLUS. 4. Factor b
+4
+a4 -
+y
+4
+x4 .
+b
+4
+a
+4
+-
+y
+4
+x
+4
+=
+µ
+b
+2
+a
+2
++
+y
+2
+x
+2
+¶ µ b
+a
++
+y
+x
+¶ µ b
+a
+-
+y
+x
+¶
+.
+ILLUS. 5. Factor x
+4 + x
+3 +
+1
+4
+.
+x
+4 + x
+2 +
+1
+4
+=
+µ
+x
+2 +
+1
+2
+¶2
+.
+Exercise 50.
+Find by inspection the values of each of the following:
+1. µ
+2x
+2
+ab3
+¶2
+.
+2. µ
+a
+2
+b
+3
+4y
+¶3
+.
+3. µ
+-
+2xy
+3a
+2m3
+¶5
+).
+4. µ
+x(a - b)
+3a
+2b
+¶4
+.
+5. µ
+-
+5x
+2y(a + b
+2
+)
+2
+2ab3(x
+2 - y)
+3
+¶3
+.
+6. µ
+-
+3am4
+(2a + 3b)
+3
+4x
+2y
+2(m - n)
+2
+¶3
+.
+7. µ
+-
+3a
+5xy2
+z
+3
+2bc4d
+4
+¶4
+.
+8. µ
+-
+4x
+7y
+2
+z
+3
+3ab6d
+3
+¶4
+.
+9. 3
+r
+8a
+3b
+6
+27m6n9
+.
+91
+10. r
+36m2n8
+121a
+4b
+6
+.
+11. 4
+r
+256x
+4y
+8
+81a
+4b
+12 .
+12. 5
+r
+-
+32x
+5y
+10
+243m10n15
+.
+13. 3
+r
+-
+27x
+6(a - b)
+9
+64a
+6b
+12 .
+14. s
+4x
+2 + 12xy + 9y
+2
+16x
+4y
+8
+.
+15. s
+8x
+2(x + y)
+5
+50y
+4(x + y)
+.
+16. 3
+s
+-
+81a
+3(a - b)
+7
+24b
+9(a - b)
+.
+17. µ
+x
+y
++
+a
+b
+¶ µx
+y
+-
+a
+b
+¶
+.
+18. ³a
+b
+-
+c
+d
+´ ³a
+b
++
+c
+d
+´
+.
+19. 3ab µ
+2x
+ab +
+x
+2
+2mn
+-
+ax
+3mb¶
+.
+20.
+x
+2
+yz µ
+2x
+3
+-
+3y
+2
+z
+2x
++
+x
+2y
+m2z
+¶
+.
+21. µ
+a
+4
+b
+4
++
+c
+4
+d
+4
+¶ µa
+2
+b
+2
++
+c
+2
+d
+2
+¶ ³a
+b
++
+c
+d
+´ ³a
+b
+-
+c
+d
+´
+.
+22. µ
+x
+2
+16
++
+9y
+2
+25m1
+¶ µx
+4
++
+3y
+5m
+¶ µx
+4
+-
+3y
+5m
+¶
+.
+23. µ
+x
+y
++ 1¶ µx
+2
+y
+2
+-
+x
+y
++ 1¶
+.
+24. ³a
+b
+- 1
+´ µ
+a
+2
+b
+2
++
+a
+b
++ 1¶
+.
+25. µ
+x
+y
+-
+3a
+2
+2b
+¶
+.
+92
+26. µ
+2y
+c
+2
++
+9
+2d
+¶2
+.
+27. ³a
+b
++ 2´ ³a
+b
+- 5
+´
+.
+28. µ
+x
+y
+-
+a
+b
+¶3
+.
+Factor:
+29.
+x
+4
+a
+2
+-
+b
+2
+y
+4
+30.
+a
+2
+b
+4
+-
+x
+8
+y
+2
+31. a
+4
+m4 -
+b
+4
+x4
+32.
+8a
+3
+y
+3
++
+b
+3
+c
+3
+33.
+x
+3
+27a
+3
+-
+y
+3
+c
+3
+34. 81a
+4
+b
+4
+-
+x
+4y
+4
+625z
+4
+35.
+m2
+y
+2
++
+2m
+y
+- 15
+36.
+x
+2
+a
+2
+-
+2x
+a
+- 8
+37.
+y
+2
+4
++ 2 +
+4
+y
+2
+38.
+x
+2
+a
+2
++
+a
+2
+x
+2
+- 2
+39. A dog can take 2 leaps of a feet each in a second. How many feet can he
+go in 9 seconds?
+40. How many weeks would it take to build a stone wall if 1
+a
+of it can be built
+in one day?
+93
+COMPLEX FRACTIONS.
+42 ILLUS.
+a +
+b
+c
+d
+,
+a
+d -
+x
+y
+,
+a +
+b
+c
+d -
+x
+y
+,
+a
+x
+b
+c
+A complex fraction is one which has a fraction in one or both of its terms.
+What is a simple fraction? What is the effect of multiplying a simple fraction
+by its denominator or by any multiple of its denominator? By what must the
+numerator of the complex fraction
+a +
+ax
+b
+c
+d +
+x
+ab
+be multiplied to make the numerator
+an entire number? By what multiply the denominator to make it an entire number?
+If both numerator and denominator are multiplied, under what conditions
+will the value of the fraction remain the same?
+ILLUS. 1. Simplify
+a +
+ax
+b
+c
+d +
+x
+ab
+.
+a +
+ax
+b × abd
+c
+d +
+x
+ab × abd =
+a
+2
+bd + a
+2dx
+abc + dx
+ILLUS. 2. Simplify
+1
+1-x -
+1
+1+x
+1
+1-x +
+1
+1+x
+.
+1
+1-x -
+1
+1+x × (1 - x)(1 + x)
+1
+1-x +
+1
+1+x × (1 - x)(1 + x)
+=
+1 + x - 1 + x
+1 + x + 1 - x
+=
+2x
+2
+= x
+To simplify a complex fraction, multiply each term of the complex fraction
+by the L.C.M. of the denominators of the fractions in the terms, and reduce.
+Exercise 51.
+Simplify:
+1.
+1 + a
+b
+x
+b - 1
+.
+2.
+x +
+a
+y
+m -
+b
+y
+.
+3.
+x
+a +
+b
+c
+.
+4.
+x -
+1
+x2
+1 -
+1
+x
+.
+5.
+a
+b -
+b
+a
+a - b
+.
+6.
+1 + m3
+1 + 1
+m
+.
+94
+7.
+x
+y -
+z
+x
+a
+y -
+b
+x
+.
+8.
+ab
+c - 3d
+3c -
+ab
+d
+.
+9.
+1 + 1
+a-1
+1 -
+1
+a+1
+.
+10. 1+a+a
+2
+1+ 1
+a + 1
+a2
+.
+11.
+x - 3 -
+2
+x-4
+x - 1 + 2
+x-4
+.
+12.
+a
+a+b +
+a
+a-b
+2a
+a2-b
+2
+.
+13.
+a+1
+a-1 +
+a-1
+a+1
+a+1
+a-1 -
+a-1
+a+1
+.
+14.
+a
+3+b
+3
+a2-b
+2
+a2-ab+b
+2
+a-b
+.
+15. 1 -
+1
+1 + 2
+a-2
+.
+16.
+a+2b
+b -
+a
+a+b
+a+2b
+a+b +
+a
+b
+.
+17. How many pounds of pepper can be bought for y dollars, if x pounds cost
+2x dimes?
+18. How many inches in y feet? How many yards?
+19. A man bought x pounds of beef at x cents a pound, and handed the
+butcher a y-dollar bill. How many cents change should he receive?
+20. x times I is how many times m?
+Exercise 52. (Review.)
+1. Divide x
+3 - 19x + 6x
+7 + 20 + 8x
+2 + 16x
+4 - x
+6 - 11x
+5 by x
+2 + 4 - 3x + 2x
+3
+.
+2. Find two numbers whose sum is 100 and whose difference is 10.
+3. Find the G.C.F. of x
+4 - 1, x
+5 + x
+4 - x
+3 - x
+2 + x + 1, and x
+2 - x - 2.
+4. Factor x
+10 - 14x
+5y + 49y
+2
+, a
+9 - b
+9
+, 3a
+2 - 3a - 216.
+95
+5. Reduce (2a + 2b)(a
+2 - b
+2
+)
+(a
+2 + 2ab + b
+2)(a - b)
+to lowest terms.
+6. Factor 16x
+4
+a
+4b
+4
+-
+c
+4
+81y
+4
+.
+7. If x and y stand for the digits of a number of two places, what will represent
+the number?
+8. Find the L.C.M. of a
+2 - 5a + 6, a
+2 - 16, a
+2 - 9, a
+2 - 7a + 12, and a
+2 - 4.
+9. If one picture costs a cents, how many can be bought for x dollars?
+Simplify:
+10.
+x - 3
+x - 2
++
+2(1 - x)
+x
+2 - 6x + 8
+-
+x - 1
+x - 4
+.
+11.
+1
+(2 - x)(3 - x)
+-
+2
+(x - 1)(x - 3) +
+1
+(x - 1)(x - 2).
+12.
+x
+2 + xy
+x - y
+×
+x
+3 - 3x
+2y + 3xy2 - y
+3
+x
+2 - y
+2
+÷
+2xy - 2y
+2
+3
+.
+13. µ
+1
+m
++
+1
+n
+¶
+(a + b) -
+µ
+a + b
+m
+¶
+-
+µ
+a - b
+n
+¶
+.
+14. Ã
+x -
+1
+1 + 2
+x-1
+!
+÷
+x +
+1
+x
+1
+x + 1
+.
+15.
+a
+b +
+b
+a - 1
+a2
+b
+2 +
+a
+b + 1
+×
+1 + b
+a
+a - b
+÷
+1 + b
+3
+a3
+a2
+b -
+b
+2
+a
+.
+16. Prove that 3(a + b)(a + c)(b + c) = (a + b + c)
+3 - (a
+3 + b
+3 + c
+3
+).
+17. How many sevenths in 6xy?
+18. Divide 2x
+5 -
+x
+4
+12
++ 2
+3
+4
+x
+3 - 2x
+2 - x by 3x
+2 + x.
+96
+EQUATIONS
+43. ILLUS. 1. 27 + 10x = 13x + 23.
+ILLUS. 2. a
+2
+x
++
+b
+2
+=
+4b
+2
+x
++
+a
+4
+.
+An equation is an expression of the equality of two numbers. The parts of
+the expression separated by the sign of equality are called the members of the
+equation.
+The last letters of the alphabet are used to represent unknown numbers, and
+known numbers are represented by figures or by the first letters of the alphabet.
+44. ILLUS. 1. 5x + 20 = 105.
+5x = 85.
+ILLUS. 2. 3x - 18 = 42.
+3x = 60.
+ILLUS. 3. x
+12 = 2.
+x = 24.
+ILLUS. 4. 7x = 49.
+x = 7.
+Any changes may be made in an equation which do not destroy
+the equality of the members.
+Name some of the ways in which such changes may be made.
+45. ILLUS. 1. x + b = a. Subtracting b from each member, x = a - b.
+ILLUS. 2. x - b = c. Adding b to each member, x = c + b.
+In each of these illustrations b has been transposed (changed over) from the
+first to the second member, and in each case its sign has been changed. Hence,
+Any term may be transposed from one member of an equation to
+the other provided its sign be changed.
+46. ILLUS. ab + x
+b
+2
+-
+b
+2 - x
+a
+2b
+=
+x - b
+a
+2
+-
+ab - x
+b
+2
+.
+Multiply both members by a
+2
+b
+2
+,
+a
+3
+b + a
+2x - b
+3 + bx = b
+2x - b
+3 - a
+3
+b + a
+2x.
+To clear an equation of fractions, multiply each member of the equation by the
+L.C.M. of the denominators of the fractional terms.
+97
+47. ILLUS. 1. Solve
+x + 4 + 2(x - 1) = 3x + 4 - (5x - 8)
+x + 5 + 2x - 2 = 3x + 4 - 5x - 8
+Transposing, x + 2x - 3x + 5x = 4 + 8 - 4 + 2
+5x = 10
+x = 2
+ILLUS. 2. Solve 5x + 3
+8
+-
+3 - 4x
+3
++
+x
+2
+=
+31
+2
+-
+9 - 5x
+6
+. Multiply by 24,
+3(5x + 3) - 8(3 - 4x) + 12x = 372 - 4(9 - 5x)
+15x + 9 - 24 + 32x + 12x = 372 - 36 + 20x
+Transposing, 15x + 32x + 12x - 20x = 372 - 36 - 9 + 24
+39x = 351
+x = 9
+To solve an equation, clear of fractions if necessary, transpose the terms
+containing the unknown number to one member and the known terms to the
+other, unite the terms, and divide both members by the coefficient of the unknown
+number.
+Exercise 53.
+Solve:
+1. 22 - 6x = 34 - 12x.
+2. 5x - 4 = 10x + 11.
+3. 23 - 8x = 80 - 11x.
+4. 5x - 21 = 7x + 5.
+5. 18x - 43 = 17 - 6x.
+6. 18 - 8x = 12x - 87.
+7. 9x - (2x - 5) = 4x + (13 + x).
+8. 15x - 2(5x - 4) - 39 = 0.
+9. 12x - 18x + 17 = 8x + 3.
+10. 21x - 57 = 6x - 14x + 30.
+11. 5x - 27 - 11x + 16 = 98 - 40x - 41.
+98
+12. 14(x - 2) + 3(x + 1) = 2(x - 5).
+13. 6(23 - x) - 3x = 3(4x - 27).
+14. 3(x - 1) - 2(x - 3) + (x - 2) - 5 = 0.
+15. (x + 5)(x - 3) = (x + 2)(x - 5).
+16. (x + 4)(x + 7) = (x + 2)(x + 11).
+17. (x - 1)(x + 4)(x - 2) = x(x - 2)(x + 2).
+18. (x - 5)(x + 3) - (x - 7)(x - 2) - 2(x - 1) = -12.
+19. (x + 2)2 - (x - 1)2 = 5(2x + 3).
+20. (2x + 3)(x + 3) - 14 = (2x + 1)(x + 1).
+21. (x + 1)2 + (x - 5)2 = 2(x + 5)2
+.
+22. 7x - 15 + 4x - 6 = 4x - 9 - 9x.
+23. Divide the number 105 into three parts, such that the second shall be 5
+more than the first, and the third three times the second.
+24. A man had a certain amount of money; he earned four times as much the
+next week, and found $30. If he then had seven times as much as at first,
+how much had he at first?
+25. How many fourths are there in 7x?
+26. How long will it take a man to build x yards of wall if he builds z feet a
+day?
+27. 6x -
+x + 4
+3
+=
+x
+3
++ 28.
+28.
+2x - 1
+5
+-
+x + 12
+3
+- 4
+4
+5
+=
+2x
+3
+.
+29. x -
+x
+4
++ 25 =
+x
+3
++
+x
+2
++ 21.
+30.
+x - 3
+3
++
+5
+21
+= -
+x - 8
+7
+.
+31.
+8 - 5x
+12
++
+5x - 6
+4
+-
+7x + 5
+6
+= 0.
+32.
+3 + 5x
+4
++
+x + 2
+2
+= 1
+5
+9
+.
+33.
+2x - 1
+3
+-
+13
+42
+=
+5x - 4
+6
+.
+99
+34. 1 - 11x
+7
+-
+7x
+13
+=
+2
+13
+-
+8x - 15
+3
+.
+35.
+2
+x
+-
+3
+2x
+=
+7
+24
+-
+2
+3x
+.
+36.
+1
+4
++
+1
+3x
+=
+11
+36
++
+1
+6x
+.
+37. 3
+4x
+-
+2
+x
++
+x - 2
+2x
++ 7 5
+12
+= 5 +
+4
+6x
+.
+38.
+2x + 3
+5x
+-
+3
+x
++ 4 = 1
+2x
++
+3
+4x
++ 2
+23
+40
+.
+39.
+x + 9
+11
+-
+2 - x
+5
+=
+x + 5
+7
+.
+40. x + 4
+5
+-
+4 - x
+7
+=
+x + 1
+3
+.
+41. 2
+5
+(x - 6) -
+3
+16
+(x - 1) = 5
+12
+(4 - x) -
+5
+48
+.
+42. 4 + x
+4
+-
+1 - x
+7
+-
+1
+5
+(8 - x) = x - 23
+5
++ 7.
+43. How long will it take a man to walk x miles if he walks 15 miles in b hours?
+44. What is the interest on m dollars for one year at 5 per cent?
+45. What are the two numbers whose sum is 57, and whose difference is 25?
+46. What is the interest on b dollars for y years at 4 per cent?
+47. (c + a)x + (c - b)x = c
+2
+.
+48. (a - b)x + (a + b)x = a.
+49. 2x + a(x - 2) = a + 6.
+50. b(2x - a) - a
+2 = 2x(a + b) - 3ab.
+51. a
+2 + c
+2 =
+cx
+a
++
+ax
+c
+.
+52. b
+4 - x
+2 + 2bx = (b
+2 + x)(b
+2 - x).
+53. x
+2 + 4a
+2 + a
+4 =
+¡
+x + a
+2
+¢2
+.
+54. b
+2
+(x - b) + a
+2
+(x - a) = abx.
+55.
+2x + 5
+5x + 3
+=
+2x - 4
+5x - 6
+.
+56.
+6x + 5
+2x - 3
+=
+3x - 4
+x + 1
+.
+100
+57.
+2 + 9x
+3(6x + 7) =
+2x + 9
+35 + 4x
+.
+58.
+3
+2 - 5x
+-
+4
+1 - 3x
+= 0.
+59.
+2(3x + 4)
+1 + 2x
+- 1 =
+2(19 + x)
+x + 12
+.
+60. 1 -
+x
+x + 2
+=
+4
+x + 6
+.
+61.
+x
+2
+1 - x
+2
++
+x + 1
+x - 1
+=
+3
+x + 1
+.
+62.
+2 + 3x
+1 - x
++ 5 =
+2x - 4
+x + 2
+.
+63.
+5
+6 + 2x
++
+2
+x + 1
+=
+2
+1
+2
+2 + 2x
++
+4
+3 + x
+.
+64. 2(1 - 2x)
+1 - 3x
++
+1
+6
+=
+1 - 3x
+1 - 2x
+.
+65.
+x - 8
+x - 6
+-
+x
+x - 2
+=
+x - 9
+x - 7
+-
+x + 1
+x - 1
+.
+66.
+x + 5
+x + 8
+-
+x + 6
+x + 9
+=
+x + 2
+x + 5
+-
+x + 3
+x + 6
+.
+67. Find three consecutive numbers whose sum is 81.
+68. A’s age is double B’s, B’s is three times C’s, and C is y years old. What
+is A’s age?
+69. How many men will be required to do in a hours what x men do in 6
+hours?
+70. Find the sum of three consecutive odd numbers of which the middle one
+is 4x + 1.
+Exercise 54
+.
+1. In a school of 836 pupils there is one boy to every three girls. How many
+are there of each?
+2. Divide 253 into three parts, so that the first part shall be four times the
+second, and the second twice the third.
+3. The sum of the ages of two brothers is 44 years, and one of them is 12
+years older than the other. Find their ages.
+101
+4. Find two numbers whose sum is 158, and whose difference is 86.
+5. Henry and Susan picked 16 quarts of berries. Henry picked 4 quarts less
+than three times as many as Susan. How many quarts did each pick?
+6. Divide 127 into three parts, such that the second shall be 5 more than the
+first, and the third four times the second.
+7. Twice a certain number added to four times the double of that number is
+90. What is the number?
+8. I bought some five-cent stamps, and twice as many two-cent stamps, paying
+for the whole 81 cents. How many stamps of each kind did I buy?
+9. Three barns contain 58 tons of hay. In the first barn there are 3 tons more
+than in the second, and 7 less than in the third. How many tons in each
+barn?
+10. If I add 18 to a certain number, five times this second number will equal
+eleven times the original number. What is the original number?
+11. In a mixture of 48 pounds of coffee there is one-third as much Mocha as
+Java. How much is there of each?
+12. The half and fifth of a number are together equal to 56. What is the
+number?
+13. What number increased by one-third and one-fourth of itself, and 7 more,
+equals 45?
+14. What number is doubled by adding to it three-eighths of itself, one-third
+of itself, and 14?
+15. A grocer sold 27 pounds of sugar, tea, and meal. Of meal he sold 3 pounds
+more than of tea, and of sugar 6 pounds more than of meal. How many
+pounds of each did he sell?
+16. A son is two-sevenths as old as his father. If the sum of their ages is 45
+years, how old is each?
+17. Two men invest $2990 in business, one putting in four-ninths as much as
+the other. How much does each invest?
+18. In an election 47,519 votes were cast for three candidates. One candidate
+received 2061 votes less, and the other 1546 votes less, than the winning
+candidate. How many votes did each receive?
+19. John had twice as many stamps as Ralph, but after he had bought 65,
+and Ralph had lost 16, they found that they had together 688. How many
+had each at first?
+102
+20. Find three consecutive numbers whose sum is 192.
+21. If 17 be added to the sum of two numbers whose difference is 12, the result
+will be 61. What are the numbers?
+22. Divide 120 into two parts such that five times one part may be equal to
+three times the other.
+23. Mr. Johnson is twice as old as his son; 12 years ago he was three times as
+old. What is the age of each?
+24. Henry is six times as old as his sister, but in 3 years from now he will be
+only three times as old. How old is each?
+25. Samuel is 16 years older than James; 4 years ago he was three times as
+old. How old is each?
+26. Martha is 5 years old and her father is 30. In how many years will her
+father be twice as old as Martha?
+27. George is three times as old as Amelia; in 6 years his age will be twice
+hers. What is the age of each?
+28. Esther is three-fourths as old as Edward; 20 years ago she was half as old.
+What is the age of each?
+29. Mary is 4 years old and Flora is 9. In how many will Mary be two-thirds
+as old as Flora?
+30. Harry is 9 years older than his little brother; in 6 years he will be twice
+as old. How old is each?
+31. Divide 2x
+4 + 27xy3 - 81y
+4 by x + 3y.
+32. Prove ¡
+a
+2 + ab + b
+2
+¢2
+-
+¡
+a
+2 - ab + b
+2
+¢2
+= 4ab(a
+2 + b
+2
+).
+33. Find the value of x - y
+y
++
+2x
+x - y
+-
+x
+3 + x
+2y
+x
+2y - y
+3
+.
+34. Solve 5x - 7
+2
+- 3x =
+2x + 7
+3
+- 14.
+35. Mr. Ames has $132, and Mr. Jones $43. How much must Mr. A. give to
+Mr. J. so that Mr. J. may have three-fourths as much as Mr. A.?
+36. A has $101, and B has $35; each loses a certain sum, and then A has four
+times as much as B. What was the sum lost by each?
+37. A certain sum of money was divided among A, B, and C; A and B received
+$75, A and C $108, and B and C $89. How much did each receive?
+Suggestion. Let x equal what A received.
+103
+38. Mary and Jane have the same amount of money. If Mary should give Jane
+40 cents, she would have one-third as much as Jane. What amount of
+money has each?
+39. An ulster and a suit of clothes cost $43; the ulster and a hat cost $27; the
+suit of clothes and the hat cost $34. How much did each cost?
+40. John, Henry, and Arthur picked berries, and sold them; John and Henry
+received $4.22, John and Arthur $3.05, Henry and Arthur $3.67. How
+much did each receive for his berries?
+41. A can do a piece of work in 4 days, and B can do it in 6 days. In what
+time can they do it working together?
+Suggestion. Let x equal the required time. Then find what part of the
+work each can do in one day.
+42. Mr. Brown can build a stone wall in 10 days, and Mr. Mansfield in 12
+days. How long would it take them to do it working together?
+43. Mr. Richards and his son can hoe a field of corn in 9 hours, but it takes
+Mr. Richards alone 15 hours. How long would it take the son to hoe the
+field?
+44. A can do a piece of work in 4 hours, B can do it in 6 hours, and C in 3
+hours. How long would it take them working together?
+45. A can mow a field in 6 hours, B in 8 hours, and with the help of C they
+can do it in 2 hours. How long would it take C working alone?
+46. A tank can be emptied by two pipes in 5 hours and 7 hours respectively.
+In what time can it be emptied by the two pipes together?
+47. A cistern can be filled by two pipes in 4 hours and 6 hours respectively,
+and can be emptied by a third in 15 hours. In what time could the cistern
+be filled if all three pipes were running?
+48. A and B together can do a piece of work in 8 days, A and C together in
+10 days, and A by himself in 12 days. In what time can B and C do it?
+In what time can A, B, and C together do it?
+49. John and Henry can together paint a fence in 2 hours, John and Lewis
+together in 4 hours, and John by himself in 6 hours. In what time can the
+three together do the painting?
+50. C can do a piece of work in a days, and D can do the same work in b days.
+In how many days can they do it working together?
+51. James and Thomas can do a piece of work in d days and James alone can
+do it in c days. How long would it take Thomas alone?
+104
+52. Solve 3 + x
+3 - x
+-
+1 + x
+1 - x
+-
+2 + x
+2 - x
+= 1.
+53. Find the value of x
+2
+(x - y)(x - z)
++
+y
+2
+(y - x)(y - z)
++
+z
+2
+(z - x)(z - y)
+.
+54. Expand (x
+2 - 2)(x
+2 + 2)(x
+2 + 3)(x
+2 - 3).
+55. Factor 9a
+2 + 12ab + 4b
+2
+, 12 + 7x + x
+2
+, ac - 2bc - 3ad + 6bd.
+Illustrative Example. At what time between 1 o’clock and 2 o’clock are
+the hands of a clock (1) together? (2) at right angles? (3) opposite to
+each other?
+How far does the hour hand move while the minute hand goes around the
+whole circle? How far while the minute hand goes half around? What
+part of the distance that the minute hand moves in a given time does the
+hour hand move in the same time?
+Figure 1:
+(1) Let AM and AH in all the figures denote the positions of the minute
+and hour hands at 1 o’clock, and AX (Fig. 1) the position of both hands
+when together.
+Let x = number of minute spaces in arc MX.
+MX = MH + HX.
+x = 5 + x
+12 . Solution gives x = 5 5
+11 .
+Hence, the time is 5 5
+11 minutes past 1 o’clock.
+(2) Let AX and AB (Fig. 2) denote the positions of the minute and hour
+hands when at right angles.
+Let x = number of minute spaces in arc MBX.
+MBX = MH + HB + BX.
+x = 5 + x
+12 + 15. Solution gives x = 21 9
+11 .
+105
+Figure 2:
+Figure 3:
+106
+Hence, the time is 21 9
+11 minutes past 1 o’clock.
+(3) Let AX and AB (Fig. 3) denote the positions of the minute and hour
+hands when opposite.
+Let x = number of minute spaces in arc MBX.
+MBX = MH + HB + BX.
+x = 5 + x
+12 + 30. Solution gives x = 38 2
+11 .
+Hence, the time is 38 2
+11 minutes past 1 o’clock.
+56. At what time are the hands of a clock together between 2 and 3? Between
+5 and 6? Between 9 and 10?
+57. At what time are the hands of a clock at right angles between 2 and 3?
+Between 4 and 5? Between 7 and 8?
+58. At what time are the hands of a clock opposite each other between 3 and
+4? Between 8 and 9? Between 12 and 1?
+59. At what times between 4 and 5 o’clock are the hands of a watch ten
+minutes apart?
+60. At what time between 8 and 9 o’clock are the hands of a watch 25 minutes
+apart?
+61. At what time between 5 and 6 o’clock is the minute hand three minutes
+ahead of the hour hand?
+62. It was between 12 and 1 o’clock; but a man, mistaking the hour hand for
+the minute hand, thought that it was 55 minutes later than it really was.
+What time was it?
+63. At what time between 11 and 12 o’clock are the hands two minutes apart?
+Illustrative Example. A courier who travels at the rate of 6 miles an
+hour is followed, 5 hours later, by another who travels at the rate of 8 1
+2
+miles an hour. In how many hours will the second overtake the first?
+Let x = number of hours the second is traveling.
+x + 5 = number of hours the first is traveling.
+8
+1
+2
+x = distance the second travels.
+6(x + 5) = distance the first travels.
+8
+1
+2
+x = 6(x + 5). Solution gives x = 12.
+He will overtake the first in 12 hours.
+64. A messenger who travels at the rate of 10 miles an hour is followed, 4
+hours later, by another who travels at the rate of 12 miles an hour. How
+long will it take the second to overtake the first?
+65. A courier who travels at the rate of 19 miles in 4 hours is followed, 8 hours
+later, by another who travels at the rate of 19 miles in 3 hours. In what
+time will the second overtake the first? How far will the first have gone
+before he is overtaken?
+107
+66. A train going at the rate of 20 miles an hour is followed, on a parallel
+track, 4 hours later, by an express train. The express overtakes the first
+train in 5 1
+3
+hours. What is the rate of the express train?
+67. A messenger started for Washington at the rate of 6 1
+2 miles an hour. Six
+hours later a second messenger followed and in 4 7
+8
+hours overtook the first
+just as he was entering the city. At what rate did the second messenger
+go? How far was it to Washington?
+68. How far could a man ride at the rate of 8 miles an hour so as to walk back
+at the rate of 4 miles an hour and be gone only 9 hours?
+69. Two persons start at 10 A.M. from towns A and B, 55 1
+2 miles apart. The
+one starting from A walks at the rate of 4 1
+4 miles an hour, but stops 2
+hours on the way; the other walks at the rate of 3 3
+4 miles an hour without
+stopping. When will they meet? How far will each have traveled?
+Suggestion. Let x equal the number of hours.
+70. A boy who runs at the rate of 12 1
+2
+yards per second, starts 16 yards behind
+another whose rate is 11 yards per second. How soon will the first boy be
+8 yards ahead of the second?
+71. A rectangle whose length is 4 ft. more than its width would have its area
+increased 56 sq. ft. if its length and width were each made 2 ft. more.
+What are its dimensions?
+72. The length of a room is double its width. If the length were 3 ft. less
+and the width 3 ft. more, the area would be increased 27 sq. ft. Find the
+dimensions of the room.
+73. A floor is two-thirds as wide as it is long. If the width were 2 ft. more
+and the length 4 ft. less, the area would be diminished 22 sq. ft. What
+are its dimensions?
+74. A rectangle has its length and width respectively 4 ft. longer and 2 ft.
+shorter than the side of an equivalent square. Find its area.
+75. An enclosed garden is 24 ft. greater in length than in width. 684 sq. ft. is
+used for a walk 3 ft. wide extending around the garden inside the fence.
+How long is the garden?
+76. Factor x
+2
+4
+-
+y
+2
+z
+4
+9m6
+, x
+6 - 27y
+3
+, a
+16 - b
+16, 2c - 4c
+3 + 2c
+5
+.
+77. Extract the square root of 12x
+4 - 24x + 9 + x
+6 - 22x
+3 - 4x
+5 + 28x
+2
+.
+78. What must be subtracted from the sum of 4x
+3 + 3x
+2y - y
+3
+, 4x
+2y - 3x
+3
+,
+7x
+2y + 9y
+3 - 2x
+2y, to leave the remainder 2x
+3 - 3x
+2y + y
+3
+?
+79. Find the G.C.F. of x (x + 1)2
+, x
+2
+(x
+2 - 1), and 2x
+3 - 2x
+2 - 4x.
+108
+80. From one end of a line I cut off 5 feet less than one-fifth of it, and from
+the other end 4 feet more than one-fourth of it, and then there remained
+34 feet. How long was the line?
+81. A can do twice as much work as B, B can do twice as much as C, and
+together they can complete a piece of work in 4 days. In what time can
+each alone complete the work.
+82. Separate 57 into two parts, such that one divided by the other may give
+5 as a quotient, with 3 as a remainder.
+83. Divide 92 into two parts, such that one divided by the other may give 4
+as a quotient, with 2 as a remainder.
+84. Fourteen persons engaged a yacht, but before sailing, four of the company
+withdrew, by which the expense of each was increased $4. What was paid
+for the yacht?
+85. Find two consecutive numbers such that a fifth of the larger shall equal
+the difference between a third and an eighth of the smaller.
+86. A is 24 years older than B, and A’s age is as much above 50 as B’s is below
+40. What is the age of each?
+87. Find the number, whose double added to 16 will be as much above 70 as
+the number itself is below 60.
+88. A hare takes 5 leaps to a dog’s 4, but 3 of the dog’s leaps are equal to 4
+of the hare’s; the hare has a start of 20 leaps. How many leaps will the
+hare take before he is caught?
+Suggestion. Let 5x equal the number of leaps the hare will take, and let
+m equal the length of one leap.
+89. A greyhound takes 3 leaps to a hare’s 5, but 2 of the greyhound’s leaps
+are equal to 4 of the hare’s. If the hare has a start of 48 leaps, how soon
+will the greyhound overtake him?
+90. A hare has 40 leaps the start of a dog. When will he be caught if 5 of
+his leaps are equal to 4 of the dog’s, and if he takes 7 leaps while the dog
+takes 6?
+SIMULTANEOUS EQUATIONS.
+48. ILLUS. x + y = 8, x = 3
+4x - y = 7, y = 5 ¾
+in both equations.
+Simultaneous equations are equations in which the same unknown numbers
+have the same value.
+109
+One equation containing more than one unknown number cannot be solved.
+There must be as many simultaneous equations as there are unknown numbers.
+ILLUS. 1. Solve ½
+x + 3y = 17,
+2x + y = 9.
+Multiply the first equation by 2;
+then 2x + 6y = 34,
+but 2x + y = 9
+Subtracting, 5y = 25
+y = 5.
+To find the value of x, substitute the value of y in the second equation:
+2x + 5 = 9, 2x = 4, x = 2.
+Ans. ½
+x = 2,
+y = 5
+ILLUS. 2. Solve ½
+3x + 4y = 12,
+5x - 6y = 1.
+Multiply the first equation by 3, and the second equation by 2,
+9x + 12y = 36
+10x - 12y = 2
+Adding, 19x 38 ? x = 2.
+Substituting, 6 + 4y = 12, 4y = 6, y = 1 1
+2
+.
+Multiply one or both of the equations by such a number that one of the
+unknown numbers shall have like coefficients. If the signs of the terms having
+like coefficients are alike, subtract one equation from the other; if unlike, add
+the equations.
+Exercise 55.
+Solve:
+1. ½
+x + y = 4,
+3x - 2y = 7.
+2. ½
+x - y = 2,
+2x + 5y = 18.
+3. ½
+5x + 2y = 47,
+2x - y = 8.
+4. ½
+4x - 3y = 10,
+6x + 4y = 49.
+110
+5. ½
+8x - 2y = 6,
+10x + 7y = 36.
+6. ½
+2x - 5y = -11,
+3x + y = 9.
+7. ½
+7x - 3y = 41,
+2x + y = 12.
+8. ½
+2x + 9y = -5,
+11x + 15y = 7.
+9. ½
+4y - 2x = 4,
+10y + 3x = -8.
+10. ½
+3x - 5y = 15,
+5x + 3y = 8.
+11. ½
+3y - 2x = 3,
+4y - 6x = 2 1
+3
+.
+12. ½
+3x + 2y = 11,
+7x - 5y = 190.
+13. ½ 1
+2
+x +
+1
+3
+y = 11,
+8x +
+2
+5
+y = 102.
+14. ½
+5x + 2y = 66,
+x
+3 +
+3y
+4 = 15 1
+2
+.
+15. ½ 3x
+5 -
+2y
+7 = 35,
+x + 2y = -63.
+16. ½
+x -
+3y
+5 = 6,
+2x
+3 + 7y = 189.
+17. ( x+2y
+3x-y = 1,
+4y-x
+3+x-2y = 2 1
+2
+.
+18. (x+2y
+x-2 = -5
+2
+3
+,
+2y-4x
+3-y = -6.
+19. ½
+y -
+2y+x
+3 =
+2x+y
+4 - 8
+3
+4
+,
+3x+y
+2 -
+y
+3 =
+109
+10 +
+4y-x
+5
+.
+20. ½
+x + y = a,
+x - y = b.
+111
+21. ½ 3x-19
+2 + 4 = 3y+x
+3 +
+5x-3
+2
+,
+4x+5y
+16 +
+2x+y
+2 =
+9x-7
+8 +
+3y+9
+4
+.
+22. ½1
+5
+(3x - 2y) + 1
+3
+(5x - 3y) = x,
+4x-3y
+2 +
+2
+3
+x - y = 1 + y.
+23. If 1 is added to the numerator of a fraction, its value is 1
+8
+; but if 4 is added
+to its denominator, its value is 1
+4
+. What is the fraction?
+Suggestion. Letting x equal the numerator, and y the denominator, form
+two equations.
+24. If 2 is subtracted from both numerator and denominator of a certain fraction,
+its value is 3
+5
+; and if 1 is added to both numerator and denominator,
+its value is 2
+3
+. What is the fraction?
+25. If 2 is added to both numerator and denominator of a certain fraction, its
+value is 2
+3
+; but if 3 is subtracted from both numerator and denominator,
+its value is 1
+2
+. What is the fraction?
+26. If 3 be subtracted from the numerator of a certain fraction, and 3 be
+added to the denominator, its value will be 1
+2
+; but if 5 be added to the
+numerator, and 5 be subtracted from its denominator, its value will be 2.
+What is the fraction?
+27. The sum of two numbers divided by 2 is 43, and their difference divided
+by 2 is 19. What are the numbers?
+28. The sum of two numbers divided by 3 gives as a quotient 30, and their
+difference divided by 9 gives 4. What are the numbers?
+29. Five years ago the age of a father was four times that of his son; five years
+hence the age of the father will be 2 1
+3
+times that of the son. What are
+their ages?
+30. Seven years ago John was one-half as old as Henry, but five years hence
+he will be three-quarters as old. How old is each?
+31. A and B own herds of cows. If A should sell 6 cows, and B should buy 6,
+they would have the same number; if B should sell 4 cows to A, he would
+have only half as many as A. How many cows are there in each herd?
+32. The cost of 5 pounds of tea and 7 pounds of coffee is $4.94; the cost of 3
+pounds of tea and 6 pounds of coffee is $3.54. What is the cost of the tea
+and coffee per pound?
+33. What is the price of corn and oats when 4 bushels of corn with 6 bushels
+of oats cost $4.66, and 5 bushels of corn with 9 bushels of oats cost $6.38?
+112
+34. A merchant mixes tea which cost him 87 cents a pound with tea which
+cost him 29 cents a pound. The cost of the mixture is $17.98. He sells the
+mixture at 55 cents a pound and gains $2.92. How many pounds of each
+did he put into the mixture?
+QUADRATIC EQUATIONS.
+49. ILLUS. 1. ax2 = b, 7x
+2 - 10 = 5 + 2x
+3
+.
+ILLUS. 2. x
+2 + 8x = 20, ax2 + bx - c = bx2 + d.
+A quadratic equation is an equation in which, the highest power of the
+unknown number is a square. It is called an equation of the second degree.
+If it contains only the second power of the unknown number (Illus. 1), it is
+called a pure quadratic equation. If it contains both the first and second
+powers of the unknown number (Illus. 2), it is called an affected quadratic
+equation.
+50. ILLUS. Solve x
+2 -
+x
+2-10
+3 = 35 -
+x
+2+50
+5
+.
+15x
+2 - 5x
+2 + 50 = 525 - 3x
+2 - 150. (1)
+13x
+2 = 325. (2)
+x
+2 = 25. (3)
+x = ±5. (4)
+To solve a pure quadratic equation, reduce to the form x
+2 = a and take the
+square root of each member.
+Exercise 56
+.
+Solve:
+1. 5x
+2 - 12 = 33.
+2. 3x
+2 + 4 = 16.
+3. 4x
+2 + ll = 136 - x
+2
+.
+4. 5(3x
+2 - 1) = 11(x
+2 + 1).
+5.
+2
+5x
+2
+-
+1
+3x
+2
+=
+4
+15
+.
+6.
+x
+2 - 1
+6
++
+1
+4
+=
+x
+2 + 1
+8
+.
+7. (x + 3)2 = 6x + 58.
+8. 6x + 2 +
+16
+x
+=
+15 + 40x
+4
+- 1
+3
+4
+.
+113
+9.
+x - 3
+x - 1
++
+x + 1
+x + 3
++
+8
+x
+2 + 2x - 3
+= 0.
+10.
+x + 1
+x - 1
++
+2(x - 3)
+x - 2
+=
+16 - 9x
+x
+2 - 3x + 2
+.
+11.
+1
+(2 - x)(3 - x)
+-
+2
+(1 - x)(x - 3)+
+1
+(x - 1)(x - 2) =
+1
+2 - x
++
+1
+(x - 1)(2 - x)(x - 3).
+12.
+1
+6x + 6
+-
+1
+2x + 2
++
+10
+3 - 3x
+2
+=
+x
+3(1 - x)
+.
+13. A father is 30 years old, and his son is two years old. In how many years
+will the father be three times as old as his son?
+14. Divide the number 112 into two parts such that the smaller divided by
+their difference will give as a quotient 3.
+15. The numerator of a fraction is 4 less than the denominator; if 30 be added
+to the denominator, or if 10 be subtracted from the numerator, the resulting
+fractions will be equal. What is the original fraction?
+51. ILLUS. Solve x-1
+x-2 -
+x-3
+x-4 = -
+2
+3
+.
+3x
+2 - 15x + 12 - 3x
+2 + 15x - 18 = -2x
+2 + 12x - 16.
+2x
+2 - 12x = -10.
+x
+2 - 6x = -5.
+x
+2 - 6x - 5 = 0.
+(x - 5)(x - 1) = 0.
+This equation will be satisfied if either factor is equal to zero. Placing each
+factor in turn equal to zero, and solving,
+x-5 = 0, x-1 = 0,
+x = 5; x = 1.
+Ans. x = 5 or 1.
+To solve an affected quadratic equation, reduce the equation to the form
+x
+2 +bx+c = O, factor the first member, place each factor in turn equal to zero,
+and solve the simple equations thus formed.
+Exercise 57.
+Solve:
+1. x
+2 + 3x = 18.
+2. x
+2 + 5x = 14.
+114
+3. x(x - 1) = 72.
+4. x
+2 = 10x - 21.
+5. 23x = 120 + x
+2
+.
+6. 187 = x
+2 + 6x.
+7. x
+2 - 2bx = -b
+2
+.
+8. x
+2 = 4ax - 3a
+2
+.
+9. x
+2 + (a - 1)x = a.
+10. adx - acx2 = bcx - bd.
+11. (x + 3)(x - 3) = 8(x + 3).
+12. (x + 2)(x - 5) = 4(x - 4).
+13.
+x
+5
++
+2
+x
+= 1
+2
+5
+.
+14. x
+3
+- 2 =
+x
+2
+12
+-
+x
+2
+.
+15.
+8
+x - 2
+- 3 +
+x + 1
+7
+= 0.
+16.
+x
+x + 1
+- 2
+1
+6
++
+x + 1
+x
+= 0.
+17. x + 4 = 3x -
+24
+x - 1
+.
+18.
+x - 1
+x + 1
++
+x + 3
+x - 3
+=
+2(x + 2)
+x - 2
+.
+19.
+x - 1
+x + 2
+-
+3x
+2 + 2
+x
+2 - 4
+=
+3x
+2 - x
+.
+20.
+2x
+3 - x
++
+2x(x - 3)
+x
+2 - 9
+=
+x - 3
+x + 3
+.
+21. At what time between 4 and 5 o’clock are the hands of a clock opposite
+each other?
+22. John, having three times as much money as Lewis, gave Lewis $2, and
+then had twice as much as Lewis. How much had each at first?
+23. A fish is 3 feet long; its head is equal in length to the tail, and its body is
+five times the length of the head and tail together. What is the length of
+the head?
+115
+24. In how many days can A, B, and C build a boat if they work together,
+provided A alone can build it in 24 days, B in 18 days, and C in 30 days?
+The above method of solving affected quadratic equations is the simplest of
+three methods commonly used, and will not solve all possible cases; the method
+given for solving simultaneous equations is only one of three known methods;
+the cases in factoring are less than half of those usually taken. In fact, we
+have made only a beginning in the subject of algebra; much more lies ahead
+along the lines which we have been following. Can you grasp more clearly the
+conditions given in any problem presented to you, and see more definitely just
+what is required, than when you began this study? Do you possess greater ability
+to think out problems? Has the use of letters to represent numbers made you
+think more exactly what is to be done, and what the operations mean? If so,
+your knowledge of numbers is broader, and you already know that
+Algebra is the knowledge which has for its object general truths
+about numbers.
+Exercise 58. (General Review.)
+1. When a = l, b = 3, c = 5, and d = O, what is the value of
+4a + b
+2 + b
+2
+c
+2 + ad
+b
+2 + c
+2 + d
+2
+-
+1 + a
+2
+c
+2
+a
+2 + c
+2 + d
+2
++
+a
+2 + b
+2 + d
+2
+1 + a
+2b
+2 + bd -
+a
+2 + 2ab + b
+2
+b
+2 - 2bc + c
+2
+?
+2. Prove that (x
+2 + xy + y
+2
+)(x
+2 - xy + y
+2
+) = x
+6 - y
+6
+x
+2 - y
+2
+3. Solve (x + 5)2 - (x + 1)2 - 16x = (x - 1)2 - (x - 5)2
+.
+4. A tank is filled by two pipes, A and B, running together, in 12 hours, and
+by the pipe B alone in 20 hours. In what time will the pipe A alone fill
+it?
+5. Find the G.C.F. of x
+3 + 1-x-x
+2
+, x
+3 +x-1-x
+2
+, x
+4 -1, and x
+2 -4x+ 3.
+6. Divide a
+5 + a
+4
+b - a
+3
+b
+2 + a
+3 - 2ab2 + b
+3 by a
+3 - b + a.
+7. Find the square root of 5y
+4 + 1 + 12y
+5 - 2y - 2y
+3 + 4y
+6 + 7y
+2
+.
+8. Expand
+(x + 1)(x + 2) - (2x + 1)(2x + 3) + (x - 4)(x - 9) + (x - 5)2
+.
+9. Solve x + 2
+x - 2
++
+x - 2
+x + 2
+=
+5
+2
+.
+10. Simplify
+µ
+1
+x - 1
+-
+3
+(x + 3)(x - 1)¶
+÷
+µ
+1
+x + 3
++
+1
+(x - 1)(x + 3)¶
+.
+116
+II.
+11. Add 2(a - c)
+3 - 10x
+3y - 7(a - c), 6(a - c) - 2(a - c)
+3 - 10x
+3y, 3(a - c) -
+(a - c)
+3 + 2x
+3y, 2(a - c) + x
+3y - (a - c)
+3
+, 4(a - c) + 5(a - c)
+3 + 2x
+3y,
+3(a - c) - 2x
+3y - 6(a - c)
+3
+.
+12. Solve bx - b
+2 = 3b
+2 - 4bx.
+13. Factor x
+6 + 2x
+3 - 3, ax2 - ay2 + by2 - bx2
+, 27x
+3 + (y + z)
+3
+.
+14. Find the fraction which becomes equal to one when six is added to the
+numerator, and equal to one-third when four is added to the denominator.
+15. Simplify
+a
+2
+b
+3 +
+1
+a
+a
+b
+3 -
+1
+b +
+1
+ab
+.
+16. Solve 7x + 9
+4
+=
+µ
+x -
+2x - 1
+9
+¶
++ 7.
+17. Six years ago John was five times as old as Sarah. If he is twice as old as
+Sarah now, what are their ages?
+18. Multiply together 1-x
+2
+1+y
+,
+1-y
+2
+x+x2 , and 1 + x
+1-x
+.
+19. Simplify a
+2 - (b
+2 - c
+2
+) - {b
+2 - (c
+2 - a
+2
+)} + {c
+2 - (b
+2 - a
+2
+)}.
+20. x times y is how many times a?
+III.
+21. Add 2x+y -2a+ 55 1
+2
+b, 24b-y + 2x+a, 3a-2y -4x-81b, and subtract
+the result from 2y + 3a +
+1
+2
+b + 3x.
+22. Divide 11
+8
+a
+2 -
+5
+4
+a
+3 -
+1
+2
+a + a
+4 by a
+2 -
+1
+2
+a.
+23. A can do a piece of work in 3 days which B can do in 5 days. In what
+time can they do it working together?
+24. Simplify a - b
+a
+2 - ab + b
+2
++
+ab
+a
+3 + b
+3
++
+1
+a + b
+.
+25. Factor x
+2 - 9x - 52, 1 - a
+16, (a
+2 + b
+2
+)
+2 + 2(a
+4 - b
+4
+) + (a
+2 - b
+2
+)
+2
+.
+26. Solve 3x
+4
+-
+x - 10
+2
+= x - 6 -
+x - 4
+2
+.
+27. The sum of the ages of a man and his son is 100 years; one-tenth of the
+product of their ages exceeds the father’s age by 180. How old are they?
+28. Solve x = 9 -
+y
+2
+, y = 11 + x
+3
+.
+29. From what must 3x
+4 - 2x
+3 + x - 6 be subtracted to produce unity?
+30. Find the following roots: v
+5.5225, v3
+32.768.
+117
+IV.
+31. Find the value of 4x
+3 + 2y
+3
+ab +
+2y
+3 + 4z
+3
+z
+3 + y
+2
+-
+b
+3 - z
+2
+b
+a
+2b
+, if x = 1, y = 2, z = 0,
+a = 4, and b = 5.
+32. Solve 4
+x - 6
+-
+3
+x - 9
+=
+1
+x - 3
+.
+33. Find three consecutive numbers whose sum is 78.
+34. Find the G.C.F. of 2a
+3 - 12a - 2a
+2
+, a
+4 - 4a
+2 and 4a
+3
+b + 16ab + 16a
+2
+b.
+35. Divide x
+4 - y
+4
+x
+2 - 2xy + y
+2
+by x
+2+xy
+x-y
+.
+36. A fraction becomes 3
+4
+by the addition of three to the numerator and one
+to the denominator. If one is subtracted from the numerator and three
+from the denominator, it becomes 1
+2
+. What is the fraction?
+37. Expand ³
+3a
+2
+b(m+n)
+2
+4xy3 (a - b)
+3
+´3
+,
+q 50x4(a+b)
+7
+32y6z
+2(a+b)
+.
+38. If a certain number is multiplied by itself, the result is 9x
+4 - 4x + 10x
+2 +
+1 - 12x
+3
+. Find the number.
+39. Simplify ax - x
+2
+(a + x)
+2 ×
+a
+2 + ax
+(a - x)
+2 ÷
+2ax
+a
+2 - x
+2
+.
+40. Solve 18x - 20y = 3,
+4y - 2
+3
+-
+5x
+2
+= 0.
+V.
+41. Factor x
+4 + 5x
+2 + 6, x
+2 - 14x + 49, x
+2 - (y + z)
+2
+.
+42. Add xy -
+9
+8
+x-
+7
+12 (x
+2 -y
+2
+)-5x
+2y
+2
+,
+5
+8
+x-xy + 9x
+2y
+2 +
+2
+3
+(x
+2 -y
+2
+), 1
+9
+x
+2y
+2 -
+xy +
+1
+4
+x +
+3
+4
+(x
+2 - y
+2
+), 2xy +
+1
+4
+x -
+5
+6
+(x
+2 - y
+2
+) - 4x
+2y
+2
+.
+43. At what times between 7 and 8 o’clock are the hands of a clock six minutes
+apart?
+44. Simplify x
+2 - 5x + 6
+x
+2 - 2x + 1
+×
+x
+2 - 4x + 3
+x
+2 - 4x + 4
+÷
+x
+2 - 6x + 9
+x
+2 - 3x + 2
+.
+45. Solve x + 2
+b + 2
+= 2 -
+x + 1
+b + 1
+.
+46. Factor x
+6
+y
+6
+-
+a
+2
+b
+4
+c
+2
+,
+x
+2
+y
+2
+-
+5x
+y
+- 14, x
+2
+y
+2
+- 2 +
+y
+2
+x
+2
+.
+47. A, who works only two-thirds as fast as B, can build a stone wall in 12
+days. In what time could A and B together build the wall?
+118
+48. Solve x + y
+2
+-
+x - y
+3
+= 8, x+y
+3 +
+x-y
+4 = 11.
+49. Expand (1 + 2x)
+3
+,
+¡
+2x
+2 - 3a
+2
+b
+3
+¢4
+.
+50. Reduce (a
+4 + 2a
+2
+b
+2 + b
+4
+)(a
+4 + b
+4
+)
+a
+8 - b
+8
+to lowest terms.
+VI.
+51. y is how much greater than x?
+52. Subtract 3x
+3 + 4x
+2y - 7xy2 + 10y
+3
+from 4x
+3 - 2x
+2y + 4xy2 + 4y
+3 and find
+the value of the remainder when x = 2 and y = 1.
+53. The length and width of a rectangle are respectively 5 feet longer and 4
+feet.shorter than the side of an equivalent square. What is its area?
+54. Find the L.C.M. of a
+2 - 3 - 2a, a
+2 - 1, and 2a
+2 - 6a + 4.
+55. Simplify
+b
+4a - 1 + a
+b
+b
+2a -
+2a
+b
+.
+56. Solve x - 1
+3
++
+3
+x - 1
+= 2.
+57. Factor a
+4
+b + 8ac3
+bm6
+, 4c
+3x
+2 + cy2 + 4c
+2xy, x
+6 - 1.
+58. Multiply 1 -
+1
+2
+x -
+1
+3
+x
+2 +
+1
+4
+x
+3 by 1 -
+1
+3
+x
+2 -
+1
+4
+x
+3 -
+1
+2
+x.
+59. Find the cube root of 6x
+4 + 7x
+3 + 3x
+5 + 6x
+2 + x
+6 + 1 + 3x.
+60. Divide 12x
+2y
+2 - 4y
+4 - 6x
+3y + x
+4 by x
+2 + 2y
+2 - 3xy.
+VII.
+61. Add 1
+10 a
+3 -
+4
+5
+a
+4 -
+1
+5
+a
+2 +
+3
+10 a,
+1
+4
+a
+2 -
+4
+5
+a-
+5
+7
+a
+4 -
+1
+8
+a
+3
+,
+5
+7
+a
+4 +
+1
+8
+a
+3 +
+3
+4
+a
+2 +
+2
+5
+a,
+4
+5
+a
+4 +
+1
+5
+a
+2 +
+2
+5
+a
+3 +
+1
+10 a.
+62. Solve x(a - x) + x(b - x) = 2(x - a)(b - x).
+63. Factor x
+4 - 22x
+2 - 75, 16 - x
+8
+, (a + b)
+2 - (a - b)
+2
+.
+64. A piece of work can be finished by 3 men in 8 days, or by 5 women in 6
+days, or by 6 boys in 6 days. In what time can 2 men, 3 women, and 3
+boys do the work?
+65. Solve 3x + 19
+2
+-
+µ
+x + 1
+6
++ 3¶
+=
+5x + 2
+3
+-
+µ
+3 -
+3x - 1
+2
+¶
+.
+119
+66. Expand ³a
+b
+-
+c
+d
+´3
+,
+³ c
+d
++ 1´ µ
+c
+2
+d
+2
+-
+c
+d
++ 1¶
+.
+67. What number is that, the sum of whose third and fourth parts is less by
+two than the square of its sixth part?
+68. Solve x
+5
+-
+y
+7
+= 1, 2x
+3 -
+y
+2 = 3.
+69. Divide m by 1 + y to four terms.
+70. If x is 3
+5
+of a number, what is the number?
+VIII.
+71. The head of a fish is 6 inches long, the tail is as long as the head and half
+the body, and the body is as long as the head and tail. What is the length
+of the fish?
+72. Add 4a - 5x - 15y, a + 18x + 8y, 4a - 7x + 11y, a + 3x + 5y, and multiply
+the result by the difference between 11a + 7y and 10a + 6y - x.
+73. Divide 2x
+2 +
+9
+2
+x
+4 +
+8
+9
+by 2x + 3x
+2 +
+4
+3
+.
+74. How many numbers each equal to 1 - 2x + x
+2 must be added together to
+equal 5x
+6 - 6x
+5 + 1?
+75. Factor a
+3 + 5a
+2 - 4a - 20, x
+6 - y
+6
+, 2x
+5 - 8x
+3y
+2 + 6xy4
+.
+76. A courier who travels at the rate of 5 miles an hour is followed, 4 hours
+later, by another who travels at the rate of 15 miles in 2 hours. In how
+many hours will the second overtake the first?
+77. Divide 1
+1 - x
+-
+1
+1 + x
+by 1
+1 - x
++
+1
+1 + x
+.
+78. Solve 3x - 4y = -6, 10x + 2y = 26.
+79. 3xy-3a
+2+ 4b
+2-5cd+ 4xy-6a
+2-7b
+2+ 7cd+ 3xy-6a
+2+ 6b
+2-3cd-5xy+
+7a
+2 - 6b
+2 + 4cd + 4xy + 7a
+2 - 7b
+2 + 4cd - 6xy - 6a
+2 + 3b
+2 - 7cd + 7a
+2 =?
+80. Simplify 3x - 5 - {2(4 - x) - 3(x - 2)} + {3 - (5 + 2x) - 2}.
+120
+ANSWERS TO A FIRST
+BOOK IN ALGEBRA.
+Exercise 1.
+1. 43; 86.
+2. Carriage, $375; horse, $125.
+3. C, $31; J, $155.
+4. 8; 56.
+5. 8 miles.
+6. Needles, 8; thread, 64.
+7. 224 girls; 448 boys.
+8. 25; 275.
+9. H, 6 qts.; J, 18 qts.
+10. Lot, $720; house, $3600.
+11. Mr. A, 72; son, 24.
+12. 50 A.; 300 A.
+13. Dict., $7.20; rhet, $.90.
+14. 112; 4144.
+15. Aleck, 56; Arthur, 8.
+16. Mother, 28; daughter, 4.
+17. J, 15 yrs.; M, 5 yrs.
+121
+Exercise 2.
+1. Necktie, $.75; hat, $3; boots, $3.75.
+2. 30; 45; 15 miles.
+3. James, 15; sister, 5; brother, 10.
+4. Pig, $10; cow, $30; horse, $50.
+5. A, 35; B, 15; C, 5.
+6. 12; 48.
+7. 8 men; 40 women.
+8. Henry, $200; John, $400; James, $800.
+9. 4500 ft.; 13,500 ft.; 27,000 ft.
+10. 15; 45; 60 pigeons.
+11. 165; 33; 11.
+12. A, $44; B, $11; C, $55.
+13. Calf, $8; cow, $16; horse, $48.
+14. 150; 450 gal.
+15. Cow, $30; lamb, $5.
+16. Tea, 90; coffee, 30.
+17. Mrs. C, $25,000; Henry, $5000.
+Exercise 3.
+1. 14 boys; 21 girls.
+2. 14 yrs.; 29 yrs.
+3. 492; 587 votes.
+4. 22; 48.
+5. J, 79; H, 64.
+6. Flour, 27 bbls.; meal, 30 bbls.
+7. 23 Hol.; 40 Jer.
+8. $18; $26.
+9. 40; 59.
+122
+10. 16; 19; 21.
+11. 21; 17; 24.
+12. $10,000; $11,500; $12,700.
+13. 21; 38; 6.
+14. 51; 28; 16 sheep.
+15. A, 253; B, 350; C, 470 votes.
+16. 17; 12; 24 A.
+17. 36; 20; 55.
+18. $50,000; $44,000; $24,000.
+Exercise 4.
+1. C, 34; H, 15.
+2. 26 pear; 7 apple.
+3. J, 16 qts.; M, 7 qts.
+4. 65.
+5. 18.
+6. 24.
+7. 11.
+8. Tea, $8.76; coffee, $1.63.
+9. 15; 33 rooms.
+10. 5; 6; 12.
+11. 17; 20; 100.
+12. $5000; $3000; $10,000.
+13. $50; $68; $204.
+14. A, $5000; B, $10,500; C, $31,500.
+15. 8000; 24,250; 48,500ft.
+16. Daughter, $25,000; son, $40,000; widow, $160,000.
+17. Father, 14 qts.; older son, 7 qts.; younger son, 4 qts.
+18. H, 200 stamps; J, 185 stamps; T, 189 stamps.
+123
+Exercise 5.
+1. Blue, 5 yds.; white, 15 yds.
+2. 3.
+3. Walked 2 hrs.; rode 8 hrs.
+4. Book, $2; lamp, $4.
+5. 12.
+6. 12 twos; 24 fives.
+7. Tea, 67; coffee, 32.
+8. Crackers,18 gingersnaps, 25
+9. Lamp, $1; vase, $1.50.
+10. House, $4500; barn, $3300.
+11. 12,000; 13,500 ft.
+12. 29 gal.; 24 gal.
+13. Johnson, $6000; May, $1500.
+14. 27; 10; 42.
+15. 3; 17; 51.
+16. 3 bbls.; 9 boxes.
+17. 18; 90; 180.
+18. 84; 132.
+Exercise 6.
+1. 4.
+2. 7.
+3. 12 yrs.
+4. $6.25.
+5. $8.
+6. 8 sheep.
+7. 121; 605.
+8. 142; 994.
+124
+9. $500; $1450; $2900.
+10. W, 6 yrs.; J, 9 yrs.
+11. 25; 15 marbles.
+12. 16.
+13. Oranges, 35 cents; apples, 20 cents.
+14. 9; 15.
+15. 30 yrs.; 32 yrs.
+16. Cow, $30; horse,$45.
+17. 5.
+18. Boots, $5; clothes, $18.
+Exercise 7.
+1. 14 yrs.; 56 yrs.
+2. Corn, 60; wheat, 300.
+3. $3000; $9000.
+4. 70 miles; 35 miles.
+5. 45; 720.
+6. 189.
+7. J, 3 yrs.; M, 15 yrs.
+8. 96.
+9. $40,000.
+10. 24 marbles.
+11. $30,000.
+12. 300 oranges.
+13. 90.
+14. 60,000ft.
+15. 70ft.
+16. 72 sq. rds.
+17. A, $22,500; B, $7500.
+18. 30.
+125
+Exercise 8.
+1. 4.
+2. 45 marbles.
+3. 12; 24; 6 cows.
+4. 16.
+5. 45.
+6. 6048.
+7. $3000.
+8. 24.
+9. 14.
+10. 48,000 ft.
+11. 30.
+12. 18; 9; 63.
+13. 56; 21; 7.
+14. 16; 4; 56; 36.
+15. Coffee, 18 lbs.; tea, 20 lbs.; cocoa, 24 lbs.
+16. $2500; $5000; $7500.
+17. J, 9 cents; P, 81 cents.
+18. $12,000.
+Exercise 9.
+1. 35; 21.
+2. 24; 18.
+3. 42; 30 miles.
+4. 30; 54 yrs.
+5. J, 10 boxes; H, 16 boxes.
+6. 33 tons; 27 1
+2
+tons.
+7. John, 28yrs.; James, 32yrs.
+8. $1000; $625.
+126
+9. 240 girls; 180 boys.
+10. 150 lemons.
+11. 21,000 ft.; 6000 ft.
+12. 20; 12; 10; l0 miles.
+13. 126 cu. yds.
+14. M, 390; H, 130.
+15. 39; 41; 32; 27.
+16. 3205; 2591; 1309.
+17. 20 miles; 4 miles; 48 miles.
+Exercise 10.
+1. x + 9.
+2. a + p.
+3. 8b.
+4. x + y.
+5. c + 5.
+6. dx.
+7. m + l + v + c dols.
+8. x + y + z yrs.
+9. bm.
+10. d + 1.
+11. y + z + s cts.
+12. m + 1.
+13. yx.
+14. x + 40 + a.
+15. 28; 46.
+127
+Exercise 11.
+1. a - b or b - a.
+2. b - 10.
+3. a + b - c.
+4. a - 2, a - 1, a, a + 1, a + 2.
+5. a - b dols.
+6. c - 8.
+7. x - 3, x - 6, x - 9.
+8. c - b dols.
+9. x - 5.
+10. x, x + 9, or x, x - 9.
+11. x - 75 dols.
+12. m + x dols.
+13. c - f cts.
+14. b - e dols.
+15. l + 4 + m - x dols.
+16. c - a - b.
+17. 429; 636 votes.
+18. m + x - y + b - z dols.
+19. 80 - c dols.
+20. x, 60 - x.
+Exercise 12.
+1. 2x.
+2. xyz.
+3. 100x cts.
+4. abc.
+5. ad cts.
+6. mb miles.
+128
+7. ax hills.
+8. x
+3
+.
+9. a
+9
+.
+10. d
+a
+.
+11. 3m3 + a
+2
+.
+12. x
+2m + x
+m.
+13. 6
+100mx dols., or 6mx cts.
+14. 3c - 8 boys; 4c - 8 boys and girls.
+15. 9x days.
+16. 3x thirds.
+17. 5b fifths.
+18. m - x + 2a dols.
+19. 12a - 39.
+Exercise 13.
+1. 5a
+3c
+.
+2. y
+100 dols.
+3. x
+a
+books.
+4. m
+y
+days.
+5. x
+b
+dols.
+6. a+b
+c
+.
+7. a +
+b
+c
+.
+8. a +
+a
+2
+, or 3
+2
+a.
+9. 300x.
+10. 18b - 3x dols.
+11. A, 1
+x
+; B, 1
+y
+; C, 1
+z
+; all, 1
+x
++
+1
+y
++
+1
+z
+.
+12. a
+2
+sq. ft.
+13. 100a + 10b + 25c cts.
+129
+14. x
+y
+.
+15.
+n
+m
+chestnuts.
+16. 12; 18 apples.
+Exercise 14.
+10. 11.
+11. 7.
+12. 21.
+13. 78.
+14. 46.
+15. -74.
+16. -1
+1
+3
+.
+17. -4
+1
+4
+.
+18. 5.
+19. 6 apples; 12 pears.
+20. 36 years.
+Exercise 15.
+1. 24x.
+2. 25ab.
+3. -18ax3
+.
+4. -42x.
+5. 10a
+2
+.
+6. -10abc2
+.
+7. 6ab - x
+2
+.
+8. 10ax - 4bc.
+9. -16a
+2
+.
+10. 8a
+4
+b + 3ab - x
+5
+.
+11. 3
+2
+a.
+130
+12. -
+7
+12 b.
+13. m + d + c - x cts.
+14. a - x - 5 + y miles.
+15. 5a + 4b + 5c.
+16. x + y - z.
+17. -3z - a.
+18. 2x
+3 + 4x
+2 - 2x + 17.
+19. a
+3 + b
+3 + c
+3
+.
+20. 2a
+m + 1.
+21. 2a
+2
+b
+2
+c.
+22. 23x
+3 - 20x
+2 + 27x + 6.
+23. x
+5y + 12x
+4y
+2 - 16x
+3y
+3 - 8xy5
+.
+24. 5x + 3y + z - a - 3b.
+25. a
+3 + b
+3 + c
+3 - 3abc.
+26. mb + c men.
+27. x - 10 cows; z + 19 horses.
+28. 22 girls; 30 boys.
+Exercise 16.
+1. 2a
+3
+.
+2. 12a
+2
+b.
+3. -9xy3
+.
+4. 4x
+my.
+5. 8x
+2 - 3ax.
+6. 5xy + 7by.
+7. 2a
+m.
+8. 9ax.
+9. -3a - b + 14c.
+10. 4x - y + 2z.
+131
+11. 8x
+4 - 2x
+3 + 4x
+2 - 15x + 14.
+12. 20a
+2
+b
+2 + 16a
+2
+b.
+13. 4x
+3 - 2.
+14. 2x
+m - x
+2m - x
+3m
+15. 2a
+2n - 18a
+nx
+n - 9x
+2n.
+16. 4
+3
+a
+2 -
+7
+2
+a -
+1
+2
+.
+17. -2x
+4y - 3x
+3y
+2 + 5xy4 - y
+5
+.
+18. x - y + a.
+19. -3a
+2
+.
+20. 8x
+3 - 2x.
+21. 27y
+3 - 3z
+3 - 6x
+3 + 4yz2 - 11z
+2x.
+22. 4x
+2 - 16x + 64.
+23. -4a
+2 + 6b
+2 - 8bc + 6ab.
+24. 2x
+4 - 3x
+2 + 2x - 4.
+25. 5a
+3 + 2a + 2.
+26. -11a
+2
+b + 4ab2 - 12a
+2
+b
+2 - b
+3
+.
+27. b - a.
+28. x - 3.
+29. 40 - y yrs.
+30. 23
+a
+hrs.
+Exercise 17.
+1. 2x + a + b + c - d.
+2. a + c.
+3. 2a
+2
+b - a
+3 - 2b
+3 - ab2
+.
+4. 3xy - x
+2 - 3y
+2
+.
+5. 4b - 4c.
+6. -2y.
+7. -6b + 4c.
+132
+8. -b.
+17. 5(x - y).
+18. 150 - 7(x + y).
+19. x + 8 yrs.
+20. 3(x - 35) dols.
+Exercise 18.
+1. 35cx.
+2. -51acxy.
+3. 21ax4y
+3
+.
+4. 10a
+3
+b
+3
+c
+4
+.
+5. 18acx3y
+3
+.
+6. 30a
+3
+b
+2
+c
+4
+.
+7. -x
+3y
+3
+z
+3
+.
+8. -a
+4
+b
+5
+c
+2
+.
+9. -
+2
+9
+a
+2
+cx6y
+4
+.
+10. -
+3
+20 a
+3
+b
+5
+c
+4
+.
+11. 100
+ab .
+12. 100x.
+13. 100a + 10b + c.
+14. x + 7 or x - 7.
+Exercise 19.
+1. x
+4y
+2 + x
+3y
+3 + x
+2y
+4
+.
+2. a
+4
+b - a
+3
+b
+2 + a
+2
+b
+3
+.
+3. -2a
+4
+b + 6a
+3
+b
+2 - 2ab4
+.
+4. 24x
+4y
+2 + 108x
+3y
+3 + 81xy5
+.
+5. a
+5
+b
+2 -
+6
+25 a
+4
+b
+3 -
+2
+5
+a
+3
+b
+4
+.
+6. x
+3 + y
+3
+.
+133
+7. x
+5 - 4x
+4 + 5x
+3 - 3x
+2 + 2x - 1.
+8. x
+5 + x
+4 - 4x
+3 + x
+2 + x.
+9. x
+2y
+2 - 2xy2n + y
+2n
+2 - m2n
+2 + 2xm2n - x
+2m2
+.
+10. x
+7 + x
+6 + 2x
+5 + x
+2 + x + 2.
+11. a
+6 + b
+6
+.
+12. x
+3 - 3xyz + y
+3 + z
+3
+.
+13. x
+7 - y
+7
+.
+14. x
+8 - 8x
+4a
+4 + 16a
+8
+.
+15. a
+6 + 2a
+3y
+3 - 9a
+4y
+4 + y
+6
+.
+16. x
+6 + x
+5 + 2x
+4 - 11x
+3 - 17x
+2 - 34x - 12.
+17. 6x
+6 - 17x
+5 - 12x
+4 - 14x
+3 + x
+2 + 12x + 4.
+18. 5(x + y); 4(x - y).
+19. 12
+35 of the field.
+20. 1
+a +
+1
+b
+.
+Exercise 20.
+1. x
+2 + 9x + 14.
+2. x
+2 + 7x + 6.
+3. x
+2 - 7x + 12.
+4. x
+2 - 7x + 10.
+5. x
+2 + 3x - 10.
+6. x
+2 + 4x - 21.
+7. x
+2 - x - 42.
+8. x
+2 - x - 30.
+9. x
+2 - 13x + 22.
+10. x
+2 - 14x + 13.
+11. y
+2 - 2y - 63.
+12. x
+2 + 20x + 51.
+13. y
+2 - 13y - 30.
+134
+14. y
+2 + 18y + 32.
+15. a
+4 + 2a
+2 - 35.
+16. a
+2 - 81.
+17. m4 - 18m2 + 32.
+18. b
+6 + 2b
+3 - 120.
+19. x
+2 -
+3
+4
+x +
+1
+8
+.
+20. y
+2 +
+1
+2
+y +
+1
+18 .
+21. m2 +
+1
+3m -
+2
+9
+.
+22. a
+2 +
+1
+5
+a -
+6
+25 .
+23. x
+2 -
+7
+6
+x +
+1
+3
+.
+24. y
+2 +
+19
+20 y +
+3
+20 .
+25. 21 - 10x + x
+2
+.
+26. 15 - 8x + x
+2
+.
+27. 42 - x - x
+2
+.
+28. 33 + 8x - x
+2
+.
+29. x
+2 - 9.
+30. y
+2 - 25.
+31. 21.
+32. 12 cows.
+Exercise 21.
+1. a
+4
+b
+2
+.
+2. x
+3y
+6
+.
+3. a
+8
+b
+2
+.
+4. -x
+9y
+6
+.
+5. 27a
+6y
+3
+.
+6. 49a
+2
+b
+4
+c
+6
+.
+7. x
+5y
+5
+z
+10
+.
+8. m8n
+4d
+4
+.
+135
+9. -125x
+9y
+12z
+3
+.
+10. 121c
+10d
+24x
+8
+.
+11. 1
+4
+x
+4a
+2m6
+.
+12. 1
+9
+a
+2
+b
+6
+c
+2
+.
+13. 225c
+12d
+2x
+4
+.
+14. -729x
+3y
+15z
+6
+.
+15. a
+36b
+8
+c
+16d
+8
+.
+16. -x
+40y
+5
+z
+15m10n
+5
+.
+17. 4
+9
+a
+4
+b
+2
+c
+8
+.
+18. 25
+36m2n
+4x
+6
+.
+19. 8b days.
+20. 10a mills; a
+100 dols.
+Exercise 22.
+1. z
+3 + 3z
+2x + 3zx2 + x
+3
+.
+2. a
+4 + 4a
+3y + 6a
+2y
+2 + 4ay3 + y
+4
+.
+3. x
+4 - 4x
+3a + 6x
+2a
+2 - 4xa3 + a
+4
+.
+4. a
+3 - 3a
+2m + 3am2 - m3
+.
+5. m2 + 2am + a
+2
+.
+6. x
+2 - 2xy + y
+2
+.
+7. x
+6 + 3x
+4y
+2 + 3x
+2y
+4 + y
+6
+.
+8. m6 - 2m3y
+2 + y
+4
+.
+9. c
+8 - 4c
+6d
+2 + 6c
+4d
+4 - 4c
+2d
+6 + d
+8
+.
+10. y
+6 + 3y
+4
+z
+4 + 3y
+2
+z
+8 + z
+12
+.
+11. x
+4y
+2 + 2x
+2yz + z
+2
+.
+12. a
+8
+b
+4 - 4a
+6
+b
+3
+c + 6a
+4
+b
+2
+c
+2 - 4a
+2
+bc3 + c
+4
+.
+13. a
+6 - 3a
+4
+b
+3
+c + 3a
+2
+b
+6
+c
+2 - b
+9
+c
+3
+.
+14. x
+4y
+2 - 2x
+2ymn3 + m2n
+6
+.
+15. x
+3 + 3x
+2 + 3x + 1.
+136
+16. m2 - 2m + 1.
+17. b
+8 - 4b
+6 + 6b
+4 - 4b
+2 + 1.
+18. y
+9 + 3y
+6 + 3y
+3 + 1.
+19. a
+2
+b
+2 - 4ab + 4.
+20. x
+4y
+2 - 6x
+2y + 9.
+21. 1 - 4x + 6x
+2 - 4x
+3 + x
+4
+.
+22. 1 - 3y
+2 + 3y
+4 - y
+6
+.
+23. 4x
+2 + 12xy2 + 9y
+4
+.
+24. 27a
+3
+b
+3 - 27a
+2
+b
+2x
+2y + 9abx4y
+2 - x
+6y
+3
+.
+25. 256m4n
+12 - 768m3n
+9a
+2
+b + 864m2n
+6a
+4
+b
+2 - 432mn3a
+6
+b
+3 + 81a
+8
+b
+4
+.
+26. 1
+4
+x
+2 - xy + y
+2
+.
+27. 1 - x
+2 +
+1
+3
+x
+4 -
+1
+27x
+6
+.
+28. x
+8 - 12x
+6 + 54x
+4 - 108x
+2 + 81.
+29. 20a
+2 - d horses.
+30. 100x - a
+2
+cts.
+31. a(25 - x) cts.
+32. 3.
+33. -228.
+Exercise 23.
+1. 14x - 7.
+2. b
+8 - 2b
+4 + 1.
+3. 10x
+2 + 7y
+2
+.
+4. $160; $80; $60.
+5. 13; 21.
+6. 2a
+3 + 4a
+2 + 10.
+7. 1
+3
+a
+2 -
+4
+3
+ab +
+1
+2
+b
+2
+.
+8. 48a
+7
+b
+6
+c
+7
+.
+9. 16
+81x
+4y
+8
+z
+12
+.
+137
+10. 2x
+2 - 8x + 26.
+11. 8a
+6
+b
+3 - 36a
+4
+b
+2xy + 54a
+2
+bx2y
+2 - 27x
+3y
+3
+.
+12. x
+3 - 3x
+2 + 2y - 6.
+13. x
+6 - 3x
+4y
+2 + 3x
+2y
+4 - y
+6
+.
+14. x
+4 - 1.
+15. x
+4 - y
+4
+.
+16. 176 1
+2
+lbs.; 140 1
+2
+lbs.
+17. watch, $200; chain, $150.
+18. 2x + 4.
+19. 8 ay.
+20. 1 + 2
+3
+b +
+1
+9
+b
+2 -
+1
+4
+a
+2
+.
+Exercise 24.
+1. 5xy.
+2. 13ab.
+3. 3a
+2
+.
+4. 5x
+2y
+3
+.
+5. -17x.
+6. -11x
+3y.
+7. 4xz2
+.
+8. 9a
+2
+c
+2
+.
+9. 2a
+2
+b
+3
+.
+10. -3x
+2y.
+11. -5x
+3y
+3
+.
+12. -5a
+2
+c
+4
+.
+13. 4
+5
+x
+3y.
+14. -3a
+3m3
+.
+15. 8m3x
+4
+.
+16. -6x
+2y
+2
+z
+3
+.
+138
+17. 2(x + y)
+2
+z
+2
+.
+18. 5(a - b)
+2x.
+19. 1
+2
+x
+3y
+3
+z
+2
+.
+20. -
+1
+3
+a
+2
+b
+3
+.
+21. x
+9y
+6 - 9x
+7y
+5 + 27x
+5y
+4 - 27x
+3y
+3
+.
+22. b
+2a miles.
+23. 8y
+x
+days.
+24. ab
+c
+.
+Exercise 25.
+1. 3ab2 - 7b + 15a
+3x.
+2. 5x
+2y + 3y - 9xy3
+.
+3. 8x
+3y
+5 - 4x
+2y
+2 - 2y.
+4. 13a
+2
+b - 9ab2 + 7b.
+5. -
+6
+7
+a
+2x
+2 +
+3
+2
+ax3
+.
+6. -
+1
+3
+x
+2 + 2y
+2
+.
+7. -4y
+3
+z
+3 + 3x
+2y
+3
+z
+4 - xy.
+8. 20ac - 31a
+2
+b
+4
+c
+2
+.
+9. x
+6 -
+5
+2
+x
+3 +
+1
+2
+x
+4 - 4x -
+3
+2
+x
+2
+.
+10. 8 + 32
+3
+y
+4 - 16y
+3
+.
+11. 2
+3
+a -
+1
+6
+b - c.
+12. 3x - 2y - 4.
+13. xy men.
+14. 60x
+a minutes.
+15. 100b
+x
+apples.
+139
+Exercise 26.
+1. x - 7.
+2. x - 3.
+3. x
+2 + 5.
+4. y
+2 - 6.
+5. x
+2 - 5x - 3.
+6. a
+2 + 2a - 4.
+7. x
+2 + xy + y
+2
+.
+8. a
+2 - ab + b
+2
+.
+9. 8a
+3 + 12a
+2
+b + 18ab2 + 27b
+3
+.
+10. 27x
+5 + 9x
+4y + 3x
+2y
+2 + y
+3
+.
+11. x
+3 + x
+2y + 3xy2 + 4y
+3
+.
+12. a
+3 + 4a
+2
+b - 3ab2 - 2b
+3
+.
+13. x
+4 + 2x
+2 - 3x + 1.
+14. x
+3 - 3x
+2 + x - 1.
+15. a
+2 - a - 1.
+16. x
+4 - x
+3 - x
+2
+.
+17. a
+8 + a
+5 + a
+2
+.
+18. a
+10 - a
+8 + a
+6 - a
+4
+.
+19. x
+2 + 2xy + 2y
+2
+.
+20. 2a
+2 - 6ab + 9b
+2
+.
+21. 1
+2
+x
+2 + xy -
+1
+3
+y
+2
+.
+22. 1
+3
+x
+2 -
+1
+2
+xy +
+2
+3
+y
+2
+.
+23. 1
+2
+(x - y)
+3 - (x - y)
+2 -
+1
+4
+(x - y).
+24. 2x
+2 - 3y.
+25. 4x
+3 - 4x
+2 - 6x + 6.
+26. 2a
+3 + a
+2
+b - 2ab2 - b
+3
+.
+27. a
+4 + a
+2
+b
+2 + b
+4
+.
+140
+28. x
+4 + x
+2y
+2 + y
+4
+.
+29. 3a
+3 + 2b
+2
+.
+30. 1 + 2x - 2x
+2 + 2x
+3 - etc.
+31. 1 - a - a
+2 - a
+3 - etc.
+32. 2 + 3
+2
+a +
+3
+4
+a
+2 +
+3
+8
+a
+3 + etc.
+33. 3 -
+4
+3
+x +
+4
+9
+x
+2 -
+4
+27x
+3 + etc.
+34. x
+5
+hrs.
+35.
+x + my + bc
+n
+dols.
+36.
+am + bp
+m + p
+cts.
+37. y - 11 yrs.
+Exercise 27.
+1. 4ab3
+.
+2. 3xy2
+.
+3. -2x
+2y.
+4. -2a
+2
+b
+3
+.
+5. 3ab2
+.
+6. 3xy3
+.
+7. 2x
+2y.
+8. 3x
+4y
+3
+.
+9. 2
+3m3y
+2
+.
+10. (
+2
+)(3)a
+3
+b
+2
+.
+11. -
+3
+4
+x
+3y
+4
+.
+12. -
+2
+3
+ab3
+.
+13. x
+2
+(a - b).
+14. a
+3
+(x
+2 + y
+2
+).
+15. 2ab3
+¡
+x
+2 - y
+¢2
+.
+141
+16. 4x
+2y
+¡
+m3 + y
+¢3
+.
+17. 3
+2
+a
+2
+b
+3
+.
+18. 1
+2
+x
+2y.
+19. 10a
+3
+b
+3
+c
+4
+.
+20. 4y.
+21. 15x
+3y
+3
+z
+5
+.
+22. 5b.
+23.
+a
+x + y
+hrs.; ax
+x + y
+miles.; ay
+x + y
+miles.
+24. 26.
+25. 2(m - 6); 2m - 6.
+Exercise 28.
+1. 2x - 3y.
+2. x
+2 + 5xy3
+.
+3. 4abc2 - 7xy2
+z.
+4. 1
+2
+x - y
+2
+z.
+5. ab3 +
+1
+3
+c
+4
+.
+6. x
+2 - 2x - 1.
+7. x
+2 + 3x + 4.
+8. 2x
+2 - x + 2.
+9. 3x
+2 + x - 1.
+10. x
+3 + x
+2 - x + 1.
+11. x
+3 + 2x
+2 + x - 4.
+12. 2x
+3 - x
+2 - 3x + 1.
+13. 90 - x.
+14. 10x + y.
+142
+Exercise 29.
+1. 3x - y.
+2. 5x
+2 - 1.
+3. 3b
+2 + 4a.
+4. x
+2 - 2y
+2
+.
+5. 1 + 3x.
+6. 1 - 7m.
+7. 4x
+2 -
+1
+2
+.
+8. 3x
+3 +
+1
+3
+.
+9. 2a
+2 - a + 1.
+10. x
+3 - x
+2 + x.
+11. x
+2 - x - 1.
+12. 1
+2
+a
+2 + 2a - 1.
+13. 4x in.
+14. 27x
+3
+.
+15. 4y ft.
+16. a - b miles north; a + b miles.
+Exercise 30.
+1. 45.
+2. 97.
+3. 143.
+4. 951.
+5. 8.4.
+6. .95.
+7. 308.
+8. .0028.
+9. 3.9.
+10. 73.
+143
+11. 62.3.
+12. 83.9.
+13. 3.28.
+14. 50.5.
+15. 5.898-.
+16. 2.646-.
+17. .501-.
+18. 33 pieces.
+19. 74 men.
+20. 104.9+ in.
+21. 92 trees.
+Exercise 31.
+1. 5(a
+2 - 5)
+2. 16(1 + 4xy).
+3. 2a(1 - a).
+4. 15a
+2
+(1 - 15a
+2
+).
+5. x
+2
+(x - 1).
+6. a
+2
+(3 + a
+3
+).
+7. a(a - b
+2
+).
+8. a(a + b).
+9. 2a
+3
+(3 + a + 2a
+2
+).
+10. 7x(1 - x
+2 + 2x
+3
+).
+11. x(3x
+2 - x + 1).
+12. a(a
+2 - ay + y
+2
+).
+13. (x + y)(3a + 5mb - 9d
+2x).
+14. 5(a - b)(1 - 3xy - a
+2
+b).
+15. 4xy(x
+2 - 3xy - 2y
+2
+).
+16. 2axy5
+(3x
+2 - 2xy + y
+2 - ay4
+).
+144
+17. 17x
+2y(3x
+3 - 2x
+2y + y
+3
+).
+18. 3ab(2ab - a
+2
+b
+2
+c - 3b
+2
+c + c
+2
+).
+19. 3ax(x
+6 - 8 + 3x
+4 - x
+3 - 3x
+5
+).
+20. 27a
+5
+b
+2
+c
+3
+(a
+3 - 3a
+2
+b + 3ab2 - b
+3 - c
+3
+).
+21. m + d + c - x cts.
+22. 12 beads.
+Exercise 32.
+1. (a + b)(x + y).
+2. (x + b)(x + a).
+3. (a - b)(x
+2 + y
+2
+).
+4. (x + 5)(x - a).
+5. (a - x)(x + b).
+6. (x - 4y)(x + my).
+7. (x
+3 + 2)(2x - 1).
+8. (m - n)(x - a).
+9. (x
+2 + 1)(x + 1).
+10. (y
+2 + 1)(y - 1).
+11. (x
+4 - x
+2 + 1)(x + 1).
+12. (ax + by + c)(a + b).
+13. (a - b - c)(x - y).
+14. (3a - 2b)(x + y).
+15. (2a + 3b - c)(x - y).
+16. 3a(2x + y)(m - n).
+17. 250 + yA.; 30 - x horses.
+18. 12.
+19. 70.
+145
+Exercise 33.
+1. (x + y)(x - y).
+2. (m + n)(m - n).
+3. (ab2 + cd)(ab2 - cd).
+4. (mp2 - x
+3y
+2
+)(mp2 + x
+3y
+2
+).
+5. (a
+3
+bx2 + m2
+c
+4y
+10)(a
+3
+bx2 - m2
+c
+4y
+10).
+6. (xy2
+z
+2 + cdm2
+)(x
+2y
+2
+z
+2 - cdm2
+).
+7. (x
+2y + a
+3y
+2
+)(x
+2y - a
+3y
+2
+).
+8. (g
+3
+c
+3 - x
+3
+z
+4
+)(g
+3
+c
+3 + x
+3
+z
+4
+).
+9. (2a - 3x)(2a + 3x).
+10. (4m - 3n)(4m + 3n).
+11. (9xy2 - 5bd)(9xy2 - 5bd).
+12. (27m2
+cx5 + 100y
+2
+)(27m2
+cx5 - 100y
+2
+).
+13. (11m + 8x)(11m - 8x).
+14. (x
+2 + y
+2
+)(x + y)(x - y).
+15. (m4 + a
+4
+)(m2 + a
+2
+)(m + a)(m - a).
+16. (a
+4
+b
+4 + 1)(a
+2
+b
+2 + 1)(ab + 1)(ab - 1).
+17. (x
+8 + b
+8
+)(x
+4 + b
+4
+)(x
+2 + b
+2
+)(x + b)(x - b).
+18. (4a
+2 + 1)(2a + 1)(2a - 1).
+19. a(a + x)(a - x).
+20. 5b
+2
+(b + a)(b - a).
+21. (a - b)(x + y)(x - y).
+22. 5a(a + y)(1 + a)(1 - a).
+23. (m + y - a)(m - y).
+24. (a - x + 1)(a + x).
+25. x - 3y.
+26. 3x + 11 yrs.
+146
+Exercise 34.
+1. (x + y)(x
+2 - xy + y
+2
+).
+2. (c + d)(c
+2 - cd + d
+2
+).
+3. (a + bc)(a
+2 - abc + b
+2
+c
+2
+).
+4. (ax + y)(a
+2x
+2 - axy + y
+2
+).
+5. (2abc2 + m2
+)(4a
+2
+b
+2
+c
+4 - 2abc2m2 + m4
+).
+6. (x
+2y
+3 + 6a)(x
+4y
+6 - 6ax2y
+3 + 36a
+2
+).
+7. (a
+2 + b
+2
+)(a
+4 - a
+2
+b
+2 + b
+4
+).
+8. (4x
+2 + y
+2
+)(16x
+4 - 4x
+2y
+2 + y
+4
+).
+9. (x + 2)(x
+2 - 2x + 4).
+10. (3 + ab2
+)(9 - 3ab2 + a
+2
+b
+4
+).
+11. (y + 1)(y
+2 - y + 1).
+12. (1 + bc3
+)(1 - bc3 + b
+2
+c
+5
+).
+13. ( 1
+2
+a
+2
+b + c
+3
+)( 1
+4
+a
+4
+b
+2 -
+1
+2
+a
+2
+bc3 + c
+5
+).
+14. ( 1
+4
+x + 1)( 1
+2
+x
+2 -
+1
+4
+x + 1).
+15. (m + n + 2){(m + n)
+2 - 2(m + n) + 4}.
+16. (1 - x - y){1 - (x - y) + (x - y)
+2}.
+17. 2a
+2
+(xy2 + a
+2
+b
+3
+)(x
+2y
+4 - a
+2
+b
+3xy2 + a
+4
+b
+6
+).
+18. (m - n)(x + y).
+19. (x - y)(a + b)(a
+2 - ab + b
+2
+).
+20. (a + b)(a
+2 - ab + b
+2
+)(a - b)(a
+2 + ab + b
+2
+).
+21. (27x
+3 + 4y
+3
+)(27x
+3 - 4y
+3
+).
+22. (1 + x
+4
+)(1 + x
+2
+)(1 + x)(1 - x).
+23. 3(d - 26); 3d - 104 dols.
+24. 10y.
+25. x - 8.
+147
+Exercise 35.
+1. (x - a)(x
+2 + ax + a
+2
+).
+2. (c - b)(c
+2 + cb + b
+2
+).
+3. (a - xy)(a
+2 + axy + x
+2y
+2
+).
+4. (mn - c)(m2n
+2 + mnc + c
+2
+).
+5. (3m - 2x)(9m2 + 6mx + 4x
+2
+).
+6. 8(x - 2y)(x
+2 + 2xy + 4y
+2
+).
+7. (4ax2
+b - 5m3
+cy2
+)(16a
+2x
+4
+b
+2 + 20abcm3x
+2y
+2 + 25m6
+c
+2y
+4
+).
+8. 27(bc2y - 2a
+3m2x
+2
+)(b
+2
+c
+4y
+2 + 2a
+3
+bc2m2x
+2y + 4a
+2m4x
+4
+).
+9. (2x
+3y - 5)(4x
+6y
+2 + 10x
+3y + 25).
+10. (3 - 4mx2y)(9 + 12mx2y + 16m2x
+4y
+2
+).
+11. (a - b
+2
+)(a
+2 + ab2 + b
+4
+).
+12. (m2 - x)(m4 + m2x + x
+2
+).
+13. (x - 1)(x
+2 + x + 1).
+14. (1 - y)(1 + y + y
+2
+)
+15. ( 1
+3
+xy2 - b
+3
+)( 1
+9
+x
+3y
+4 +
+1
+3
+xy2
+b
+3 + b
+6
+).
+16. (2 -
+1
+4m2n)(4 + 1
+2m2n +
+1
+16m4n
+2
+).
+17. {1 - (a + b)}{1 + (a + b) + (a + b)
+2}.
+18. {xy - (x - y
+2
+)}{x
+2y
+2 + xy(x - y
+2
+) + (x - y
+2
+)
+2}.
+19. x(x
+2 - y)(x
+4 + x
+2y + y
+2
+).
+20. (a + m)(b - c)(b
+2 + bc + c
+2
+).
+21. (x + y)(x
+2 - xy + y
+2
+)(x - y)(x
+2 + xy + y
+2
+).
+22. (x
+5 + x
+2 - 1)(x - 1).
+23. (a - b)(a + b + a
+2 + ab + b
+2
+).
+24. (x + y)(mx2 - mxy + my2 - 1).
+25. 75
+xy
+hrs.
+26. 100x + 10x + y.
+148
+Exercise 36.
+1. (a + x)
+2
+.
+2. (c - d)
+2
+.
+3. (2a + y)
+2
+.
+4. (a + 2b)
+2
+.
+5. (x - 3c)
+2
+.
+6. (4x - y)
+2
+.
+7. (a + 1)2
+.
+8. (3 - x)
+2
+.
+9. (x - 5)2
+.
+10. (2y - 3)2
+.
+11. (3x + 4)2
+.
+12. (3a - 1)2
+(3a + 1)2
+.
+13. (3c + 11d)
+2
+.
+14. (2y - 9)2
+.
+15. ¡
+x
+2 - 3y
+¢2
+.
+16. ¡
+3 - 2x
+2
+¢2
+.
+17. ¡
+4xy2 - 3a
+8
+¢2
+.
+18. ¡
+5b + 3c
+2y
+¢2
+.
+19. ¡
+7a + 2x
+2y
+¢2
+.
+20. ¡
+1
+3
+x
+2 - y
+2
+¢2
+.
+21. ¡
+1
+2
+a + 2b
+¢2
+.
+22. ¡
+2
+3
+x
+3y - z
+4
+¢2
+.
+23. x
+3
+¡
+x
+3 - 2y
+4
+¢2
+.
+24. 2y
+¡
+3a + 2y
+2
+¢2
+.
+25. 3ax3
+(ax - 5b)
+2
+.
+149
+26. ¡
+x + y - a
+2
+¢2
+.
+27. ©
+(m2 - n
+2
+) - (m2 + n
+2
+)
+ª2
+or ¡
+-2n
+2
+¢2
+.
+28. (a + b)(a + b + 6).
+29. (x - y)(x - y - 3).
+30. (x - y)
+2
+¡
+x
+2 + xy + y
+2
+¢2
+.
+31. y
+2
+.
+32. 9y
+2
+.
+33. ±2cd.
+34. 1.
+35. 9.
+36. 4y
+4
+.
+37. 25y
+2
+.
+38. ±60ab3
+c.
+39. ±70a
+2
+b
+3
+cd.
+40. 16a
+2 or 28a
+2
+.
+41. ay or 353ay.
+42. 4a
+2
+b
+2 or 16a
+2
+b
+2
+.
+43. x
+2 or -3x
+2
+.
+44. a or -3a.
+45. b - a; 6(b - a); b + a; 3(b + a) miles.
+46. 8
+15 of the cistern.
+47. b-9
+3
+;
+b-9
+3 + 9 years.
+150
+Exercise 37.
+1. (a + 2)(a + 1).
+2. (x + 6)(x + 3).
+3. (x - 3)(x - 2).
+4. (a - 5)(a - 2).
+5. (y - 8)(y - 2).
+6. (c - 3)(c + 2).
+7. (x + 5)(x - 1).
+8. (x + 6)(x - 1).
+9. (y + 13)(y - 5).
+10. (a - 11)(a + 7).
+11. (x - 9)(x + 7).
+12. (a + 15)(a - 5).
+13. (a - 11)(a - 13).
+14. (a
+3 - 13)(a
+3 + 9).
+15. (x
+3 + 11)(x
+3 - 7).
+16. (6 + x)(5 + x).
+17. (7 + a)(3 + a).
+18. (7 - x)(5 - x), or (x - 7)(x - 5).
+19. (9 - x)(4 - x).
+20. (c + 3d)(c - d).
+21. (a + 5x)(a + 3x).
+22. (x - 5y)(x + 4y).
+23. (x
+2 + 4y)(x
+2 - 3y).
+24. (x
+2 - 5y
+2
+)(x + 3y)(x - 3y).
+25. x
+3
+(x - 12)(x - 11).
+26. a
+4
+(a - 7)(a - 5).
+27. 3a(x + 3)(x - 3)(x + 2)(x - 2).
+151
+28. 3a (a - 2b)
+2
+.
+29. (c - a)(c + a)(cd - 1)(c
+2d
+2 + cd + 1).
+30. (a + b)(x - 3)(x - 2).
+31. 1
+a +
+1
+b
+.
+32. 7x
+2
+days.
+Exercise 38.
+1. 9a
+2 - 9a - 4.
+2. 3y
+3 + 2y
+2 - 2y - 1.
+3. x
+4 - y
+4
+.
+4. a
+3 - 5a
+2 + 26a - 2.
+5. x
+6y
+3 - 12x
+4y
+2
+z
+3a
+4 + 48x
+2yz8a
+8 - 64z
+9a
+12
+.
+6. (x - 10) (x - 1).
+7. (a + b + c + d) (a + b - c - d).
+8. ¡
+2x
+2 - 3
+¢
+(3x + 2).
+9. x
+4
+¡
+3x
+2 - 11¢2
+.
+10. ¡
+2c
+2 - d
+3
+¢ ¡4c
+4 + 2c
+2d
+3 + d
+6
+¢
+.
+11. (1 + 4x)
+¡
+1 - 4x + 16x
+2
+¢
+.
+12. (a + 1) ¡
+a
+2 - a + 1¢
+(a - 1) ¡
+a
+2 + a + 1¢
+.
+13. (x + 2) (x + 1) (x - 1).
+14. (x - y)
+¡
+x
+4 + x
+3y + x
+2y
+2 + xy3 + y
+4
+¢
+.
+15. (9 + x) (3 + x).
+16. m2 + 2m - 4.
+17. -3m2 + 8mn + 3n
+2
+.
+18. 52 - 25x - 52x
+2
+.
+19. 2x
+3
+.
+20. 18; 19; 20.
+21. 60.
+22. 16.
+152
+Exercise 39.
+1. 3ab2
+.
+2. 5xy.
+3. 2xy3
+(x + y).
+4. 3a
+2
+b (a - b).
+5. m - n.
+6. 9x
+4 - 4.
+7. x - 5.
+8. x + 3.
+9. a + 2.
+10. y (y - 1).
+11. x - y.
+12. 3a
+¡
+c
+2 - a
+2
+¢
+.
+13. x
+2
+¡
+2x
+3 - y
+2
+¢
+.
+14. ax + by
+a + b
+cts.
+15.
+5
+100
+x dols.
+16. 5; 11.
+Exercise 40.
+1. ¡
+a
+2 - 4
+¢
+(a + 5).
+2. ¡
+x
+3 + 1¢
+(x + 1).
+3. ¡
+x
+2 - 9
+¢
+(x - 5).
+4. ¡
+x
+6 - 1
+¢ ¡x
+2 - 3
+¢
+.
+5. 2 ¡
+x
+2 - 1
+¢
+(x - 3) (x + 2).
+6. (a + 1)3
+(m - 2).
+7. ¡
+a
+2 - 4
+¢ ¡a
+2 - 25¢ ¡a
+2 - 9
+¢
+.
+8. (x - 1)3
+(y + 3).
+153
+9. ¡
+x
+2 - 1
+¢ ¡x
+2 - 9
+¢ ¡x
+2 - 16¢
+.
+10. 2x
+3
+¡
+x
+3 + 1¢
+(x - 1).
+11. ¡
+1 - a
+4
+¢2
+.
+12. 6axz ¡
+a
+2 - x
+2
+¢
+.
+13. ¡
+m2 - n
+2
+¢ ¡a
+2 - 10a + 21¢
+.
+14. 6bx ¡
+1 - b
+3
+¢
+(1 + b).
+15. 5ab (a + x) (a - x)
+2
+(a - x - 1).
+16. c + y degrees.
+17. b - y, or y - b degrees.
+18. 2
+x
+.
+19. x
+3 + 12.
+20. $ 306; $ 1836.
+Exercise 42.
+1.
+3x
+8z
+.
+2.
+2x
+4
+5y
+.
+3.
+x - 3
+x + 5
+.
+4. x + 6
+x - 5
+.
+5.
+a
+4
+a
+2 - 1
+.
+6.
+x
+2
+x
+3 + 1
+.
+7.
+m + n
+a + 2b
+.
+8.
+c + d
+x + 2y
+.
+9.
+d(c - ad)
+a
+2
+.
+154
+10.
+y(a + xy)
+x
+.
+11.
+a - b
+a + b
+.
+12.
+x
+2 + y
+2
+x
+2 - y
+2
+.
+13.
+a(x - 4)
+x + 5
+.
+14. a
+2 - 17
+a
+2 - 5
+.
+15.
+1 + x
+2 + x
+.
+16.
+1 + b
+1 - b
+.
+17.
+2
+3
+b, or
+2b
+3
+cts.
+18.
+a
+x
+years.
+Exercise 43.
+1. b - c +
+m
+x
+.
+2. m + a +
+x
+n
+.
+3. x + y +
+3
+x - y
+.
+4. a
+2 - ab + b
+2 -
+2
+a + b
+.
+5. 2abc - 3b +
+c
+a
+2b
+.
+6. 3x
+2 + 5xz -
+m
+xy2
+.
+7. x + 3 +
+2x + 4
+x
+2 - x - 1
+.
+8. 2a - 1 +
+3a - 1
+a
+2 + a - 2
+.
+9. x
+2 + xy + y
+2 +
+2y
+3
+x - y
+.
+155
+10. a
+2 - ab + b
+2 -
+2b
+3
+a + b
+.
+11. 4a
+2 + 2a + 1 +
+1
+2a - 1
+.
+12. 9x
+2 - 3x + 1 -
+1
+3x + 1
+.
+13. 3x + 2 -
+x - 4
+x
+2 + 2x - 1
+.
+14. 2a - 3 +
+15a + 2
+a
+2 + 3a + 2
+.
+15. 2a
+2 + 4a - 2.
+16. 3x
+2 - 2x + 1.
+17.
+x
+2 - y
+2 - xy
+x - y
+.
+18.
+a
+2 - 2ab - b
+2
+a + b
+.
+19.
+2d
+3
+c
+2 + cd + d
+2
+.
+20.
+x
+3 + y
+3
+x - y
+.
+21.
+4 - 4x - 3x
+2
+3x - 1
+.
+22.
+2a
+2 + 4a - 1
+a + 3
+.
+23.
+2a
+4 - 6a
+3 + 3a
+2 + 2a - 5
+2a
+2 - 1
+.
+24. 6x
+4 + 3x
+3 - 7x
+2 - 1
+3x
+2 + 1
+.
+25.
+4x - x
+2
+x
+2 - x + 2
+.
+26. -
+a
+2 + 2a
+a
+2 - 2a + 3
+.
+27. -
+a
+4 + 2a
+2 + 2a + 3
+a
+2 - a + 3
+.
+28.
+x
+2 - 2x + 1
+x
+2 + x - 1
+.
+156
+42. m
+2x
+ct.
+43. a - 3, a - 2, a - 1, a.
+44. 2m + 2.
+45. 4a - 1.
+Exercise 44.
+1.
+a
+12
+.
+2.
+x
+15
+.
+3.
+43x
+60
+.
+4. 4am + 3bx
+2bm .
+5.
+4x
+15
+.
+6.
+m4 - 2m2n
+2 + n
+4
+m2n2
+.
+7.
+3x - mx + 5m2n
+3mn
+.
+8.
+11b - x
+9x
+.
+9. 0.
+10.
+2ab
+a
+2 - b
+2
+.
+11.
+b
+2
+(a - 2b)(a - b)
+.
+12.
+2
+(x + 5)(x + 3).
+13. -
+4y
+2
+x(x - 2y)
+.
+14. 2x
+2 - 4x + 29
+(x + 2)(x - 3).
+15.
+2ax
+x
+3 - 8a
+3
+.
+157
+16.
+2x
+9
+x
+6 - y
+6
+.
+17. m2 + 11
+(m - 1)(m + 2)(m + 3).
+18. 0.
+19.
+2(9x
+4 + 1)
+9x
+4 - 1
+.
+20.
+2
+(a - 2)(a - 3)(a - 4).
+21. 2.
+22.
+2
+a + 3
+.
+23.
+x + 25
+x
+2 - x - 20
+.
+24. 0.
+25.
+2
+a
+.
+26.
+x
+2 + xz - yz
+(x + z)(y + z)
+.
+27. 0.
+28.
+x
+y
+.
+29.
+a
+2
+.
+30.
+7x
+3
+.
+31. 4x - 21.
+Exercise 45.
+1.
+2
+x + 2
+.
+2.
+a
+a
+2 - 9
+.
+3. m2
+.
+4. 1
+2a + 1
+.
+158
+5.
+3
+y
+x
+2
++ xy
++
+y
+2
+.
+6.
+-
+1
+3(
+a
+2
+- 1)
+.
+7.
+-
+b
+5(
+y
+4
+-
+9
+b
+2
+)
+.
+8.
+1
+(1
+-
+x)(3
+-
+x
+)
+.
+9.
+b
+(
+b
+-
+c)(
+a
+-
+b
+)
+.
+10. 0.
+11. 1.
+12.
+2
+a
+2
+a
+2
+-
+1
+.
+13.
+1 +
+a
+-
+a
+4
+1 +
+a
+.
+14.
+1
+(
+x
+- 2)(
+x
+- 3)
+.
+15.
+43
+a
+b
+.
+16.
+9
+x4
+.
+17.
+mx5
+.
+18.
+bya
+.
+Exercise 46.
+1.
+axb2
+.
+2.
+3
+a
+2
+bc
+7
+x
+2
+y
+.
+3.
+a
+2
+2
+c
+2
+.
+4.
+4abc
+2
+3
+x
+.
+159
+5.
+9mny
+.
+6.
+3
+x
+(
+x
+-
+y
+)
+2mn
+.
+7.
+2
+a
+-
+b
+3
+x
+-
+y
+.
+8.
+x
+2
+x
+2
++ xy
++
+y
+2
+.
+9. 3 (
+x
++
+y
+)
+2
+.
+10.
+a
+2
+-
+4
+a
+- 21
+a + 2
+.
+11.
+x
+2
+-
+2xy
++
+y
+2
+.
+12.
+a
+2 + 2ab
++
+b
+2
+.
+13.
+x
+.
+14.
+c
+.
+15. 10.
+16. 5
+x
+.
+17. 24
+a
+.
+Exercise 47.
+1.
+ab
+.
+2.
+3
+m
+2
+n
+4
+x
+2
+y
+.
+3.
+3
+d
+2
+5
+x
+.
+4.
+2
+x
+2
+y
+3
+m
+2
+n
+.
+5.
+a
+3
+x
+(
+c
++
+d
+)
+.
+6.
+x
+2
+-
+y
+2
+m
+2
+n
+.
+7.
+a
+-
+b
+3
+5ax
+2yz
+.
+160
+8.
+5(
+a
++
+b
+)
+xy
+.
+9.
+1
+2
+m
+(
+m
+-
+n
+)
+2
+.
+10.
+x + 7
+x
+2
+-
+7
+x + 12
+.
+11.
+x + 1 +
+13x
+.
+12.
+x
+2
+-
+5
+x + 6
+x + 4
+.
+13.
+c
+12
+a
+2
+x
+3
+.
+14. 2ac
++
+3
+a
+2
+c
+2
+2
+x
+2
+y
+.
+15.
+5
+y
+(
+x
+-
+y
+)
+8
+x
+2
+z
+.
+16.
+2
+x
+9amn
+2
+.
+17. 29
+35
+.
+18.
+1
+2
+m
+.
+Exercise 48.
+1.
+abz 8cxy
+.
+2.
+23
+.
+3. 2.
+4. 3.
+5.
+cd
+ab
+.
+6.
+2
+y
+an
+.
+7.
+x + 4 x + 1
+.
+8.
+a + 5.
+161
+9.
+(x
+2 + 4x + 16)(3x + 2)
+x
+.
+10. m2 + 3m + 9.
+11. a.
+12.
+(x - 1)2
+2x(x + 3).
+13.
+(a + 1)2
+3a(a + 2).
+14. m2n
+2
+m2 - n2
+.
+15.
+25
+y
+;
+25
+y - 4
+dols.
+16.
+2a
+3c
+.
+17. 252; 224.
+Exercise 49.
+1.
+6a
+2
+bc
+7xy2
+.
+2.
+21ab2y
+2
+16mnz3
+.
+3.
+16a
+2
+z
+2
+9c
+2x
+2
+.
+4. 4m2y
+2
+9a
+2x
+2
+.
+5.
+x
+2 - 25
+x
+2 + 2x
+.
+6.
+(x - 5)(x - 6)
+(x - 3)(x - 3).
+7.
+x - 2
+x - 5
+.
+8.
+a(a - 7)
+a + 6
+.
+9. 1.
+10. 1.
+162
+11. 1.
+12.
+x - 5
+x + 5
+.
+13.
+a
+b
+.
+14. m
+2n
+.
+15. a
+2
+.
+16.
+1
+4x
+.
+17. 3.
+18. 4.
+19.
+dx
+4c
+.
+20.
+21x
+4y
+2
+20abn2
+.
+Exercise 50.
+1.
+4x
+4
+a
+2b
+6
+.
+2.
+a
+3
+b
+9
+64y
+3
+3. -
+32x
+5y
+5
+243a
+10m15 .
+4. x
+4
+(a - b)
+4
+81a
+8b
+4
+.
+5. -
+125x
+5y
+3
+¡
+a + b
+2
+¢6
+8a
+3b
+9 (x
+2 - y)
+9
+.
+6. -
+27a
+3m12 (2a + 3b)
+9
+64x
+6y
+9 (m - n)
+6
+.
+7. 81a
+20x
+4y
+8
+z
+12
+16b
+4c
+16d
+16 .
+8.
+256x
+28y
+8
+z
+12
+81a
+4b
+24d
+12 .
+9.
+2ab2
+3m2n3
+.
+163
+10.
+6mn
+4
+11
+a
+2
+b
+3
+.
+11.
+4xy
+2
+3ab
+3
+.
+12.
+-
+2xy
+2
+3
+m
+2
+n
+3
+.
+13.
+-
+3
+x
+2
+(
+a
+-
+b
+)
+3
+4
+a
+2
+b
+4
+.
+14.
+2
+x + 3
+y
+4
+x
+2
+y
+4
+.
+15.
+2
+x
+(
+x
++
+y
+)
+2
+5
+y
+2
+.
+16.
+-
+3
+a
+(
+a
+-
+b
+)
+2
+2
+b
+3
+.
+17.
+x
+2
+y
+2
+-
+a
+2
+b
+2
+.
+18.
+a
+2
+b
+2
+-
+c
+2
+d
+2
+.
+19. 6
+x
++
+3abx
+2
+y
+2mn
+-
+a
+2
+xm
+.
+20.
+2
+x
+3
+3yz
+-
+3xy2
++
+x
+4
+m
+2
+z
+2
+.
+21.
+a
+8
+b
+8
+-
+c
+8d8
+.
+22.
+x
+4
+256
+-
+81
+y
+4
+625
+m
+4
+.
+23.
+x
+3
+y
+3
++ 1.
+24.
+a
+3
+b
+3
+- 1.
+25.
+x
+2
+y
+2
+-
+3
+a
+2
+x
+by
++
+9
+a
+4
+4
+b
+2
+.
+26.
+4
+y
+2
+c
+4
++
+18
+y
+c
+2
+d
++
+81 4d2
+.
+27.
+a
+2
+b
+2
+-
+3
+ab
+- 10.
+164
+28.
+x
+3
+y
+3
+-
+3ax2
+by2
++
+3a
+2x
+b
+2y
+-
+a
+3
+b
+3
+.
+29. µ
+x
+2
+a
+-
+b
+y
+2
+¶ µx
+2
+a
++
+b
+y
+2
+¶
+.
+30. µ
+a
+b
+2
+-
+x
+4
+y
+¶ µ a
+b
+2
++
+x
+4
+y
+¶
+31. µ
+a
+2
+m2
++
+b
+2
+x
+2
+¶ µ a
+m
++
+b
+x
+¶ µ a
+m
+-
+b
+x
+¶
+.
+32. µ
+2a
+y
++
+b
+c
+¶ µ4a
+2
+y
+2
+-
+2ab
+cy
++
+b
+2
+c
+2
+¶
+.
+33. ³ x
+3a
+-
+y
+c
+´ µ
+x
+2
+9a
+2
++
+xy
+3ac
++
+y
+2
+c
+2
+¶
+.
+34. µ
+9a
+2
+b
+2
++
+x
+2y
+2
+25z
+2
+¶ µ3a
+b
++
+xy
+5z
+¶ µ3a
+b
+-
+xy
+5z
+¶
+.
+35. µ
+m
+y
+- 5
+¶ µm
+y
++ 3¶
+.
+36. ³x
+a
+- 4
+´ ³x
+a
++ 2´
+.
+37. µ
+y
+2
++
+2
+y
+¶2
+.
+38. ³x
+a
+-
+a
+x
+´2
+.
+39. 18a ft.
+40. a
+6
+weeks.
+Exercise 51
+1.
+b + a
+x - b
+.
+2.
+xy + a
+my - b
+.
+3.
+cx
+ac + b
+.
+4. x
+2 + x + 1
+x
+.
+5.
+a + b
+ab .
+165
+6. m(m2 - m + 1).
+7.
+x
+2 - yz
+ax - by .
+8. -
+d
+c
+.
+9.
+a + 1
+a - 1
+.
+10. a
+2
+.
+11.
+x - 5
+x - 3
+.
+12. a.
+13.
+a
+2 + 1
+2a
+.
+14. 1.
+15.
+2
+a
+.
+16. l.
+17. 5y lbs.
+18. 12y in.;
+y
+3
+yds.
+19. 100y - x
+2
+cts.
+20.
+lx
+m
+.
+Exercise 52.
+1. 3x
+4 - 2x
+3 - x + 5.
+2. 45; 55.
+3. x + 1.
+4. (x
+5 - 7y)
+2
+, (a - b)(a
+2 + ab + b
+2
+)(a
+6 + a
+3
+b
+3 + b
+6
+), 3(a - 9)(a + 8).
+5. 2.
+6. µ
+4x
+2
+a
+2b
+2
++
+c
+2
+9y
+2
+¶ µ2x
+ab +
+c
+3y
+¶ µ2x
+ab -
+c
+3y
+¶
+.
+7. 10x + y.
+8. (a
+2 - 16)(a
+2 - 9)(a
+2 - 4).
+166
+9.
+100x
+a
+.
+10. -
+6
+x - 4
+.
+11. 0.
+12.
+3x
+2y
+.
+13.
+2b
+n
+.
+14. 1.
+15. 1.
+17. 42xy.
+18.
+2x
+3
+3
+-
+x
+2
+4
++ x - 1.
+Exercise 53.
+1. x = 2.
+2. x = -3.
+3. x = 19.
+4. x = -13.
+5. x = 2 1
+2
+.
+6. x = 5 1
+4
+.
+7. x = 4.
+8. x = 6 1
+5
+.
+9. x = 1.
+10. x = 3.
+11. x = 2.
+12. x = 1.
+13. x = 10 3
+7
+.
+14. x = 2.
+15. x = 1.
+16. x = 3.
+167
+17. x = 4.
+18. x = 3.
+19. x = -3.
+20. x = 1.
+21. x =
+6
+7
+.
+22. x =
+3
+4
+.
+23. 17; 22; 66.
+24. $ 15.
+25. 28x fourths.
+26.
+3x
+z
+days.
+27. x = 5 1
+2
+.
+28. x = -15.
+29. x = 48.
+30. x = 4.
+31. x = -5.
+32. x = -
+1
+9
+.
+33. x =
+1
+7
+.
+34. x = 9.
+35. x = 4.
+36. x = 3.
+37. x = 1.
+38. x = 2.
+39. x = 2.
+40. x = 11.
+41. x = 6.
+42. x = 8.
+43. bx
+15
+hrs.
+168
+44. 5m
+100
+dols.
+45. 16; 41.
+46. 4by
+100
+dols.
+47. x =
+c
+2
+a - b + 2c
+.
+48. x =
+1
+2
+.
+49. x = 3.
+50. x =
+2b - a
+2
+.
+51. x =
+ac(a
+2 + c
+2
+)
+a + c
+.
+52. x = 0.
+53. x = 2.
+54. x = a + b.
+55. x =
+2
+3
+.
+56. x =
+1
+4
+.
+57. x = 1.
+58. x =
+5
+11 .
+59. x = 2.
+60. x = 2.
+61. x = 4.
+62. x = 6.
+63. x = 1.
+64. x =
+7
+17 .
+65. x = 4.
+66. x = -7.
+67. 26; 27; 28.
+68. 6y years.
+69.
+6x
+a
+men.
+70. 12x + 3.
+169
+Exercise 54.
+1. 209 boys; 627 girls.
+2. 184; 46; 23.
+3. 16; 28 yrs
+4. 36; 122.
+5. S., 5; H., 11 qts.
+6. 17; 22; 88.
+7. 9.
+8. 9 fives; 18 twos.
+9. 18; 15; 25 tons.
+10. 15.
+11. 12 M.; 36 J.
+12. 80.
+13. 24.
+14. 48.
+15. t., 5 lbs.; m., 8 lbs.; s., 14 lbs.
+16. 35; 10 yrs.
+17. $2070, $920.
+18. 17,042; 14,981; 15,496.
+19. R., 213; J., 426.
+20. 63; 64; 65.
+21. 16; 28.
+22. 45; 75.
+23. 24; 48 yrs.
+24. 2; 12 yrs.
+25. J., 12 yrs.; S., 28 yrs.
+26. 20 yrs.
+27. A., 6 yrs.; G., 18 yrs.
+170
+28. Ed., 40 yrs.; Es., 30 yrs.
+29. 6 yrs.
+30. 3; 12 yrs.
+31. 2x
+3 - 6x
+2y + 18xy2 - 27y
+3
+.
+33.
+y
+x - y
+.
+34. x = 7.
+35. $32.
+36. $13.
+37. A, $47; B, $28; C, $61.
+38. 80 cts.
+39. u., $18; cl., $25; h., $9.
+40. J., $ 1.80; H., $2.42; A., $1.25
+41. 2 2
+5
+days.
+42. 5 5
+11 days.
+43. 22 1
+2
+hrs.
+44. 1 1
+3
+hrs.
+45. 4 4
+5
+hrs.
+46. 2 11
+12 hrs.
+47. 2 6
+7
+hrs.
+48. 17 1
+7
+; 7 1
+17 days.
+49. 1 5
+7
+hrs.
+50.
+ab
+a + b
+days.
+51.
+cd
+c - d
+days.
+52. x = 1 1
+2
+.
+53. 1.
+54. x
+8 - 13x
+4 + 36.
+55. (3a + 2b)
+2
+; (3 + x)(4 + x); (a - 2b)(c - 3d).
+171
+56.
+(1) 10 10
+11 m.
+(2) 27 3
+11 m.
+(3) 49 1
+11 m.
+57.
+(1) 27 3
+11 m.
+(2) 5 5
+11 m.; 38 2
+11 m.
+(3) 21 9
+11 m.; 54 6
+11 m.
+58.
+(1) 49 1
+11 m.
+(2) 10 10
+11 m.
+(3) 32 8
+11 m.
+59. 10 10
+11 m., 32 8
+11 m.
+60. 16 4
+11 m.
+61. 30 6
+11 m.
+62. 5 5
+11 m. past 12M.
+63. 57 9
+11 m.
+64. 20 hrs.
+65. 24 hrs.; 152 hrs
+66. 35 miles.
+67. 14 1
+2 miles; 70 11
+16 miles.
+68. 24 miles.
+69. 6 P.M.; 30 miles from B; 25 1
+2 miles from A.
+70. 16 sec.
+71. 11 ft. by 15 ft.
+72. 12 ft. by 24 ft.
+73. 14 ft. by 21 ft.
+74. 16 sq. ft.
+75. 48 ft. by 72 ft.
+76.
+µ
+x
+2
++
+yz2
+3m3
+¶ µx
+2
+-
+yz2
+3m3
+¶
+;
+(x
+2 - 3y)(x
+4 + 3x
+2y + 9y
+2
+);
+(a
+8 + b
+8
+)(a
+4 + b
+4
+) etc.;
+2c(c
+2 - 1)2
+.
+77. x
+3 - 2x
+2 + 4x - 3.
+172
+78. 7y
+3 + 15x
+2y - x
+3
+.
+79. x(x + 1).
+80. 60 ft.
+81. A, 7 days; B, 14 days; C, 28 days.
+82. 9; 48.
+83. 18; 74.
+84. $140.
+85. 24; 25.
+86. A, 57 yrs.; B 33 yrs.
+87. 38.
+88. 300 leaps.
+89. With 144 leaps.
+90. After 560 leaps.
+Exercise 55.
+1. x = 3, y = 1.
+2. x = 4, y = 2.
+3. x = 7, y = 6.
+4. x = 5 1
+2
+, y = 4.
+5. x = 1 1
+2
+, y = 3.
+6. x = 2, y = 3.
+7. x = 5, y = -2.
+8. x = 2, y = -1.
+9. x = -2
+1
+4
+, y = -
+1
+8
+.
+10. x = 2 1
+2
+, y = -1
+1
+2
+.
+11. x =
+1
+2
+, y = 1 1
+3
+.
+12. x = 15, y = -17.
+13. x = 12, y = 15.
+14. x = 6, y = 18.
+173
+15. x = 35, y = -49.
+16. x = 21, y = 25.
+17. x = 3, y = 2.
+18. x =
+1
+2
+, y = 4.
+19. x = 12, y = 15.
+20. x =
+a+b
+2
+, y =
+a-b
+2
+.
+21. x = 39, y = -56.
+22. x = -2, y = -1
+17
+21 .
+23. 7
+24 .
+24. 11
+17 .
+25. 8
+13 .
+26. 11
+13 .
+27. 24; 62.
+28. 27; 63.
+29. 13; 37.
+30. J., 13 yrs.; H., 19 yrs.
+31. A, 36 cows; B, 24 cows.
+32. tea, 54; coffee, 32.
+33. corn, 61; oats, 37.
+34. 12 lbs of 87 kind; 26 lbs of 29 kind.
+Exercise 56.
+1. x = ±3.
+2. x = ±2.
+3. x = ±5.
+4. x = ±2.
+5. x = ±
+1
+2
+.
+6. x = ±1.
+7. x = ±7.
+174
+8. x = ±2.
+9. x = ±1.
+10. x = ±2.
+11. x = ±2.
+12. x = ±3.
+13. 12 yrs.
+14. 48; 64.
+15. 17
+21
+Exercise 57.
+1. x = 3 or - 6.
+2. x = 2 or - 7.
+3. x = 9 or - 8.
+4. x = 7 or 3.
+5. x = 8 or 15.
+6. x = 11 or - 17.
+7. x = b or b.
+8. x = a or 3a.
+9. x = 1 or - a.
+10. x =
+d
+c
+or -
+b
+a
+.
+11. x = 11 or - 3.
+12. x = 6 or 1.
+13. x = 5 or 2.
+14. x = 6 or 4.
+15. x = 6 or 16.
+16. x = 2 or - 3.
+17. x = 5 or - 2.
+18. x = 0 or 5.
+19. x = 0 or - 3.
+175
+20. x = 3 or 3.
+21. 54 6
+11 m.
+22. J., $18; L., $6.
+23. 3 in.
+24. 7 31
+47 days.
+Exercise 58.
+1. 3.
+3. x = 3.
+4. 30 hrs.
+5. x - 1.
+6. a
+2 + ab - b
+2
+.
+7. 1 - y + 3y
+2 + 2y
+3
+.
+8. 60 - x
+2 - 28x.
+9. x = ±6.
+10. 1.
+11. 11(a - c) - 17x
+3y - 3 (a - c)
+3
+.
+12. x =
+4b
+5
+.
+13. (x
+3 + 3)(x-1)(x
+2 +x+ 1); (a+b)(x-y)(x+y); (3x+y +z){9x
+2 -3x(y +
+z) + (y + z)
+2
+}.
+14. 5
+11 .
+15. a + b.
+16. x = 5.
+17. J., 16; S., 8.
+18.
+1 - y
+x
+.
+19. a
+2 - 3b
+2 + 3c
+2
+.
+20.
+xy
+a
+.
+21. a + 3x + 4y + 2b.
+176
+22. a
+2 -
+3
+4
+a + 1.
+23. 1 7
+8
+days.
+24. 2a
+2
+a
+3 + b
+3
+.
+25. (x-13)(x+4); (1+a
+8
+)(1+a
+4
+)(1+a
+2
+) etc.; ¡
+a
+2 + b
+2 + a
+2 - b
+2
+¢2
+; or ¡
+2a
+2
+¢2
+.
+26. x = 36.
+27. 60; 40 yrs.
+28. x = 3, y = 12.
+29. 3x
+4 - 2x
+3 + x - 5.
+30. 2.35, 3.2.
+31. 3 7
+16 .
+32. x = 0.
+33. 25; 26; 27.
+34. a(a + 2).
+35.
+x
+2 + y
+2
+x
+.
+36. 3
+7
+.
+37. -
+27a
+6
+b
+3
+(m + n)
+6
+64x
+3y
+9 (a - b)
+9
+; ±
+5x
+2
+(a + b)
+3
+4y
+3z
+.
+38. 3x
+2 - 2x + 1.
+39. 1
+2
+.
+40. x = -
+2
+3
+, y = -
+3
+4
+.
+41. (x
+2 + 3)(x
+2 + 2); (x - 7)2
+; (x + y + z)(x - y - z).
+42. 1
+9
+x
+2y
+2 + xy.
+43. 31 7
+11 m.; 44 8
+11 m.
+44. 1.
+45. x = b.
+46. µ
+x
+3
+y
+3
++
+ab2
+c
+¶ µx
+3
+y
+3
+-
+ab2
+c
+¶
+;
+µ
+x
+y
+- 7
+¶ µx
+y
++ 2¶
+;
+µ
+x
+y
+-
+y
+x
+¶2
+.
+177
+47. 4 4
+5
+days.
+48. x = 18, y = 6.
+49. 1 + 6x + 12x
+2 + 8x
+3
+; 16x
+8 - 96x
+6a
+2
+b
+3 + 216x
+4a
+4
+b
+6 - 216x
+2a
+5
+b
+9 + 81a
+8
+b
+12
+.
+50.
+a
+2 + b
+2
+a
+2 - b
+2
+.
+51. y - x.
+52. 0.
+53. 400 sq. ft.
+54. 2(a
+2 - 1)(a - 3)(a - 2).
+55. -
+2a - b
+2(2a + b)
+.
+56. x = 4 or 4.
+57. ab(a + 2cm2
+)(a
+2 - 2acm2 + c
+2m4
+); c (2cx + y)
+2
+; (x + 1)(x
+2 - x + 1)(x -
+1)(x
+2 + x + 1).
+58. 1 - x -
+5
+12x
+2 +
+1
+3
+x
+3 +
+1
+9
+x
+4 -
+1
+16x
+5
+.
+59. x
+2 + x + 1.
+60. x
+2 - 3xy + y
+2 +
+9xy3-6y
+4
+x2+2y2-3xy
+.
+61. a
+2 +
+1
+2
+a
+3
+.
+62. x =
+2ab
+a + b
+.
+63. (x + 5)(x + 5)(x
+2 + 3); (4 + x
+4
+)(2 + x
+2
+)(2 - x
+2
+); (2a)(2b).
+64. 3 3
+4
+days.
+65. x = 5.
+66.
+a
+3
+b
+3
+-
+3a
+2
+c
+b
+2d
++
+3ac2
+bd2
+-
+c
+3
+d
+3
+;
+c
+3
+d
+3
++ 1.
+67. 24 or -3.
+68. x = 15, y = 14.
+69. m - my + my2 - my3+ etc.
+70.
+5x
+3
+.
+71. 4 ft.
+178
+72. 10a
+2 + 19ax - 19ay + 9x
+2 + 18xy + 9y
+2
+.
+73. 3
+2
+x
+2 - x +
+2
+3
+.
+74. 5x
+4 + 4x
+3 + 3x
+2 + 2x + 1.
+75. (a + 2)(a - 2)(a + 5); (x + y)(x
+2 - xy + y
+2
+)(x - y)(x
+2 + xy + y
+2
+); 2x(x
+2 -
+3y
+2
+)(x + y)(x - y).
+76. 8 hrs.
+77. x.
+78. x = 2, y = 3.
+79. 3xy - 7b
+2
+.
+80. 6x - 23.

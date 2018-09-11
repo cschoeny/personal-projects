@@ -1,0 +1,5582 @@
+THE MEANING OF RELATIVITY
+THE MEANING OF
+RELATIVITY
+FOUR LECTURES DELIVERED AT
+PRINCETON UNIVERSITY, MAY, 1921
+BY
+ALBERT EINSTEIN
+WITH FOUR DIAGRAMS
+PRINCETON
+PRINCETON UNIVERSITY PRESS
+1923
+Copyright 1922
+Princeton University Press
+Published 1922
+PRINTED IN GREAT BRITAIN
+AT THE ABERDEEN UNIVERSITY PRESS
+ABERDEEN
+Note.óThe translation of these lectures into English
+was made by Edwin Plimpton Adams, Professor
+of Physics in Princeton University
+CONTENTS
+Lecture I
+PAGE
+Space and Time in Pre-Relativity Physics . . . . . . . . . . . 1
+Lecture II
+The Theory of Special Relativity. . . . . . . . . . . . . . . . . . . 25
+Lecture III
+The General Theory of Relativity . . . . . . . . . . . . . . . . . 59
+Lecture IV
+The General Theory of Relativity (continued) . . . . . 84
+Index . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 116
+iv
+THE MEANING OF RELATIVITY
+LECTURE I
+SPACE AND TIME IN PRE-RELATIVITY
+PHYSICS
+The theory of relativity is intimately connected with the theory
+of space and time. I shall therefore begin with a brief investigation
+of the origin of our ideas of space and time, although in
+doing so I know that I introduce a controversial subject. The
+object of all science, whether natural science or psychology, is
+to co-ordinate our experiences and to bring them into a logical
+system. How are our customary ideas of space and time related
+to the character of our experiences?
+The experiences of an individual appear to us arranged in a
+series of events; in this series the single events which we remember
+appear to be ordered according to the criterion of ìearlierî
+and ìlater,î which cannot be analysed further. There exists,
+therefore, for the individual, an I-time, or subjective time. This
+in itself is not measurable. I can, indeed, associate numbers with
+the events, in such a way that a greater number is associated
+with the later event than with an earlier one; but the nature of
+this association may be quite arbitrary. This association I can
+define by means of a clock by comparing the order of events furnished
+by the clock with the order of the given series of events.
+We understand by a clock something which provides a series of
+events which can be counted, and which has other properties of
+which we shall speak later.
+1
+THE MEANING OF RELATIVITY 2
+By the aid of speech different individuals can, to a certain
+extent, compare their experiences. In this way it is shown that
+certain sense perceptions of different individuals correspond to
+each other, while for other sense perceptions no such correspondence
+can be established. We are accustomed to regard as real
+those sense perceptions which are common to different individuals,
+and which therefore are, in a measure, impersonal. The natural
+sciences, and in particular, the most fundamental of them,
+physics, deal with such sense perceptions. The conception of
+physical bodies, in particular of rigid bodies, is a relatively constant
+complex of such sense perceptions. A clock is also a body,
+or a system, in the same sense, with the additional property that
+the series of events which it counts is formed of elements all of
+which can be regarded as equal.
+The only justification for our concepts and system of concepts
+is that they serve to represent the complex of our experiences;
+beyond this they have no legitimacy. I am convinced that
+the philosophers have had a harmful effect upon the progress
+of scientific thinking in removing certain fundamental concepts
+from the domain of empiricism, where they are under our control,
+to the intangible heights of the a priori. For even if it should
+appear that the universe of ideas cannot be deduced from experience
+by logical means, but is, in a sense, a creation of the
+human mind, without which no science is possible, nevertheless
+this universe of ideas is just as little independent of the nature
+of our experiences as clothes are of the form of the human body.
+This is particularly true of our concepts of time and space, which
+physicists have been obliged by the facts to bring down from the
+Olympus of the a priori in order to adjust them and put them
+in a serviceable condition.
+PRE-RELATIVITY PHYSICS 3
+We now come to our concepts and judgments of space. It
+is essential here also to pay strict attention to the relation of
+experience to our concepts. It seems to me that Poincar¥e clearly
+recognized the truth in the account he gave in his book, ìLa
+Science et líHypothese.î Among all the changes which we can
+perceive in a rigid body those are marked by their simplicity
+which can be made reversibly by an arbitrary motion of the
+body; Poincar¥e calls these, changes in position. By means of
+simple changes in position we can bring two bodies into contact.
+The theorems of congruence, fundamental in geometry, have to
+do with the laws that govern such changes in position. For the
+concept of space the following seems essential. We can form new
+bodies by bringing bodies B, C, . . . up to body A; we say that
+we continue body A. We can continue body A in such a way that
+it comes into contact with any other body, X. The ensemble of
+all continuations of body A we can designate as the ìspace of
+the body A.î Then it is true that all bodies are in the ìspace of
+the (arbitrarily chosen) body A.î In this sense we cannot speak
+of space in the abstract, but only of the ìspace belonging to a
+body A.î The earthís crust plays such a dominant ràole in our
+daily life in judging the relative positions of bodies that it has
+led to an abstract conception of space which certainly cannot be
+defended. In order to free ourselves from this fatal error we shall
+speak only of ìbodies of reference,î or ìspace of reference.î It
+was only through the theory of general relativity that refinement
+of these concepts became necessary, as we shall see later.
+I shall not go into detail concerning those properties of the
+space of reference which lead to our conceiving points as elements
+of space, and space as a continuum. Nor shall I attempt
+to analyse further the properties of space which justify the con-
+THE MEANING OF RELATIVITY 4
+ception of continuous series of points, or lines. If these concepts
+are assumed, together with their relation to the solid bodies of
+experience, then it is easy to say what we mean by the threedimensionality
+of space; to each point three numbers, x1, x2, x3
+(co-ordinates), may be associated, in such a way that this association
+is uniquely reciprocal, and that x1, x2 and x3 vary continuously
+when the point describes a continuous series of points
+(a line).
+It is assumed in pre-relativity physics that the laws of the
+orientation of ideal rigid bodies are consistent with Euclidean
+geometry. What this means may be expressed as follows: Two
+points marked on a rigid body form an interval. Such an interval
+can be oriented at rest, relatively to our space of reference, in
+a multiplicity of ways. If, now, the points of this space can
+be referred to co-ordinates x1, x2, x3, in such a way that the
+differences of the co-ordinates, ?x1, ?x2, ?x3, of the two ends
+of the interval furnish the same sum of squares,
+s
+2 = ?x1
+2 + ?x2
+2 + ?x3
+2
+, (1)
+for every orientation of the interval, then the space of reference
+is called Euclidean, and the co-ordinates Cartesian.*
+It is
+sufficient, indeed, to make this assumption in the limit for an
+infinitely small interval. Involved in this assumption there are
+some which are rather less special, to which we must call attention
+on account of their fundamental significance. In the first
+place, it is assumed that one can move an ideal rigid body in an
+arbitrary manner. In the second place, it is assumed that the behaviour
+of ideal rigid bodies towards orientation is independent
+*This relation must hold for an arbitrary choice of the origin and of the
+direction (ratios ?x1 : ?x2 : ?x3) of the interval.
+PRE-RELATIVITY PHYSICS 5
+of the material of the bodies and their changes of position, in the
+sense that if two intervals can once be brought into coincidence,
+they can always and everywhere be brought into coincidence.
+Both of these assumptions, which are of fundamental importance
+for geometry and especially for physical measurements,
+naturally arise from experience; in the theory of general relativity
+their validity needs to be assumed only for bodies and spaces
+of reference which are infinitely small compared to astronomical
+dimensions.
+The quantity s we call the length of the interval. In order
+that this may be uniquely determined it is necessary to fix arbitrarily
+the length of a definite interval; for example, we can put
+it equal to 1 (unit of length). Then the lengths of all other intervals
+may be determined. If we make the x? linearly dependent
+upon a parameter ?,
+x? = a? + ?b?,
+we obtain a line which has all the properties of the straight
+lines of the Euclidean geometry. In particular, it easily follows
+that by laying off n times the interval s upon a straight line, an
+interval of length n ∑ s is obtained. A length, therefore, means
+the result of a measurement carried out along a straight line by
+means of a unit measuring rod. It has a significance which is as
+independent of the system of co-ordinates as that of a straight
+line, as will appear in the sequel.
+We come now to a train of thought which plays an analogous
+ràole in the theories of special and general relativity. We ask
+the question: besides the Cartesian co-ordinates which we have
+used are there other equivalent co-ordinates? An interval has
+THE MEANING OF RELATIVITY 6
+a physical meaning which is independent of the choice of coordinates;
+and so has the spherical surface which we obtain as
+the locus of the end points of all equal intervals that we lay off
+from an arbitrary point of our space of reference. If x? as well
+as x
+0
+? (? from 1 to 3) are Cartesian co-ordinates of our space
+of reference, then the spherical surface will be expressed in our
+two systems of co-ordinates by the equations
+X?x?
+2 = const. (2)
+X?x
+0
+?
+2 = const. (2a)
+How must the x
+0
+? be expressed in terms of the x? in order that
+equations (2) and (2a) may be equivalent to each other? Regarding
+the x
+0
+? expressed as functions of the x?, we can write,
+by Taylorís theorem, for small values of the ?x?,
+?x
+0
+? =
+X
+a
+?x0
+?
+?xa
+?xa +
+1
+2
+X
+a,ﬂ
+?
+2x
+0
+?
+?xa ?xﬂ
+?xa ?xﬂ . . . .
+If we substitute (2a) in this equation and compare with (1),
+we see that the x
+0
+? must be linear functions of the x?. If we
+therefore put
+x
+0
+? = a? +
+X
+a
+b?axa, (3)
+or
+?x
+0
+? =
+X
+a
+b?a ?xa, (3a)
+PRE-RELATIVITY PHYSICS 7
+then the equivalence of equations (2) and (2a) is expressed in
+the form
+X?x
+0
+?
+2 = ?
+X?x?
+2
+(? independent of ?x?). (2b)
+It therefore follows that ? must be a constant. If we put ? = 1,
+(2b) and (3a) furnish the conditions
+X
+?
+b?ab?ﬂ = daﬂ, (4)
+in which daﬂ = 1, or daﬂ = 0, according as a = ﬂ or a 6= ﬂ. The
+conditions (4) are called the conditions of orthogonality, and the
+transformations (3), (4), linear orthogonal transformations. If
+we stipulate that s
+2 =
+P?x?
+2
+shall be equal to the square of
+the length in every system of co-ordinates, and if we always measure
+with the same unit scale, then ? must be equal to 1. Therefore
+the linear orthogonal transformations are the only ones by
+means of which we can pass from one Cartesian system of coordinates
+in our space of reference to another. We see that in
+applying such transformations the equations of a straight line
+become equations of a straight line. Reversing equations (3a)
+by multiplying both sides by b?ﬂ and summing for all the ?ís,
+we obtain
+X
+?
+b?ﬂ ?x
+0
+? =
+X
+?,a
+b?ab?ﬂ ?xa =
+X
+a
+daﬂ ?xa = ?xﬂ. (5)
+The same coefficients, b, also determine the inverse substitution
+of ?x?. Geometrically, b?a is the cosine of the angle between
+the x
+0
+? axis and the xa axis.
+THE MEANING OF RELATIVITY 8
+To sum up, we can say that in the Euclidean geometry
+there are (in a given space of reference) preferred systems of
+co-ordinates, the Cartesian systems, which transform into each
+other by linear orthogonal transformations. The distance s between
+two points of our space of reference, measured by a measuring
+rod, is expressed in such co-ordinates in a particularly
+simple manner. The whole of geometry may be founded upon
+this conception of distance. In the present treatment, geometry
+is related to actual things (rigid bodies), and its theorems are
+statements concerning the behaviour of these things, which may
+prove to be true or false.
+One is ordinarily accustomed to study geometry divorced
+from any relation between its concepts and experience. There
+are advantages in isolating that which is purely logical and independent
+of what is, in principle, incomplete empiricism. This
+is satisfactory to the pure mathematician. He is satisfied if he
+can deduce his theorems from axioms correctly, that is, without
+errors of logic. The question as to whether Euclidean geometry
+is true or not does not concern him. But for our purpose it
+is necessary to associate the fundamental concepts of geometry
+with natural objects; without such an association geometry is
+worthless for the physicist. The physicist is concerned with the
+question as to whether the theorems of geometry are true or
+not. That Euclidean geometry, from this point of view, affirms
+something more than the mere deductions derived logically from
+definitions may be seen from the following simple consideration.
+Between n points of space there are n(n - 1)
+2
+distances, sµ?;
+between these and the 3n co-ordinates we have the relations
+sµ?
+2 =
+
+x1(µ) - x1(?)
+2
++
+
+x2(µ) - x2(?)
+2
++ . . .
+PRE-RELATIVITY PHYSICS 9
+From these n(n - 1)
+2
+equations the 3n co-ordinates may be
+eliminated, and from this elimination at least n(n - 1)
+2
+- 3n
+equations in the sµ? will result.* Since the sµ? are measurable
+quantities, and by definition are independent of each other, these
+relations between the sµ? are not necessary a priori.
+From the foregoing it is evident that the equations of transformation
+(3), (4) have a fundamental significance in Euclidean
+geometry, in that they govern the transformation from one
+Cartesian system of co-ordinates to another. The Cartesian
+systems of co-ordinates are characterized by the property that
+in them the measurable distance between two points, s, is
+expressed by the equation
+s
+2 =
+X?x?
+2
+.
+If K(x?) and K0
+(x?)
+are two Cartesian systems of co-ordinates,
+then
+X?x?
+2 =
+X?x
+0
+?
+2
+.
+The right-hand side is identically equal to the left-hand side
+on account of the equations of the linear orthogonal transformation,
+and the right-hand side differs from the left-hand side
+only in that the x? are replaced by the x
+0
+?. This is expressed
+by the statement that P?x?
+2
+is an invariant with respect to
+linear orthogonal transformations. It is evident that in the Euclidean
+geometry only such, and all such, quantities have an
+objective significance, independent of the particular choice of
+*
+In reality there are n(n - 1)
+2
+- 3n + 6 equations.
+THE MEANING OF RELATIVITY 10
+the Cartesian co-ordinates, as can be expressed by an invariant
+with respect to linear orthogonal transformations. This is
+the reason that the theory of invariants, which has to do with
+the laws that govern the form of invariants, is so important for
+analytical geometry.
+As a second example of a geometrical invariant, consider a
+volume. This is expressed by
+V =
+Z Z Z dx1 dx2 dx3.
+By means of Jacobiís theorem we may write
+Z Z Z dx0
+1 dx0
+2 dx0
+3 =
+Z Z Z ?(x
+0
+1, x0
+2, x0
+3)
+?(x1, x2, x3)
+dx1 dx2 dx3
+where the integrand in the last integral is the functional determinant
+of the x
+0
+? with respect to the x?, and this by (3) is equal
+to the determinant |bµ?| of the coefficients of substitution, b?a. If
+we form the determinant of the dµa from equation (4), we obtain,
+by means of the theorem of multiplication of determinants,
+1 = |daﬂ| =
+
+
+
+
+
+X
+?
+b?ab?ﬂ
+
+
+
+
+
+= |bµ?|
+2
+; |bµ?| = ±1. (6)
+If we limit ourselves to those transformations which have the determinant
++1,* and only these arise from continuous variations
+of the systems of co-ordinates, then V is an invariant.
+*There are thus two kinds of Cartesian systems which are designated as
+ìright-handedî and ìleft-handedî systems. The difference between these is
+familiar to every physicist and engineer. It is interesting to note that these
+two kinds of systems cannot be defined geometrically, but only the contrast
+between them.
+PRE-RELATIVITY PHYSICS 11
+Invariants, however, are not the only forms by means of
+which we can give expression to the independence of the particular
+choice of the Cartesian co-ordinates. Vectors and tensors
+are other forms of expression. Let us express the fact that the
+point with the current co-ordinates x? lies upon a straight line.
+We have
+x? - A? = ?B? (? from 1 to 3).
+Without limiting the generality we can put
+XB?
+2 = 1.
+If we multiply the equations by bﬂ? (compare (3a) and (5))
+and sum for all the ?ís, we get
+x
+0
+ﬂ - A
+0
+ﬂ = ?B0
+ﬂ,
+where we have written
+B
+0
+ﬂ =
+X
+?
+bﬂ?B?; A
+0
+ﬂ =
+X
+?
+bﬂ?A?.
+These are the equations of straight lines with respect to a
+second Cartesian system of co-ordinates K0
+. They have the
+same form as the equations with respect to the original system
+of co-ordinates. It is therefore evident that straight lines
+have a significance which is independent of the system of coordinates.
+Formally, this depends upon the fact that the quantities
+(x? - A?) - ?B? are transformed as the components of
+an interval, ?x?. The ensemble of three quantities, defined for
+every system of Cartesian co-ordinates, and which transform as
+the components of an interval, is called a vector. If the three
+THE MEANING OF RELATIVITY 12
+components of a vector vanish for one system of Cartesian coordinates,
+they vanish for all systems, because the equations of
+transformation are homogeneous. We can thus get the meaning
+of the concept of a vector without referring to a geometrical representation.
+This behaviour of the equations of a straight line
+can be expressed by saying that the equation of a straight line
+is co-variant with respect to linear orthogonal transformations.
+We shall now show briefly that there are geometrical entities
+which lead to the concept of tensors. Let P0 be the centre of a
+surface of the second degree, P any point on the surface, and
+?? the projections of the interval P0P upon the co-ordinate axes.
+Then the equation of the surface is
+Xaµ??µ?? = 1.
+In this, and in analogous cases, we shall omit the sign of summation,
+and understand that the summation is to be carried out
+for those indices that appear twice. We thus write the equation
+of the surface
+aµ??µ?? = 1.
+The quantities aµ? determine the surface completely, for a given
+position of the centre, with respect to the chosen system of
+Cartesian co-ordinates. From the known law of transformation
+for the ?? (3a) for linear orthogonal transformations, we easily
+find the law of transformation for the aµ?:
+*
+a
+0
+st = bsµbt ?aµ?.
+*The equation a
+0
+st ?
+0
+s
+?
+0
+t = 1 may, by (5), be replaced by
+a
+0
+st bµsb?t ?µ?? = 1, from which the result stated immediately follows.
+PRE-RELATIVITY PHYSICS 13
+This transformation is homogeneous and of the first degree in
+the aµ?. On account of this transformation, the aµ? are called
+components of a tensor of the second rank (the latter on account
+of the double index). If all the components, aµ?, of a tensor with
+respect to any system of Cartesian co-ordinates vanish, they
+vanish with respect to every other Cartesian system. The form
+and the position of the surface of the second degree is described
+by this tensor (a).
+Analytic tensors of higher rank (number of indices) may be
+defined. It is possible and advantageous to regard vectors as
+tensors of rank 1, and invariants (scalars) as tensors of rank 0.
+In this respect, the problem of the theory of invariants may be so
+formulated: according to what laws may new tensors be formed
+from given tensors? We shall consider these laws now, in order
+to be able to apply them later. We shall deal first only with the
+properties of tensors with respect to the transformation from
+one Cartesian system to another in the same space of reference,
+by means of linear orthogonal transformations. As the laws are
+wholly independent of the number of dimensions, we shall leave
+this number, n, indefinite at first.
+Definition. If a figure is defined with respect to every system
+of Cartesian co-ordinates in a space of reference of n dimensions
+by the n
+a numbers Aµ?? ∑ ∑ ∑ (a = number of indices), then
+these numbers are the components of a tensor of rank a if the
+transformation law is
+A
+0
+µ0?
+0?
+0
+∑ ∑ ∑ = bµ0µb?
+0?b?
+0? . . . Aµ?? ∑ ∑ ∑
+. (7)
+THE MEANING OF RELATIVITY 14
+Remark. From this definition it follows that
+Aµ?? ∑ ∑ ∑ = BµC?D? . . . (8)
+is an invariant, provided that (B), (C), (D) . . . are vectors.
+Conversely, the tensor character of (A) may be inferred, if it
+is known that the expression (8) leads to an invariant for an
+arbitrary choice of the vectors (B), (C), etc.
+Addition and Subtraction. By addition and subtraction of
+the corresponding components of tensors of the same rank, a
+tensor of equal rank results:
+Aµ?? ∑ ∑ ∑ ± Bµ?? ∑ ∑ ∑ = Cµ?? ∑ ∑ ∑
+. (9)
+The proof follows from the definition of a tensor given above.
+Multiplication. From a tensor of rank a and a tensor of
+rank ﬂ we may obtain a tensor of rank a + ﬂ by multiplying all
+the components of the first tensor by all the components of the
+second tensor:
+Tµ?? ∑ ∑ ∑ aﬂ ∑ ∑ ∑ = Aµ?? ∑ ∑ ∑ Baﬂ? ∑ ∑ ∑
+. (10)
+Contraction. A tensor of rank a - 2 may be obtained from
+one of rank a by putting two definite indices equal to each other
+and then summing for this single index:
+T? ∑ ∑ ∑ = Aµµ? ∑ ∑ ∑(= X
+µ
+Aµµ? ∑ ∑ ∑). (11)
+PRE-RELATIVITY PHYSICS 15
+The proof is
+A
+0
+µµ? ∑ ∑ ∑ = bµabµﬂb?? . . . Aaﬂ? ∑ ∑ ∑ = daﬂb?? . . . Aaﬂ? ∑ ∑ ∑
+= b?? . . . Aaa? ∑ ∑ ∑
+.
+In addition to these elementary rules of operation there is
+also the formation of tensors by differentiation (ìerweiterungî):
+Tµ?? ∑ ∑ ∑ a =
+?Aµ?? ∑ ∑ ∑
+?xa
+. (12)
+New tensors, in respect to linear orthogonal transformations,
+may be formed from tensors according to these rules of operation.
+Symmetrical Properties of Tensors. Tensors are called symmetrical
+or skew-symmetrical in respect to two of their indices,
+µ and ?, if both the components which result from interchanging
+the indices µ and ? are equal to each other or equal with
+opposite signs.
+Condition for symmetry: Aµ?? = A?µ?.
+Condition for skew-symmetry: Aµ?? = -A?µ?.
+Theorem. The character of symmetry or skew-symmetry
+exists independently of the choice of co-ordinates, and in this
+lies its importance. The proof follows from the equation defining
+tensors.
+Special Tensors.
+I. The quantities d?s (4) are tensor components (fundamental
+tensor).
+THE MEANING OF RELATIVITY 16
+Proof. If in the right-hand side of the equation of transformation
+A0
+µ? = bµab?ﬂAaﬂ, we substitute for Aaﬂ the quantities
+daﬂ (which are equal to 1 or 0 according as a = ﬂ or a 6= ﬂ),
+we get
+A
+0
+µ? = bµab?a = dµ?.
+The justification for the last sign of equality becomes evident if
+one applies (4) to the inverse substitution (5).
+II. There is a tensor (dµ?? ∑ ∑ ∑) skew-symmetrical with respect
+to all pairs of indices, whose rank is equal to the number of
+dimensions, n, and whose components are equal to +1 or -1
+according as µ ? ? . . . is an even or odd permutation of 1 2 3 . . . .
+The proof follows with the aid of the theorem proved above
+|b?s| = 1.
+These few simple theorems form the apparatus from the
+theory of invariants for building the equations of pre-relativity
+physics and the theory of special relativity.
+We have seen that in pre-relativity physics, in order to specify
+relations in space, a body of reference, or a space of reference,
+is required, and, in addition, a Cartesian system of co-ordinates.
+We can fuse both these concepts into a single one by thinking
+of a Cartesian system of co-ordinates as a cubical frame-work
+formed of rods each of unit length. The co-ordinates of the lattice
+points of this frame are integral numbers. It follows from
+the fundamental relation
+s
+2 = ?x1
+2 + ?x2
+2 + ?x3
+2
+(13)
+that the members of such a space-lattice are all of unit length.
+To specify relations in time, we require in addition a standard
+clock placed at the origin of our Cartesian system of co-ordinates
+PRE-RELATIVITY PHYSICS 17
+or frame of reference. If an event takes place anywhere we can
+assign to it three co-ordinates, x?, and a time t, as soon as
+we have specified the time of the clock at the origin which is
+simultaneous with the event. We therefore give an objective significance
+to the statement of the simultaneity of distant events,
+while previously we have been concerned only with the simultaneity
+of two experiences of an individual. The time so specified
+is at all events independent of the position of the system of coordinates
+in our space of reference, and is therefore an invariant
+with respect to the transformation (3).
+It is postulated that the system of equations expressing the
+laws of pre-relativity physics is co-variant with respect to the
+transformation (3), as are the relations of Euclidean geometry.
+The isotropy and homogeneity of space is expressed in this way.*
+We shall now consider some of the more important equations of
+physics from this point of view.
+The equations of motion of a material particle are
+m
+d
+2x?
+dt2
+= X?; (14)
+(dx?) is a vector; dt, and therefore also 1
+dt, an invariant; thus
+*The laws of physics could be expressed, even in case there were a
+unique direction in space, in such a way as to be co-variant with respect
+to the transformation (3); but such an expression would in this case be
+unsuitable. If there were a unique direction in space it would simplify the
+description of natural phenomena to orient the system of co-ordinates in
+a definite way in this direction. But if, on the other hand, there is no
+unique direction in space it is not logical to formulate the laws of nature
+in such a way as to conceal the equivalence of systems of co-ordinates that
+are oriented differently. We shall meet with this point of view again in the
+theories of special and general relativity.
+THE MEANING OF RELATIVITY 18
+
+dx?
+dt 
+is a vector; in the same way it may be shown that
+
+d
+2x?
+dt2
+
+is a vector. In general, the operation of differentiation
+with respect to time does not alter the tensor character. Since
+m is an invariant (tensor of rank 0), 
+m
+d
+2x?
+dt2
+
+is a vector, or
+tensor of rank 1 (by the theorem of the multiplication of tensors).
+If the force (X?) has a vector character, the same holds for
+the difference 
+m
+d
+2x?
+dt2
+- X?
+
+. These equations of motion are
+therefore valid in every other system of Cartesian co-ordinates
+in the space of reference. In the case where the forces are conservative
+we can easily recognize the vector character of (X?).
+For a potential energy, F, exists, which depends only upon the
+mutual distances of the particles, and is therefore an invariant.
+The vector character of the force, X? = -
+?F
+?x?
+, is then a consequence
+of our general theorem about the derivative of a tensor
+of rank 0.
+Multiplying by the velocity, a tensor of rank 1, we obtain the
+tensor equation
+
+m
+d
+2x?
+dt2
+- X?
+
+dx?
+dt = 0.
+By contraction and multiplication by the scalar dt we obtain the
+equation of kinetic energy
+d
+
+mq2
+2
+
+= X? dx?.
+PRE-RELATIVITY PHYSICS 19
+If ?? denotes the difference of the co-ordinates of the material
+particle and a point fixed in space, then the ?? have the
+character of vectors. We evidently have d
+2x?
+dt2
+=
+d
+2
+??
+dt2
+, so that
+the equations of motion of the particle may be written
+m
+d
+2
+??
+dt2
+- X? = 0.
+Multiplying this equation by ?µ we obtain a tensor equation
+
+m
+d
+2
+??
+dt2
+- X?
+
+?µ = 0.
+Contracting the tensor on the left and taking the time average
+we obtain the virial theorem, which we shall not consider
+further. By interchanging the indices and subsequent subtraction,
+we obtain, after a simple transformation, the theorem of
+moments,
+d
+dt 
+m
+
+?µ
+d??
+dt - ??
+d?µ
+dt  = ?µX? - ??Xµ. (15)
+It is evident in this way that the moment of a vector is not a
+vector but a tensor. On account of their skew-symmetrical character
+there are not nine, but only three independent equations of
+this system. The possibility of replacing skew-symmetrical tensors
+of the second rank in space of three dimensions by vectors
+depends upon the formation of the vector
+Aµ =
+1
+2
+Ast dstµ.
+THE MEANING OF RELATIVITY 20
+If we multiply the skew-symmetrical tensor of rank 2 by the
+special skew-symmetrical tensor d introduced above, and contract
+twice, a vector results whose components are numerically
+equal to those of the tensor. These are the so-called axial vectors
+which transform differently, from a right-handed system to
+a left-handed system, from the ?x?. There is a gain in picturesqueness
+in regarding a skew-symmetrical tensor of rank 2
+as a vector in space of three dimensions, but it does not represent
+the exact nature of the corresponding quantity so well as
+considering it a tensor.
+We consider next the equations of motion of a continuous
+medium. Let ? be the density, u? the velocity components considered
+as functions of the co-ordinates and the time, X? the
+volume forces per unit of mass, and p?s the stresses upon a surface
+perpendicular to the s-axis in the direction of increasing x?.
+Then the equations of motion are, by Newtonís law,
+?
+du?
+dt = -
+?p?s
+?xs
++ ?X?,
+in which du?
+dt is the acceleration of the particle which at time t
+has the co-ordinates x?. If we express this acceleration by partial
+differential coefficients, we obtain, after dividing by ?,
+?u?
+dt +
+?u?
+dxs
+us = -
+1
+?
+?p?s
+?xs
++ X?. (16)
+We must show that this equation holds independently of the
+special choice of the Cartesian system of co-ordinates. (u?) is a
+vector, and therefore ?u?
+?t is also a vector. ?u?
+?xs
+is a tensor of
+PRE-RELATIVITY PHYSICS 21
+rank 2, ?u?
+?xs
+ut is a tensor of rank 3. The second term on the left
+results from contraction in the indices s, t . The vector character
+of the second term on the right is obvious. In order that the first
+term on the right may also be a vector it is necessary for p?s to be
+a tensor. Then by differentiation and contraction ?p?s
+?xs
+results,
+and is therefore a vector, as it also is after multiplication by
+the reciprocal scalar 1
+?
+. That p?s is a tensor, and therefore
+transforms according to the equation
+p
+0
+µ? = bµab?ﬂpaﬂ,
+is proved in mechanics by integrating this equation over an infinitely
+small tetrahedron. It is also proved there, by application
+of the theorem of moments to an infinitely small parallelopipedon,
+that p?s = ps?, and hence that the tensor of the stress is
+a symmetrical tensor. From what has been said it follows that,
+with the aid of the rules given above, the equation is co-variant
+with respect to orthogonal transformations in space (rotational
+transformations); and the rules according to which the quantities
+in the equation must be transformed in order that the
+equation may be co-variant also become evident.
+The co-variance of the equation of continuity,
+??
+?t +
+?(?u?)
+?x?
+= 0, (17)
+requires, from the foregoing, no particular discussion.
+We shall also test for co-variance the equations which express
+the dependence of the stress components upon the properties of
+THE MEANING OF RELATIVITY 22
+the matter, and set up these equations for the case of a compressible
+viscous fluid with the aid of the conditions of co-variance.
+If we neglect the viscosity, the pressure, p, will be a scalar, and
+will depend only upon the density and the temperature of the
+fluid. The contribution to the stress tensor is then evidently
+pdµ?
+in which dµ? is the special symmetrical tensor. This term will
+also be present in the case of a viscous fluid. But in this case
+there will also be pressure terms, which depend upon the space
+derivatives of the u?. We shall assume that this dependence is a
+linear one. Since these terms must be symmetrical tensors, the
+only ones which enter will be
+a
+
+?uµ
+?x?
++
+?u?
+?xµ
+
++ ﬂdµ?
+?ua
+?xa
+(for ?ua
+?xa
+is a scalar). For physical reasons (no slipping) it
+is assumed that for symmetrical dilatations in all directions,
+i.e. when
+?u1
+?x1
+=
+?u2
+?x2
+=
+?u3
+?x3
+;
+?u1
+?x2
+, etc., = 0,
+there are no frictional forces present, from which it follows that
+ﬂ = -
+2
+3
+a. If only ?u1
+?x3
+is different from zero, let p31 = -a
+?u1
+?x3
+,
+by which a is determined. We then obtain for the complete
+stress tensor,
+pµ? = pdµ?-a
+?uµ
+?x?
++
+?u?
+?xµ
+
+-
+2
+3
+
+?u1
+?x1
++
+?u2
+?x2
++
+?u3
+?x3
+
+dµ?
+. (18)
+PRE-RELATIVITY PHYSICS 23
+The heuristic value of the theory of invariants, which arises
+from the isotropy of space (equivalence of all directions), becomes
+evident from this example.
+We consider, finally, Maxwellís equations in the form which
+are the foundation of the electron theory of Lorentz.
+?h3
+?x2
+-
+?h2
+?x3
+=
+1
+c
+?e1
+?t +
+1
+c
+i1,
+?h1
+?x3
+-
+?h3
+?x1
+=
+1
+c
+?e2
+?t +
+1
+c
+i2,
+?h2
+?x1
+-
+?h1
+?x2
+=
+1
+c
+?e3
+?t +
+1
+c
+i3,
+?e1
+?x1
++
+?e2
+?x2
++
+?e3
+?x3
+= ?;
+?
+???????????
+???????????
+(19)
+?e3
+?x2
+-
+?e2
+?x3
+= -
+1
+c
+?h1
+?t ,
+?e1
+?x3
+-
+?e3
+?x1
+= -
+1
+c
+?h2
+?t ,
+?e2
+?x1
+-
+?e1
+?x2
+= -
+1
+c
+?h3
+?t ,
+?h1
+?x1
++
+?h2
+?x2
++
+?h3
+?x3
+= 0.
+?
+???????????
+???????????
+(20)
+i is a vector, because the current density is defined as the
+density of electricity multiplied by the vector velocity of the
+electricity. According to the first three equations it is evident
+that e is also to be regarded as a vector. Then h cannot be
+regarded as a vector.* The equations may, however, easily be
+*These considerations will make the reader familiar with tensor opera-
+THE MEANING OF RELATIVITY 24
+interpreted if h is regarded as a skew-symmetrical tensor of the
+second rank. In this sense, we write h23, h31, h12, in place of
+h1, h2, h3 respectively. Paying attention to the skew-symmetry
+of hµ?, the first three equations of (19) and (20) may be written
+in the form
+?hµ?
+?x?
+=
+1
+c
+?eµ
+?t +
+1
+c
+iµ, (19a)
+?eµ
+?x?
+-
+?e?
+?xµ
+= +
+1
+c
+?hµ?
+?t . (20a)
+In contrast to e, h appears as a quantity which has the same type
+of symmetry as an angular velocity. The divergence equations
+then take the form
+?e?
+?x?
+= ?, (19b)
+?hµ?
+?x?
++
+?h??
+?xµ
++
+?h?µ
+?x?
+= 0. (20b)
+The last equation is a skew-symmetrical tensor equation of the
+third rank (the skew-symmetry of the left-hand side with respect
+to every pair of indices may easily be proved, if attention
+is paid to the skew-symmetry of hµ?). This notation is more
+natural than the usual one, because, in contrast to the latter,
+it is applicable to Cartesian left-handed systems as well as to
+right-handed systems without change of sign.
+tions without the special difficulties of the four-dimensional treatment; corresponding
+considerations in the theory of special relativity (Minkowskiís
+interpretation of the field) will then offer fewer difficulties.
+LECTURE II
+THE THEORY OF SPECIAL RELATIVITY
+The previous considerations concerning the configuration of
+rigid bodies have been founded, irrespective of the assumption
+as to the validity of the Euclidean geometry, upon the hypothesis
+that all directions in space, or all configurations of Cartesian systems
+of co-ordinates, are physically equivalent. We may express
+this as the ìprinciple of relativity with respect to direction,î and
+it has been shown how equations (laws of nature) may be found,
+in accord with this principle, by the aid of the calculus of tensors.
+We now inquire whether there is a relativity with respect
+to the state of motion of the space of reference; in other words,
+whether there are spaces of reference in motion relatively to each
+other which are physically equivalent. From the standpoint of
+mechanics it appears that equivalent spaces of reference do exist.
+For experiments upon the earth tell us nothing of the fact
+that we are moving about the sun with a velocity of approximately
+30 kilometres a second. On the other hand, this physical
+equivalence does not seem to hold for spaces of reference in arbitrary
+motion; for mechanical effects do not seem to be subject
+to the same laws in a jolting railway train as in one moving with
+uniform velocity; the rotation of the earth must be considered
+in writing down the equations of motion relatively to the earth.
+It appears, therefore, as if there were Cartesian systems of coordinates,
+the so-called inertial systems, with reference to which
+the laws of mechanics (more generally the laws of physics) are
+expressed in the simplest form. We may infer the validity of
+the following theorem: If K is an inertial system, then every
+25
+THE MEANING OF RELATIVITY 26
+other system K0 which moves uniformly and without rotation
+relatively to K, is also an inertial system; the laws of nature are
+in concordance for all inertial systems. This statement we shall
+call the ìprinciple of special relativity.î We shall draw certain
+conclusions from this principle of ìrelativity of translationî just
+as we have already done for relativity of direction.
+In order to be able to do this, we must first solve the following
+problem. If we are given the Cartesian co-ordinates, x?, and
+the time, t, of an event relatively to one inertial system, K,
+how can we calculate the co-ordinates, x
+0
+?, and the time, t
+0
+, of
+the same event relatively to an inertial system K0 which moves
+with uniform translation relatively to K? In the pre-relativity
+physics this problem was solved by making unconsciously two
+hypotheses:ó
+1. The time is absolute; the time of an event, t
+0
+, relatively
+to K0
+is the same as the time relatively to K. If instantaneous
+signals could be sent to a distance, and if one knew that the
+state of motion of a clock had no influence on its rate, then this
+assumption would be physically established. For then clocks,
+similar to one another, and regulated alike, could be distributed
+over the systems K and K0
+, at rest relatively to them, and their
+indications would be independent of the state of motion of the
+systems; the time of an event would then be given by the clock
+in its immediate neighbourhood.
+2. Length is absolute; if an interval, at rest relatively to K,
+has a length s, then it has the same length s relatively to a
+system K0 which is in motion relatively to K.
+If the axes of K and K0 are parallel to each other, a simple
+calculation based on these two assumptions, gives the equations
+SPECIAL RELATIVITY 27
+of transformation
+x
+0
+? = x? - a? - b?t,
+t
+0 = t - b. )
+(21)
+This transformation is known as the ìGalilean Transformation.î
+Differentiating twice by the time, we get
+d
+2x
+0
+?
+dt2
+=
+d
+2x?
+dt2
+.
+Further, it follows that for two simultaneous events,
+x
+0
+?
+(1) - x
+0
+?
+(2) = x?
+(1) - x?
+(2)
+.
+The invariance of the distance between the two points results
+from squaring and adding. From this easily follows the covariance
+of Newtonís equations of motion with respect to the
+Galilean transformation (21). Hence it follows that classical
+mechanics is in accord with the principle of special relativity if
+the two hypotheses respecting scales and clocks are made.
+But this attempt to found relativity of translation upon the
+Galilean transformation fails when applied to electromagnetic
+phenomena. The Maxwell-Lorentz electromagnetic equations
+are not co-variant with respect to the Galilean transformation.
+In particular, we note, by (21), that a ray of light which referred
+to K has a velocity c, has a different velocity referred to K0
+,
+depending upon its direction. The space of reference of K is
+therefore distinguished, with respect to its physical properties,
+from all spaces of reference which are in motion relatively to it
+(quiescent Êther). But all experiments have shown that electromagnetic
+and optical phenomena, relatively to the earth as the
+THE MEANING OF RELATIVITY 28
+body of reference, are not influenced by the translational velocity
+of the earth. The most important of these experiments are
+those of Michelson and Morley, which I shall assume are known.
+The validity of the principle of special relativity can therefore
+hardly be doubted.
+On the other hand, the Maxwell-Lorentz equations have
+proved their validity in the treatment of optical problems in
+moving bodies. No other theory has satisfactorily explained the
+facts of aberration, the propagation of light in moving bodies
+(Fizeau), and phenomena observed in double stars (De Sitter).
+The consequence of the Maxwell-Lorentz equations that in a
+vacuum light is propagated with the velocity c, at least with respect
+to a definite inertial system K, must therefore be regarded
+as proved. According to the principle of special relativity, we
+must also assume the truth of this principle for every other
+inertial system.
+Before we draw any conclusions from these two principles
+we must first review the physical significance of the concepts
+ìtimeî and ìvelocity.î It follows from what has gone before, that
+co-ordinates with respect to an inertial system are physically
+defined by means of measurements and constructions with the
+aid of rigid bodies. In order to measure time, we have supposed
+a clock, U, present somewhere, at rest relatively to K. But
+we cannot fix the time, by means of this clock, of an event
+whose distance from the clock is not negligible; for there are no
+ìinstantaneous signalsî that we can use in order to compare the
+time of the event with that of the clock. In order to complete the
+definition of time we may employ the principle of the constancy
+of the velocity of light in a vacuum. Let us suppose that we
+place similar clocks at points of the system K, at rest relatively
+SPECIAL RELATIVITY 29
+to it, and regulated according to the following scheme. A ray
+of light is sent out from one of the clocks, Um, at the instant
+when it indicates the time tm, and travels through a vacuum a
+distance rmn, to the clock Un; at the instant when this ray meets
+the clock Un the latter is set to indicate the time tn = tm +
+rmn
+c
+.
+*
+The principle of the constancy of the velocity of light then states
+that this adjustment of the clocks will not lead to contradictions.
+With clocks so adjusted, we can assign the time to events which
+take place near any one of them. It is essential to note that this
+definition of time relates only to the inertial system K, since
+we have used a system of clocks at rest relatively to K. The
+assumption which was made in the pre-relativity physics of the
+absolute character of time (i.e. the independence of time of the
+choice of the inertial system) does not follow at all from this
+definition.
+The theory of relativity is often criticized for giving, without
+justification, a central theoretical ràole to the propagation
+of light, in that it founds the concept of time upon the law of
+propagation of light. The situation, however, is somewhat as
+follows. In order to give physical significance to the concept of
+time, processes of some kind are required which enable relations
+to be established between different places. It is immaterial what
+kind of processes one chooses for such a definition of time. It
+is advantageous, however, for the theory, to choose only those
+*Strictly speaking, it would be more correct to define simultaneity first,
+somewhat as follows: two events taking place at the points A and B of
+the system K are simultaneous if they appear at the same instant when
+observed from the middle point, M, of the interval AB. Time is then
+defined as the ensemble of the indications of similar clocks, at rest relatively
+to K, which register the same simultaneously.
+THE MEANING OF RELATIVITY 30
+processes concerning which we know something certain. This
+holds for the propagation of light in vacuo in a higher degree
+than for any other process which could be considered, thanks to
+the investigations of Maxwell and H. A. Lorentz.
+From all of these considerations, space and time data have
+a physically real, and not a mere fictitious, significance; in particular
+this holds for all the relations in which co-ordinates and
+time enter, e.g. the relations (21). There is, therefore, sense in
+asking whether those equations are true or not, as well as in
+asking what the true equations of transformation are by which
+we pass from one inertial system K to another, K0
+, moving relatively
+to it. It may be shown that this is uniquely settled by
+means of the principle of the constancy of the velocity of light
+and the principle of special relativity.
+To this end we think of space and time physically defined
+with respect to two inertial systems, K and K0
+, in the way that
+has been shown. Further, let a ray of light pass from one point P1
+to another point P2 of K through a vacuum. If r is the measured
+distance between the two points, then the propagation of light
+must satisfy the equation
+r = c ∑ ?t.
+If we square this equation, and express r
+2 by the differences
+of the co-ordinates, ?x?, in place of this equation we can write
+X(?x?)
+2 - c
+2 ?t
+2 = 0. (22)
+This equation formulates the principle of the constancy of the
+velocity of light relatively to K. It must hold whatever may be
+the motion of the source which emits the ray of light.
+SPECIAL RELATIVITY 31
+The same propagation of light may also be considered relatively
+to K0
+, in which case also the principle of the constancy of
+the velocity of light must be satisfied. Therefore, with respect
+to K0
+, we have the equation
+X(?x
+0
+?)
+2 - c
+2 ?t
+02 = 0. (22a)
+Equations (22a) and (22) must be mutually consistent with
+each other with respect to the transformation which transforms
+from K to K0
+. A transformation which effects this we shall call
+a ìLorentz transformation.î
+Before considering these transformations in detail we shall
+make a few general remarks about space and time. In the prerelativity
+physics space and time were separate entities. Specifications
+of time were independent of the choice of the space of
+reference. The Newtonian mechanics was relative with respect
+to the space of reference, so that, e.g. the statement that two
+non-simultaneous events happened at the same place had no objective
+meaning (that is, independent of the space of reference).
+But this relativity had no ràole in building up the theory. One
+spoke of points of space, as of instants of time, as if they were
+absolute realities. It was not observed that the true element
+of the space-time specification was the event, specified by the
+four numbers x1, x2, x3, t. The conception of something happening
+was always that of a four-dimensional continuum; but
+the recognition of this was obscured by the absolute character
+of the pre-relativity time. Upon giving up the hypothesis of the
+absolute character of time, particularly that of simultaneity, the
+four-dimensionality of the time-space concept was immediately
+recognized. It is neither the point in space, nor the instant in
+THE MEANING OF RELATIVITY 32
+time, at which something happens that has physical reality, but
+only the event itself. There is no absolute (independent of the
+space of reference) relation in space, and no absolute relation
+in time between two events, but there is an absolute (independent
+of the space of reference) relation in space and time, as
+will appear in the sequel. The circumstance that there is no
+objective rational division of the four-dimensional continuum
+into a three-dimensional space and a one-dimensional time continuum
+indicates that the laws of nature will assume a form
+which is logically most satisfactory when expressed as laws in
+the four-dimensional space-time continuum. Upon this depends
+the great advance in method which the theory of relativity owes
+to Minkowski. Considered from this standpoint, we must regard
+x1, x2, x3, t as the four co-ordinates of an event in the fourdimensional
+continuum. We have far less success in picturing
+to ourselves relations in this four-dimensional continuum than
+in the three-dimensional Euclidean continuum; but it must be
+emphasized that even in the Euclidean three-dimensional geometry
+its concepts and relations are only of an abstract nature in
+our minds, and are not at all identical with the images we form
+visually and through our sense of touch. The non-divisibility of
+the four-dimensional continuum of events does not at all, however,
+involve the equivalence of the space co-ordinates with the
+time co-ordinate. On the contrary, we must remember that the
+time co-ordinate is defined physically wholly differently from the
+space co-ordinates. The relations (22) and (22a) which when
+equated define the Lorentz transformation show, further, a difference
+in the ràole of the time co-ordinate from that of the space
+co-ordinates; for the term ?t
+2 has the opposite sign to the space
+terms, ?x1
+2
+, ?x2
+2
+, ?x3
+2
+.
+SPECIAL RELATIVITY 33
+Before we analyse further the conditions which define the
+Lorentz transformation, we shall introduce the light-time, l = ct,
+in place of the time, t, in order that the constant c shall not
+enter explicitly into the formulas to be developed later. Then
+the Lorentz transformation is defined in such a way that, first,
+it makes the equation
+?x1
+2 + ?x2
+2 + ?x3
+2 - ?l
+2 = 0 (22b)
+a co-variant equation, that is, an equation which is satisfied with
+respect to every inertial system if it is satisfied in the inertial
+system to which we refer the two given events (emission and
+reception of the ray of light). Finally, with Minkowski, we introduce
+in place of the real time co-ordinate l = ct, the imaginary
+time co-ordinate
+x4 = il = ict (
+v
+-1 = i).
+Then the equation defining the propagation of light, which must
+be co-variant with respect to the Lorentz transformation, becomes
+X
+(4)
+?x?
+2 = ?x1
+2 + ?x2
+2 + ?x3
+2 + ?x4
+2 = 0. (22c)
+This condition is always satisfied*
+if we satisfy the more general
+condition that
+s
+2 = ?x1
+2 + ?x2
+2 + ?x3
+2 + ?x4
+2
+(23)
+*That this specialization lies in the nature of the case will be evident
+later.
+THE MEANING OF RELATIVITY 34
+shall be an invariant with respect to the transformation. This
+condition is satisfied only by linear transformations, that is,
+transformations of the type
+x
+0
+µ = aµ + bµaxa (24)
+in which the summation over the a is to be extended from a = 1
+to a = 4. A glance at equations (23) and (24) shows that the
+Lorentz transformation so defined is identical with the translational
+and rotational transformations of the Euclidean geometry,
+if we disregard the number of dimensions and the relations of reality.
+We can also conclude that the coefficients bµa must satisfy
+the conditions
+bµab?a = dµ? = baµba?. (25)
+Since the ratios of the x? are real, it follows that all the aµ and
+the bµa are real, except a4, b41, b42, b43, b14, b24 and b34, which
+are purely imaginary.
+Special Lorentz Transformation. We obtain the simplest
+transformations of the type of (24) and (25) if only two of the
+co-ordinates are to be transformed, and if all the aµ, which determine
+the new origin, vanish. We obtain then for the indices
+1 and 2, on account of the three independent conditions which
+the relations (25) furnish,
+x
+0
+1 = x1 cos f - x2 sin f,
+x
+0
+2 = x1 sin f + x2 cos f,
+x
+0
+3 = x3,
+x
+0
+4 = x4.
+?
+????
+????
+(26)
+SPECIAL RELATIVITY 35
+This is a simple rotation in space of the (space) co-ordinate
+system about x3-axis. We see that the rotational transformation
+in space (without the time transformation) which we studied
+before is contained in the Lorentz transformation as a special
+case. For the indices 1 and 4 we obtain, in an analogous manner,
+x
+0
+1 = x1 cos ? - x4 sin ?,
+x
+0
+4 = x1 sin ? + x4 cos ?,
+x
+0
+2 = x2,
+x
+0
+3 = x3.
+?
+????
+????
+(26a)
+On account of the relations of reality ? must be taken as
+imaginary. To interpret these equations physically, we introduce
+the real light-time l and the velocity v of K0
+relatively to K,
+instead of the imaginary angle ?. We have, first,
+x
+0
+1 = x1 cos ? - ilsin ?,
+l
+0 = -ix1 sin ? + l cos ?.
+Since for the origin of K0
+i.e., for x1 = 0, we must have x1 = vl,
+it follows from the first of these equations that
+v = itan ?, (27)
+and also
+sin ? =
+-iv
+v
+1 - v
+2
+,
+cos ? =
+1
+v
+1 - v
+2
+,
+?
+???
+???
+(28)
+THE MEANING OF RELATIVITY 36
+so that we obtain
+x
+0
+1 =
+x1 - vl
+v
+1 - v
+2
+,
+l
+0 =
+l - vx1
+v
+1 - v
+2
+,
+x
+0
+2 = x2,
+x
+0
+3 = x3.
+?
+????????
+????????
+(29)
+These equations form the well-known special Lorentz transformation,
+which in the general theory represents a rotation,
+through an imaginary angle, of the four-dimensional system of
+co-ordinates. If we introduce the ordinary time t, in place of the
+light-time l, then in (29) we must replace l by ct and v by v
+c
+.
+We must now fill in a gap. From the principle of the constancy
+of the velocity of light it follows that the equation
+X?x?
+2 = 0
+has a significance which is independent of the choice of the inertial
+system; but the invariance of the quantity P?x?
+2
+does
+not at all follow from this. This quantity might be transformed
+with a factor. This depends upon the fact that the right-hand
+side of (29) might be multiplied by a factor ?, independent of v.
+But the principle of relativity does not permit this factor to be
+different from 1, as we shall now show. Let us assume that we
+have a rigid circular cylinder moving in the direction of its axis.
+If its radius, measured at rest with a unit measuring rod is equal
+to R0, its radius R in motion, might be different from R0, since
+the theory of relativity does not make the assumption that the
+shape of bodies with respect to a space of reference is independent
+of their motion relatively to this space of reference. But
+SPECIAL RELATIVITY 37
+all directions in space must be equivalent to each other. R may
+therefore depend upon the magnitude q of the velocity, but not
+upon its direction; R must therefore be an even function of q. If
+the cylinder is at rest relatively to K0
+the equation of its lateral
+surface is
+x
+02 + y
+02 = R0
+2
+.
+If we write the last two equations of (29) more generally
+x
+0
+2 = ?x2,
+x
+0
+3 = ?x3,
+then the lateral surface of the cylinder referred to K satisfies the
+equation
+x
+2 + y
+2 =
+R0
+2
+?
+2
+.
+The factor ? therefore measures the lateral contraction of the
+cylinder, and can thus, from the above, be only an even function
+of v.
+If we introduce a third system of co-ordinates, K00, which
+moves relatively to K0 with velocity v in the direction of the
+negative x-axis of K, we obtain, by applying (29) twice,
+x
+00
+1 = ?(v)?(-v)x1,
+x
+00
+2 = ?(v)?(-v)x2,
+x
+00
+3 = ?(v)?(-v)x3,
+l
+00 = ?(v)?(-v)l.
+Now, since ?(v) must be equal to ?(-v), and since we assume
+that we use the same measuring rods in all the systems, it follows
+that the transformation of K00 to K must be the identical
+THE MEANING OF RELATIVITY 38
+transformation (since the possibility ? = -1 does not need to
+be considered). It is essential for these considerations to assume
+that the behaviour of the measuring rods does not depend upon
+the history of their previous motion.
+Moving Measuring Rods and Clocks. At the definite Ktime,
+l = 0, the position of the points given by the integers
+x
+0
+1 = n, is with respect to K, given by x1 = n
+v
+1 - v
+2
+; this follows
+from the first of equations (29) and expresses the Lorentz
+contraction. A clock at rest at the origin x1 = 0 of K, whose
+beats are characterized by l = n, will, when observed from K0
+,
+have beats characterized by
+l
+0 =
+n
+v
+1 - v
+2
+;
+this follows from the second of equations (29) and shows that
+the clock goes slower than if it were at rest relatively to K0
+.
+These two consequences, which hold, mutatis mutandis, for every
+system of reference, form the physical content, free from
+convention, of the Lorentz transformation.
+Addition Theorem for Velocities. If we combine two special
+Lorentz transformations with the relative velocities v1 and v2,
+then the velocity of the single Lorentz transformation which
+takes the place of the two separate ones is, according to (27),
+given by
+v12 = itan(?1 + ?2) = i
+tan ?1 + tan ?2
+1 - tan ?1 tan ?2
+=
+v1 + v2
+1 + v1v2
+. (30)
+SPECIAL RELATIVITY 39
+General Statements about the Lorentz Transformation and
+its Theory of Invariants. The whole theory of invariants of the
+special theory of relativity depends upon the invariant s
+2
+(23).
+Formally, it has the same ràole in the four-dimensional space-time
+continuum as the invariant ?x1
+2+?x2
+2+?x3
+2
+in the Euclidean
+geometry and in the pre-relativity physics. The latter quantity
+is not an invariant with respect to all the Lorentz transformations;
+the quantity s
+2 of equation (23) assumes the ràole of this
+invariant. With respect to an arbitrary inertial system, s
+2 may
+be determined by measurements; with a given unit of measure
+it is a completely determinate quantity, associated with an arbitrary
+pair of events.
+The invariant s
+2 differs, disregarding the number of dimensions,
+from the corresponding invariant of the Euclidean geometry
+in the following points. In the Euclidean geometry s
+2
+is
+necessarily positive; it vanishes only when the two points concerned
+come together. On the other hand, from the vanishing
+of
+s
+2 =
+X
+(4)
+?x?
+2 = ?x1
+2 + ?x2
+2 + ?x3
+2 - ?t
+2
+it cannot be concluded that the two space-time points fall together;
+the vanishing of this quantity s
+2
+, is the invariant condition
+that the two space-time points can be connected by a light
+signal in vacuo. If P is a point (event) represented in the fourdimensional
+space of the x1, x2, x3, l, then all the ìpointsî which
+can be connected to P by means of a light signal lie upon the
+cone s
+2 = 0 (compare Fig. 1, in which the dimension x3 is suppressed).
+The ìupperî half of the cone may contain the ìpointsî
+to which light signals can be sent from P; then the ìlowerî half
+THE MEANING OF RELATIVITY 40
+x1
+x2
+l
+Fig. 1.
+of the cone will contain the ìpointsî from which light signals
+can be sent to P. The points P
+0
+enclosed by the conical surface
+furnish, with P, a negative s
+2
+; P P0
+, as well as P
+0P is then, according
+to Minkowski, of the nature of a time. Such intervals
+represent elements of possible paths of motion, the velocity being
+less than that of light.*
+In this case the l-axis may be drawn
+*That material velocities exceeding that of light are not possible, follows
+from the appearance of the radical v
+1 - v
+2 in the special Lorentz
+SPECIAL RELATIVITY 41
+in the direction of P P0 by suitably choosing the state of motion
+of the inertial system. If P
+0
+lies outside of the ìlight-coneî then
+P P0
+is of the nature of a space; in this case, by properly choosing
+the inertial system, ?l can be made to vanish.
+By the introduction of the imaginary time variable, x4 =
+il, Minkowski has made the theory of invariants for the fourdimensional
+continuum of physical phenomena fully analogous
+to the theory of invariants for the three-dimensional continuum
+of Euclidean space. The theory of four-dimensional tensors of
+special relativity differs from the theory of tensors in threedimensional
+space, therefore, only in the number of dimensions
+and the relations of reality.
+A physical entity which is specified by four quantities, A?,
+in an arbitrary inertial system of the x1, x2, x3, x4, is called
+a 4-vector, with the components A?, if the A? correspond in
+their relations of reality and the properties of transformation to
+the ?x?; it may be of the nature of a space or of a time. The
+sixteen quantities Aµ? then form the components of a tensor of
+the second rank, if they transform according to the scheme
+A
+0
+µ? = bµab?ﬂAaﬂ.
+It follows from this that the Aµ? behave, with respect to
+their properties of transformation and their properties of reality,
+as the products of components, UµV?, of two 4-vectors,
+(U) and (V ). All the components are real except those which
+contain the index 4 once, those being purely imaginary. Tensors
+of the third and higher ranks may be defined in an analogous
+way. The operations of addition, subtraction, multiplication,
+transformation (29).
+THE MEANING OF RELATIVITY 42
+contraction and differentiation for these tensors are wholly
+analogous to the corresponding operations for tensors in threedimensional
+space.
+Before we apply the tensor theory to the four-dimensional
+space-time continuum, we shall examine more particularly the
+skew-symmetrical tensors. The tensor of the second rank has, in
+general, 16 = 4∑4 components. In the case of skew-symmetry the
+components with two equal indices vanish, and the components
+with unequal indices are equal and opposite in pairs. There
+exist, therefore, only six independent components, as is the case
+in the electromagnetic field. In fact, it will be shown when we
+consider Maxwellís equations that these may be looked upon as
+tensor equations, provided we regard the electromagnetic field
+as a skew-symmetrical tensor. Further, it is clear that the skewsymmetrical
+tensor of the third rank (skew-symmetrical in all
+pairs of indices) has only four independent components, since
+there are only four combinations of three different indices.
+We now turn to Maxwellís equations (19a), (19b), (20a),
+(20b), and introduce the notation:*
+f23 f31 f12 f14 f24 f34
+h23 h31 h12 - iex - iey - iez
+)
+(30a)
+J1 J2 J3 J4
+1
+c
+ix
+1
+c
+iy
+1
+c
+iz i?
+?
+?
+?
+(31)
+with the convention that fµ? shall be equal to -f?µ. Then
+*
+In order to avoid confusion from now on we shall use the threedimensional
+space indices, x, y, z instead of 1, 2, 3, and we shall reserve the
+numeral indices 1, 2, 3, 4 for the four-dimensional space-time continuum.
+SPECIAL RELATIVITY 43
+Maxwellís equations may be combined into the forms
+?fµ?
+?x?
+= Jµ, (32)
+?fµ?
+?xs
++
+?f?s
+?xµ
++
+?fsµ
+?x?
+= 0, (33)
+as one can easily verify by substituting from (30a) and (31).
+Equations (32) and (33) have a tensor character, and are
+therefore co-variant with respect to Lorentz transformations,
+if the fµ? and the J? have a tensor character, which we assume.
+Consequently, the laws for transforming these quantities from
+one to another allowable (inertial) system of co-ordinates are
+uniquely determined. The progress in method which electrodynamics
+owes to the theory of special relativity lies principally
+in this, that the number of independent hypotheses is diminished.
+If we consider, for example, equations (19a) only from the
+standpoint of relativity of direction, as we have done above, we
+see that they have three logically independent terms. The way
+in which the electric intensity enters these equations appears to
+be wholly independent of the way in which the magnetic intensity
+enters them; it would not be surprising if instead of ?eµ
+?l ,
+we had, say, ?
+2eµ
+?l2
+, or if this term were absent. On the other
+hand, only two independent terms appear in equation (32). The
+electromagnetic field appears as a formal unit; the way in which
+the electric field enters this equation is determined by the way in
+which the magnetic field enters it. Besides the electromagnetic
+field, only the electric current density appears as an independent
+entity. This advance in method arises from the fact that the
+THE MEANING OF RELATIVITY 44
+electric and magnetic fields draw their separate existences from
+the relativity of motion. A field which appears to be purely an
+electric field, judged from one system, has also magnetic field
+components when judged from another inertial system. When
+applied to an electromagnetic field, the general law of transformation
+furnishes, for the special case of the special Lorentz
+transformation, the equations
+e
+0
+x = ex h
+0
+x = hx,
+e
+0
+y =
+ey - vhz v
+1 - v
+2
+h
+0
+y =
+hy + vez v
+1 - v
+2
+,
+e
+0
+z =
+ez + vhy
+v
+1 - v
+2
+h
+0
+z =
+hz - vey
+v
+1 - v
+2
+.
+?
+??????
+??????
+(34)
+If there exists with respect to K only a magnetic field, h, but
+no electric field, e, then with respect to K0
+there exists an electric
+field e
+0 as well, which would act upon an electric particle at rest
+relatively to K0
+. An observer at rest relatively to K would designate
+this force as the Biot-Savart force, or the Lorentz electromotive
+force. It therefore appears as if this electromotive force
+had become fused with the electric field intensity into a single
+entity.
+In order to view this relation formally, let us consider the
+expression for the force acting upon unit volume of electricity,
+k = ?e + [i, h], (35)
+in which i is the vector velocity of electricity, with the velocity
+of light as the unit. If we introduce Jµ and fµ? according to
+(30a) and (31), we obtain for the first component the expression
+f12J2 + f13J3 + f14J4.
+SPECIAL RELATIVITY 45
+Observing that f11 vanishes on account of the skew-symmetry of
+the tensor (f), the components of k are given by the first three
+components of the four-dimensional vector
+Kµ = fµ?J?, (36)
+and the fourth component is given by
+K4 = f41J1 + f42J2 + f43J3 = i(exix + eyiy + eziz) = i?. (37)
+There is, therefore, a four-dimensional vector of force per unit
+volume, whose first three components, K1, K2, K3, are the ponderomotive
+force components per unit volume, and whose fourth
+component is the rate of working of the field per unit volume,
+multiplied by v
+-1.
+A comparison of (36) and (35) shows that the theory of relativity
+formally unites the ponderomotive force of the electric
+field, ?e, and the Biot-Savart or Lorentz force [i, h].
+Mass and Energy. An important conclusion can be drawn
+from the existence and significance of the 4-vector Kµ. Let us
+imagine a body upon which the electromagnetic field acts for
+a time. In the symbolic figure (Fig. 2) Ox1 designates the x1-
+axis, and is at the same time a substitute for the three space axes
+Ox1, Ox2, Ox3; Ol designates the real time axis. In this diagram
+a body of finite extent is represented, at a definite time l, by
+the interval AB; the whole space-time existence of the body is
+represented by a strip whose boundary is everywhere inclined
+less than 45?
+to the l-axis. Between the time sections, l = l1
+and l = l2, but not extending to them, a portion of the strip is
+shaded. This represents the portion of the space-time manifold
+THE MEANING OF RELATIVITY 46
+x1
+l
+l1
+l
+l2
+O
+A B
+Fig. 2.
+in which the electromagnetic field acts upon the body, or upon
+the electric charges contained in it, the action upon them being
+transmitted to the body. We shall now consider the changes
+which take place in the momentum and energy of the body as a
+result of this action.
+We shall assume that the principles of momentum and
+energy are valid for the body. The change in momentum,
+?Ix, ?Iy, ?Iz, and the change in energy, ?E, are then given
+SPECIAL RELATIVITY 47
+by the expressions
+?Ix =
+Z l2
+l1
+dl Z
+kx dx dy dz =
+1
+i
+Z
+K1 dx1 dx2 dx3 dx4,
+?Iy =
+Z l2
+l1
+dl Z
+ky dx dy dz =
+1
+i
+Z
+K2 dx1 dx2 dx3 dx4,
+?Iz =
+Z l2
+l1
+dl Z
+kz dx dy dz =
+1
+i
+Z
+K3 dx1 dx2 dx3 dx4,
+?E =
+Z l2
+l1
+dl Z
+? dx dy dz =
+1
+i
+Z
+1
+i
+K4 dx1 dx2 dx3 dx4.
+Since the four-dimensional element of volume is an invariant,
+and (K1, K2, K3, K4) forms a 4-vector, the four-dimensional integral
+extended over the shaded portion transforms as a 4-vector,
+as does also the integral between the limits l1 and l2, because
+the portion of the region which is not shaded contributes nothing
+to the integral. It follows, therefore, that ?Ix, ?Iy, ?Iz, i?E
+form a 4-vector. Since the quantities themselves transform in
+the same way as their increments, it follows that the aggregate
+of the four quantities
+Ix, Iy, Iz, iE
+has itself the properties of a vector; these quantities are referred
+to an instantaneous condition of the body (e.g. at the time l =
+l1).
+This 4-vector may also be expressed in terms of the mass m,
+and the velocity of the body, considered as a material particle.
+To form this expression, we note first, that
+-ds2 = dt 2 = -(dx1
+2 + dx2
+2 + dx3
+2
+) - dx4
+2 = dl2
+(1 - q
+2
+) (38)
+THE MEANING OF RELATIVITY 48
+is an invariant which refers to an infinitely short portion of the
+four-dimensional line which represents the motion of the material
+particle. The physical significance of the invariant dt may
+easily be given. If the time axis is chosen in such a way that it
+has the direction of the line differential which we are considering,
+or, in other words, if we reduce the material particle to rest,
+we shall then have dt = dl; this will therefore be measured by
+the light-seconds clock which is at the same place, and at rest
+relatively to the material particle. We therefore call t the proper
+time of the material particle. As opposed to dl, dt is therefore an
+invariant, and is practically equivalent to dl for motions whose
+velocity is small compared to that of light. Hence we see that
+us =
+dxs
+dt (39)
+has, just as the dx?, the character of a vector; we shall designate
+(us) as the four-dimensional vector (in brief, 4-vector) of
+velocity. Its components satisfy, by (38), the condition
+Xus
+2 = -1. (40)
+We see that this 4-vector, whose components in the ordinary
+notation are
+p
+qx
+1 - q
+2
+, p
+qy
+1 - q
+2
+, p
+qz
+1 - q
+2
+,
+i
+p
+1 - q
+2
+(41)
+is the only 4-vector which can be formed from the velocity components
+of the material particle which are defined in three dimensions
+by
+qx =
+dx
+dl , qy =
+dy
+dl , qz =
+dz
+dl .
+SPECIAL RELATIVITY 49
+We therefore see that
+
+m
+dxµ
+dt 
+(42)
+must be that 4-vector which is to be equated to the 4-vector of
+momentum and energy whose existence we have proved above.
+By equating the components, we obtain, in three-dimensional
+notation,
+Ix = p
+mqx
+1 - q
+2
+,
+Iy = p
+mqy
+1 - q
+2
+,
+Iz = p
+mqz
+1 - q
+2
+,
+E =
+m
+p
+1 - q
+2
+.
+?
+???????????
+???????????
+(43)
+We recognize, in fact, that these components of momentum
+agree with those of classical mechanics for velocities which are
+small compared to that of light. For large velocities the momentum
+increases more rapidly than linearly with the velocity, so as
+to become infinite on approaching the velocity of light.
+If we apply the last of equations (43) to a material particle
+at rest (q = 0), we see that the energy, E0, of a body at rest is
+equal to its mass. Had we chosen the second as our unit of time,
+we would have obtained
+E0 = mc2
+. (44)
+Mass and energy are therefore essentially alike; they are only
+different expressions for the same thing. The mass of a body
+THE MEANING OF RELATIVITY 50
+is not a constant; it varies with changes in its energy.* We see
+from the last of equations (43) that E becomes infinite when
+q approaches 1, the velocity of light. If we develop E in powers
+of q
+2
+, we obtain,
+E = m +
+m
+2
+q
+2 +
+3
+8
+mq4 + . . . . (45)
+The second term of this expansion corresponds to the kinetic
+energy of the material particle in classical mechanics.
+Equations of Motion of Material Particles. From (43) we
+obtain, by differentiating by the time l, and using the principle
+of momentum, in the notation of three-dimensional vectors,
+K =
+d
+dl
+mq
+p
+1 - q
+2
+!
+. (46)
+This equation, which was previously employed by H. A.
+Lorentz for the motion of electrons, has been proved to be true,
+with great accuracy, by experiments with ﬂ-rays.
+Energy Tensor of the Electromagnetic Field. Before the development
+of the theory of relativity it was known that the principles
+of energy and momentum could be expressed in a differential
+form for the electromagnetic field. The four-dimensional
+formulation of these principles leads to an important conception,
+*The emission of energy in radioactive processes is evidently connected
+with the fact that the atomic weights are not integers. Attempts have been
+made to draw conclusions from this concerning the structure and stability
+of the atomic nuclei.
+SPECIAL RELATIVITY 51
+that of the energy tensor, which is important for the further development
+of the theory of relativity.
+If in the expression for the 4-vector of force per unit volume,
+Kµ = fµ?J?,
+using the field equations (32), we express J? in terms of the
+field intensities, fµ?, we obtain, after some transformations and
+repeated application of the field equations (32) and (33), the
+expression
+Kµ = -
+?Tµ?
+?x?
+, (47)
+where we have written*
+Tµ? = -
+1
+4
+faﬂ
+2
+dµ? + fµaf?a. (48)
+The physical meaning of equation (47) becomes evident if in
+place of this equation we write, using a new notation,
+kx = -
+?pxx
+?x -
+?pxy
+?y -
+?pxz
+?z -
+?(ibx)
+?(il)
+,
+ky = -
+?pyx
+?x -
+?pyy
+?y -
+?pyz
+?z -
+?(iby)
+?(il)
+,
+kz = -
+?pzx
+?x -
+?pzy
+?y -
+?pzz
+?z -
+?(ibz)
+?(il)
+,
+i? = -
+?(isx)
+?x -
+?(isy)
+?y -
+?(isz)
+?z -
+?(-?)
+?(il)
+;
+?
+????????????
+????????????
+(47a)
+*To be summed for the indices a and ﬂ.
+THE MEANING OF RELATIVITY 52
+or, on eliminating the imaginary,
+kx = -
+?pxx
+?x -
+?pxy
+?y -
+?pxz
+?z -
+?bx
+?l ,
+ky = -
+?pyx
+?x -
+?pyy
+?y -
+?pyz
+?z -
+?by
+?l ,
+kz = -
+?pzx
+?x -
+?pzy
+?y -
+?pzz
+?z -
+?bz
+?l ,
+? = -
+?sx
+?x -
+?sy
+?y -
+?sz
+?z -
+??
+?l .
+?
+???????????
+???????????
+(47b)
+When expressed in the latter form, we see that the first three
+equations state the principle of momentum; pxx,. . . , pzx are the
+Maxwell stresses in the electromagnetic field, and (bx, by, bz) is
+the vector momentum per unit volume of the field. The last of
+equations (47b) expresses the energy principle; s is the vector
+flow of energy, and ? the energy per unit volume of the field. In
+fact, we get from (48) by introducing the well-known expressions
+for the components of the field intensity from electrodynamics,
+pxx = - hxhx +
+1
+2
+(hx
+2 + hy
+2 + hz
+2
+)
+- exex +
+1
+2
+(ex
+2 + ey
+2 + ez
+2
+),
+pxy = - hxhy pxz = - hxhz
+- exey, - exez,
+.
+.
+.
+bx = sx = eyhz - ezhy,
+by = sy = ezhx - exhz,
+bz = sz = exhy - eyhx,
+? = +1
+2
+(ex
+2 + ey
+2 + ez
+2 + hx
+2 + hy
+2 + hz
+2
+).
+?
+?????????????????
+?????????????????
+(48a)
+SPECIAL RELATIVITY 53
+We conclude from (48) that the energy tensor of the electromagnetic
+field is symmetrical; with this is connected the fact
+that the momentum per unit volume and the flow of energy are
+equal to each other (relation between energy and inertia).
+We therefore conclude from these considerations that the
+energy per unit volume has the character of a tensor. This has
+been proved directly only for an electromagnetic field, although
+we may claim universal validity for it. Maxwellís equations determine
+the electromagnetic field when the distribution of electric
+charges and currents is known. But we do not know the
+laws which govern the currents and charges. We do know, indeed,
+that electricity consists of elementary particles (electrons,
+positive nuclei), but from a theoretical point of view we cannot
+comprehend this. We do not know the energy factors which
+determine the distribution of electricity in particles of definite
+size and charge, and all attempts to complete the theory in this
+direction have failed. If then we can build upon Maxwellís equations
+in general, the energy tensor of the electromagnetic field
+is known only outside the charged particles.*
+In these regions,
+outside of charged particles, the only regions in which we can believe
+that we have the complete expression for the energy tensor,
+we have, by (47),
+?Tµ?
+?x?
+= 0. (47c)
+*
+It has been attempted to remedy this lack of knowledge by considering
+the charged particles as proper singularities. But in my opinion this means
+giving up a real understanding of the structure of matter. It seems to me
+much better to give in to our present inability rather than to be satisfied
+by a solution that is only apparent.
+THE MEANING OF RELATIVITY 54
+General Expressions for the Conservation Principles. We
+can hardly avoid making the assumption that in all other cases,
+also, the space distribution of energy is given by a symmetrical
+tensor, Tµ?, and that this complete energy tensor everywhere
+satisfies the relation (47c). At any rate we shall see that by
+means of this assumption we obtain the correct expression for
+the integral energy principle.
+Let us consider a spatially bounded, closed system, which,
+four-dimensionally, we may represent as a strip, outside of which
+the Tµ? vanish. Integrate equation (47c) over a space section.
+Since the integrals of ?Tµ1
+?x1
+,
+?Tµ2
+?x2
+and ?Tµ3
+?x3
+vanish because
+the Tµ? vanish at the limits of integration, we obtain
+?
+?l Z
+Tµ4 dx1 dx2 dx3
+
+= 0. (49)
+Inside the parentheses are the expressions for the momentum of
+the whole system, multiplied by i, together with the negative
+energy of the system, so that (49) expresses the conservation
+principles in their integral form. That this gives the right conception
+of energy and the conservation principles will be seen
+from the following considerations.
+Phenomenological Representation of the
+Energy Tensor of Matter.
+Hydrodynamical Equations. We know that matter is built
+up of electrically charged particles, but we do not know the laws
+which govern the constitution of these particles. In treating mechanical
+problems, we are therefore obliged to make use of an
+SPECIAL RELATIVITY 55
+x1
+l
+Fig. 3.
+inexact description of matter, which corresponds to that of classical
+mechanics. The density s, of a material substance and the
+hydrodynamical pressures are the fundamental concepts upon
+which such a description is based.
+Let s0 be the density of matter at a place, estimated with
+reference to a system of co-ordinates moving with the matter.
+Then s0, the density at rest, is an invariant. If we think of the
+matter in arbitrary motion and neglect the pressures (particles
+of dust in vacuo, neglecting the size of the particles and the
+temperature), then the energy tensor will depend only upon the
+THE MEANING OF RELATIVITY 56
+velocity components, u? and s0. We secure the tensor character
+of Tµ? by putting
+Tµ? = s0uµu?, (50)
+in which the uµ, in the three-dimensional representation, are
+given by (41). In fact, it follows from (50) that for q = 0, T44 =
+-s0 (equal to the negative energy per unit volume), as it should,
+according to the theorem of the equivalence of mass and energy,
+and according to the physical interpretation of the energy tensor
+given above. If an external force (four-dimensional vector, Kµ)
+acts upon the matter, by the principles of momentum and energy
+the equation
+Kµ =
+?Tµ?
+?x?
+must hold. We shall now show that this equation leads to the
+same law of motion of a material particle as that already obtained.
+Let us imagine the matter to be of infinitely small extent
+in space, that is, a four-dimensional thread; then by integration
+over the whole thread with respect to the space co-ordinates
+x1, x2, x3, we obtain
+Z
+K1 dx1 dx2 dx3 =
+Z
+?T14
+?x4
+dx1 dx2 dx3
+= -i
+d
+dl Z
+s0
+dx1
+dt
+dx4
+dt dx1 dx2 dx3
+
+.
+Now R
+dx1 dx2 dx3 dx4 is an invariant, as is, therefore, also
+R
+s0 dx1 dx2 dx3 dx4. We shall calculate this integral, first with
+respect to the inertial system which we have chosen, and second,
+with respect to a system relatively to which the matter has the
+velocity zero. The integration is to be extended over a filament
+SPECIAL RELATIVITY 57
+of the thread for which s0 may be regarded as constant over the
+whole section. If the space volumes of the filament referred to
+the two systems are dV and dV0 respectively, then we have
+Z
+s0 dV dl =
+Z
+s0 dV0 dt
+and therefore also
+Z
+s0 dV =
+Z
+s0 dV0
+dt
+dl =
+Z
+dm i dt
+dx4
+.
+If we substitute the right-hand side for the left-hand side in
+the former integral, and put dx1
+dt outside the sign of integration,
+we obtain,
+Kx =
+d
+dl 
+m
+dx1
+dt 
+=
+d
+dl
+p
+mqx
+1 - q
+2
+!
+.
+We see, therefore, that the generalized conception of the energy
+tensor is in agreement with our former result.
+The Eulerian Equations for Perfect Fluids. In order to get
+nearer to the behaviour of real matter we must add to the energy
+tensor a term which corresponds to the pressures. The simplest
+case is that of a perfect fluid in which the pressure is determined
+by a scalar p. Since the tangential stresses pxy, etc., vanish in
+this case, the contribution to the energy tensor must be of the
+form pd?µ. We must therefore put
+Tµ? = suµu? + pdµ?. (51)
+THE MEANING OF RELATIVITY 58
+At rest, the density of the matter, or the energy per unit volume,
+is in this case, not s but s - p. For
+-T44 = -s
+dx4
+dt
+dx4
+dt - pd44 = s - p.
+In the absence of any force, we have
+?Tµ?
+?x?
+= su?
+?uµ
+?x?
++ uµ
+?(su?)
+?x?
++
+?p
+?xµ
+= 0.
+If we multiply this equation by uµ
+
+=
+dxµ
+dt 
+and sum for the
+µís we obtain, using (40),
+-
+?(su?)
+?x?
++
+dp
+dt = 0, (52)
+where we have put ?p
+?xµ
+dxµ
+dt =
+dp
+dt . This is the equation of
+continuity, which differs from that of classical mechanics by
+the term dp
+dt , which, practically, is vanishingly small. Observing
+(52), the conservation principles take the form
+s
+duµ
+dt + uµ
+dp
+dt +
+?p
+?xµ
+= 0. (53)
+The equations for the first three indices evidently correspond to
+the Eulerian equations. That the equations (52) and (53) correspond,
+to a first approximation, to the hydrodynamical equations
+of classical mechanics, is a further confirmation of the generalized
+energy principle. The density of matter and of energy
+has the character of a symmetrical tensor.
+LECTURE III
+THE GENERAL THEORY OF RELATIVITY
+All of the previous considerations have been based upon the
+assumption that all inertial systems are equivalent for the description
+of physical phenomena, but that they are preferred, for
+the formulation of the laws of nature, to spaces of reference in a
+different state of motion. We can think of no cause for this preference
+for definite states of motion to all others, according to our
+previous considerations, either in the perceptible bodies or in the
+concept of motion; on the contrary, it must be regarded as an independent
+property of the space-time continuum. The principle
+of inertia, in particular, seems to compel us to ascribe physically
+objective properties to the space-time continuum. Just as
+it was necessary from the Newtonian standpoint to make both
+the statements, tempus est absolutum, spatium est absolutum, so
+from the standpoint of the special theory of relativity we must
+say, continuum spatii et temporis est absolutum. In this latter
+statement absolutum means not only ìphysically real,î but also
+ìindependent in its physical properties, having a physical effect,
+but not itself influenced by physical conditions.î
+As long as the principle of inertia is regarded as the keystone
+of physics, this standpoint is certainly the only one which
+is justified. But there are two serious criticisms of the ordinary
+conception. In the first place, it is contrary to the mode of thinking
+in science to conceive of a thing (the space-time continuum)
+which acts itself, but which cannot be acted upon. This is the
+reason why E. Mach was led to make the attempt to eliminate
+space as an active cause in the system of mechanics. Accord59
+THE MEANING OF RELATIVITY 60
+ing to him, a material particle does not move in unaccelerated
+motion relatively to space, but relatively to the centre of all the
+other masses in the universe; in this way the series of causes of
+mechanical phenomena was closed, in contrast to the mechanics
+of Newton and Galileo. In order to develop this idea within the
+limits of the modern theory of action through a medium, the
+properties of the space-time continuum which determine inertia
+must be regarded as field properties of space, analogous to the
+electromagnetic field. The concepts of classical mechanics afford
+no way of expressing this. For this reason Machís attempt
+at a solution failed for the time being. We shall come back to
+this point of view later. In the second place, classical mechanics
+indicates a limitation which directly demands an extension of
+the principle of relativity to spaces of reference which are not
+in uniform motion relatively to each other. The ratio of the
+masses of two bodies is defined in mechanics in two ways which
+differ from each other fundamentally; in the first place, as the
+reciprocal ratio of the accelerations which the same motional
+force imparts to them (inert mass), and in the second place, as
+the ratio of the forces which act upon them in the same gravitational
+field (gravitational mass). The equality of these two
+masses, so differently defined, is a fact which is confirmed by
+experiments of very high accuracy (experiments of E®otv®os), and
+classical mechanics offers no explanation for this equality. It is,
+however, clear that science is fully justified in assigning such a
+numerical equality only after this numerical equality is reduced
+to an equality of the real nature of the two concepts.
+That this object may actually be attained by an extension
+of the principle of relativity, follows from the following consideration.
+A little reflection will show that the theorem of the
+THE GENERAL THEORY 61
+equality of the inert and the gravitational mass is equivalent
+to the theorem that the acceleration imparted to a body by a
+gravitational field is independent of the nature of the body. For
+Newtonís equation of motion in a gravitational field, written out
+in full, is
+(Inert mass) ∑ (Acceleration) = (Intensity of the
+gravitational field) ∑ (Gravitational mass).
+It is only when there is numerical equality between the inert
+and gravitational mass that the acceleration is independent of
+the nature of the body. Let now K be an inertial system. Masses
+which are sufficiently far from each other and from other bodies
+are then, with respect to K, free from acceleration. We shall
+also refer these masses to a system of co-ordinates K0
+, uniformly
+accelerated with respect to K. Relatively to K0 all the masses
+have equal and parallel accelerations; with respect to K0
+they
+behave just as if a gravitational field were present and K0 were
+unaccelerated. Overlooking for the present the question as to the
+ìcauseî of such a gravitational field, which will occupy us later,
+there is nothing to prevent our conceiving this gravitational field
+as real, that is, the conception that K0
+is ìat restî and a gravitational
+field is present we may consider as equivalent to the conception
+that only K is an ìallowableî system of co-ordinates and
+no gravitational field is present. The assumption of the complete
+physical equivalence of the systems of co-ordinates, K and K0
+,
+we call the ìprinciple of equivalence;î this principle is evidently
+intimately connected with the theorem of the equality between
+the inert and the gravitational mass, and signifies an extension
+of the principle of relativity to co-ordinate systems which are in
+THE MEANING OF RELATIVITY 62
+non-uniform motion relatively to each other. In fact, through
+this conception we arrive at the unity of the nature of inertia
+and gravitation. For according to our way of looking at it, the
+same masses may appear to be either under the action of inertia
+alone (with respect to K) or under the combined action of
+inertia and gravitation (with respect to K0
+). The possibility of
+explaining the numerical equality of inertia and gravitation by
+the unity of their nature gives to the general theory of relativity,
+according to my conviction, such a superiority over the conceptions
+of classical mechanics, that all the difficulties encountered
+in development must be considered as small in comparison.
+What justifies us in dispensing with the preference for inertial
+systems over all other co-ordinate systems, a preference
+that seems so securely established by experiment based upon
+the principle of inertia? The weakness of the principle of inertia
+lies in this, that it involves an argument in a circle: a mass moves
+without acceleration if it is sufficiently far from other bodies; we
+know that it is sufficiently far from other bodies only by the fact
+that it moves without acceleration. Are there, in general, any
+inertial systems for very extended portions of the space-time
+continuum, or, indeed, for the whole universe? We may look
+upon the principle of inertia as established, to a high degree of
+approximation, for the space of our planetary system, provided
+that we neglect the perturbations due to the sun and planets.
+Stated more exactly, there are finite regions, where, with respect
+to a suitably chosen space of reference, material particles move
+freely without acceleration, and in which the laws of the special
+theory of relativity, which have been developed above, hold
+with remarkable accuracy. Such regions we shall call ìGalilean
+regions.î We shall proceed from the consideration of such re-
+THE GENERAL THEORY 63
+gions as a special case of known properties.
+The principle of equivalence demands that in dealing with
+Galilean regions we may equally well make use of non-inertial
+systems, that is, such co-ordinate systems as, relatively to inertial
+systems, are not free from acceleration and rotation. If,
+further, we are going to do away completely with the difficult
+question as to the objective reason for the preference of certain
+systems of co-ordinates, then we must allow the use of arbitrarily
+moving systems of co-ordinates. As soon as we make this
+attempt seriously we come into conflict with that physical interpretation
+of space and time to which we were led by the special
+theory of relativity. For let K0 be a system of co-ordinates whose
+z
+0
+-axis coincides with the z-axis of K, and which rotates about
+the latter axis with constant angular velocity. Are the configurations
+of rigid bodies, at rest relatively to K0
+, in accordance with
+the laws of Euclidean geometry? Since K0
+is not an inertial system,
+we do not know directly the laws of configuration of rigid
+bodies with respect to K0
+, nor the laws of nature, in general. But
+we do know these laws with respect to the inertial system K,
+and we can therefore estimate them with respect to K0
+. Imagine
+a circle drawn about the origin in the x
+0
+-y
+0 plane of K0
+, and a
+diameter of this circle. Imagine, further, that we have given a
+large number of rigid rods, all equal to each other. We suppose
+these laid in series along the periphery and the diameter of the
+circle, at rest relatively to K0
+. If U is the number of these rods
+along the periphery, D the number along the diameter, then, if
+K0 does not rotate relatively to K, we shall have
+U
+D
+= p.
+THE MEANING OF RELATIVITY 64
+But if K0
+rotates we get a different result. Suppose that at
+a definite time t of K we determine the ends of all the rods.
+With respect to K all the rods upon the periphery experience
+the Lorentz contraction, but the rods upon the diameter do not
+experience this contraction (along their lengths!).*
+It therefore
+follows that
+U
+D
+> p.
+It therefore follows that the laws of configuration of rigid
+bodies with respect to K0 do not agree with the laws of configuration
+of rigid bodies that are in accordance with Euclidean geometry.
+If, further, we place two similar clocks (rotating with K0
+),
+one upon the periphery, and the other at the centre of the circle,
+then, judged from K, the clock on the periphery will go
+slower than the clock at the centre. The same thing must take
+place, judged from K0
+, if we define time with respect to K0
+in a
+not wholly unnatural way, that is, in such a way that the laws
+with respect to K0 depend explicitly upon the time. Space and
+time, therefore, cannot be defined with respect to K0 as they
+were in the special theory of relativity with respect to inertial
+systems. But, according to the principle of equivalence, K0
+is
+also to be considered as a system at rest, with respect to which
+there is a gravitational field (field of centrifugal force, and force
+of Coriolis). We therefore arrive at the result: the gravitational
+field influences and even determines the metrical laws of the
+space-time continuum. If the laws of configuration of ideal rigid
+bodies are to be expressed geometrically, then in the presence
+*These considerations assume that the behaviour of rods and clocks
+depends only upon velocities, and not upon accelerations, or, at least, that
+the influence of acceleration does not counteract that of velocity.
+THE GENERAL THEORY 65
+of a gravitational field the geometry is not Euclidean.
+The case that we have been considering is analogous to that
+which is presented in the two-dimensional treatment of surfaces.
+It is impossible in the latter case also, to introduce coordinates
+on a surface (e.g. the surface of an ellipsoid) which
+have a simple metrical significance, while on a plane the Cartesian
+co-ordinates, x1, x2, signify directly lengths measured by a
+unit measuring rod. Gauss overcame this difficulty, in his theory
+of surfaces, by introducing curvilinear co-ordinates which,
+apart from satisfying conditions of continuity, were wholly arbitrary,
+and afterwards these co-ordinates were related to the
+metrical properties of the surface. In an analogous way we
+shall introduce in the general theory of relativity arbitrary coordinates,
+x1, x2, x3, x4, which shall number uniquely the spacetime
+points, so that neighbouring events are associated with
+neighbouring values of the co-ordinates; otherwise, the choice
+of co-ordinates is arbitrary. We shall be true to the principle
+of relativity in its broadest sense if we give such a form to the
+laws that they are valid in every such four-dimensional system
+of co-ordinates, that is, if the equations expressing the laws are
+co-variant with respect to arbitrary transformations.
+The most important point of contact between Gaussís theory
+of surfaces and the general theory of relativity lies in the metrical
+properties upon which the concepts of both theories, in the
+main, are based. In the case of the theory of surfaces, Gaussís
+argument is as follows. Plane geometry may be based upon the
+concept of the distance ds, between two indefinitely near points.
+The concept of this distance is physically significant because
+the distance can be measured directly by means of a rigid measuring
+rod. By a suitable choice of Cartesian co-ordinates this
+THE MEANING OF RELATIVITY 66
+distance may be expressed by the formula ds2 = dx1
+2 + dx2
+2
+.
+We may base upon this quantity the concepts of the straight
+line as the geodesic (d
+R
+ds = 0), the interval, the circle, and the
+angle, upon which the Euclidean plane geometry is built. A
+geometry may be developed upon another continuously curved
+surface, if we observe that an infinitesimally small portion of the
+surface may be regarded as plane, to within relatively infinitesimal
+quantities. There are Cartesian co-ordinates, X1, X2, upon
+such a small portion of the surface, and the distance between
+two points, measured by a measuring rod, is given by
+ds2 = dX1
+2 + dX2
+2
+.
+If we introduce arbitrary curvilinear co-ordinates, x1, x2, on the
+surface, then dX1, dX2, may be expressed linearly in terms of
+dx1, dx2. Then everywhere upon the surface we have
+ds2 = g11 dx1
+2 + 2g12 dx1 dx2 + g22 dx2
+2
+,
+where g11, g12, g22 are determined by the nature of the surface
+and the choice of co-ordinates; if these quantities are known,
+then it is also known how networks of rigid rods may be laid
+upon the surface. In other words, the geometry of surfaces may
+be based upon this expression for ds2
+exactly as plane geometry
+is based upon the corresponding expression.
+There are analogous relations in the four-dimensional spacetime
+continuum of physics. In the immediate neighbourhood of
+an observer, falling freely in a gravitational field, there exists no
+gravitational field. We can therefore always regard an infinitesimally
+small region of the space-time continuum as Galilean.
+For such an infinitely small region there will be an inertial system
+(with the space co-ordinates, X1, X2, X3, and the time
+THE GENERAL THEORY 67
+co-ordinate X4) relatively to which we are to regard the laws of
+the special theory of relativity as valid. The quantity which is
+directly measurable by our unit measuring rods and clocks,
+dX1
+2 + dX2
+2 + dX3
+2 - dX4
+2
+,
+or its negative,
+ds2 = -dX1
+2 - dX2
+2 - dX3
+2 + dX4
+2
+, (54)
+is therefore a uniquely determinate invariant for two neighbouring
+events (points in the four-dimensional continuum), provided
+that we use measuring rods that are equal to each other when
+brought together and superimposed, and clocks whose rates are
+the same when they are brought together. In this the physical
+assumption is essential that the relative lengths of two measuring
+rods and the relative rates of two clocks are independent, in
+principle, of their previous history. But this assumption is certainly
+warranted by experience; if it did not hold there could be
+no sharp spectral lines; for the single atoms of the same element
+certainly do not have the same history, and it would be absurd
+to suppose any relative difference in the structure of the single
+atoms due to their previous history if the mass and frequencies
+of the single atoms of the same element were always the same.
+Space-time regions of finite extent are, in general, not
+Galilean, so that a gravitational field cannot be done away
+with by any choice of co-ordinates in a finite region. There
+is, therefore, no choice of co-ordinates for which the metrical
+relations of the special theory of relativity hold in a finite region.
+But the invariant ds always exists for two neighbouring
+points (events) of the continuum. This invariant ds may be
+THE MEANING OF RELATIVITY 68
+expressed in arbitrary co-ordinates. If one observes that the
+local dX? may be expressed linearly in terms of the co-ordinate
+differentials dx?, ds2 may be expressed in the form
+ds2 = gµ? dxµ dx?. (55)
+The functions gµ? describe, with respect to the arbitrarily
+chosen system of co-ordinates, the metrical relations of the
+space-time continuum and also the gravitational field. As in
+the special theory of relativity, we have to discriminate between
+time-like and space-like line elements in the four-dimensional
+continuum; owing to the change of sign introduced, time-like line
+elements have a real, space-like line elements an imaginary ds.
+The time-like ds can be measured directly by a suitably chosen
+clock.
+According to what has been said, it is evident that the formulation
+of the general theory of relativity assumes a generalization
+of the theory of invariants and the theory of tensors; the question
+is raised as to the form of the equations which are co-variant
+with respect to arbitrary point transformations. The generalized
+calculus of tensors was developed by mathematicians long before
+the theory of relativity. Riemann first extended Gaussís
+train of thought to continua of any number of dimensions; with
+prophetic vision he saw the physical meaning of this generalization
+of Euclidís geometry. Then followed the development of
+the theory in the form of the calculus of tensors, particularly by
+Ricci and Levi-Civita. This is the place for a brief presentation
+of the most important mathematical concepts and operations of
+this calculus of tensors.
+We designate four quantities, which are defined as functions
+of the x? with respect to every system of co-ordinates, as com-
+THE GENERAL THEORY 69
+ponents, A?
+, of a contra-variant vector, if they transform in a
+change of co-ordinates as the co-ordinate differentials dx?. We
+therefore have
+A
+0µ =
+?x0
+µ
+?x?
+A
+?
+. (56)
+Besides these contra-variant vectors, there are also co-variant
+vectors. If B? are the components of a co-variant vector, these
+vectors are transformed according to the rule
+B
+0
+µ =
+?x?
+?x0
+µ
+B?. (57)
+The definition of a co-variant vector is chosen in such a way that
+a co-variant vector and a contra-variant vector together form a
+scalar according to the scheme,
+f = B?A
+?
+(summed over the ?).
+Accordingly,
+B
+0
+µA
+0µ =
+?xa
+?x0
+µ
+?x0
+µ
+?xﬂ
+BaA
+ﬂ = BaA
+a
+.
+In particular, the derivatives ?f
+?xa
+of a scalar f, are components
+of a co-variant vector, which, with the co-ordinate differentials,
+form the scalar ?f
+?xa
+dxa; we see from this example how natural
+is the definition of the co-variant vectors.
+There are here, also, tensors of any rank, which may have
+co-variant or contra-variant character with respect to each index;
+as with vectors, the character is designated by the position
+THE MEANING OF RELATIVITY 70
+of the index. For example, A?
+µ denotes a tensor of the second
+rank, which is co-variant with respect to the index µ, and contravariant
+with respect to the index ?. The tensor character indicates
+that the equation of transformation is
+A
+0?
+µ =
+?xa
+?x0
+µ
+?x0
+?
+?xﬂ
+A
+ﬂ
+a
+. (58)
+Tensors may be formed by the addition and subtraction of
+tensors of equal rank and like character, as in the theory of
+invariants of orthogonal linear substitutions, for example,
+A
+?
+µ + B
+?
+µ = C
+?
+µ
+. (59)
+The proof of the tensor character of C
+?
+µ depends upon (58).
+Tensors may be formed by multiplication, keeping the character
+of the indices, just as in the theory of invariants of linear
+orthogonal transformations, for example,
+A
+?
+µBst = C
+?
+µst . (60)
+The proof follows directly from the rule of transformation.
+Tensors may be formed by contraction with respect to two
+indices of different character, for example,
+A
+µ
+µst = Bst . (61)
+The tensor character of Aµ
+µst determines the tensor character
+of Bst . Proofó
+A
+0µ
+µst =
+?xa
+?x0
+µ
+?x0
+µ
+?xﬂ
+?xs
+?x0
+s
+?xt
+?x0
+t
+A
+ﬂ
+ast =
+?xs
+?x0
+s
+?xt
+?x0
+t
+A
+a
+ast.
+THE GENERAL THEORY 71
+The properties of symmetry and skew-symmetry of a tensor
+with respect to two indices of like character have the same
+significance as in the theory of invariants.
+With this, everything essential has been said with regard to
+the algebraic properties of tensors.
+The Fundamental Tensor. It follows from the invariance
+of ds2
+for an arbitrary choice of the dx?, in connexion with
+the condition of symmetry consistent with (55), that the gµ?
+are components of a symmetrical co-variant tensor (Fundamental
+Tensor). Let us form the determinant, g, of the gµ?, and
+also the minors, divided by g, corresponding to the single gµ?.
+These minors, divided by g, will be denoted by g
+µ?, and their
+co-variant character is not yet known. Then we have
+gµag
+µﬂ = d
+ﬂ
+a =
+(
+1 if a = ﬂ,
+0 if a 6= ﬂ.
+(62)
+If we form the infinitely small quantities (co-variant vectors)
+d?µ = gµa dxa, (63)
+multiply by g
+µﬂ and sum over the µ, we obtain, by the use
+of (62),
+dxﬂ = g
+ﬂµ d?µ. (64)
+Since the ratios of the d?µ are arbitrary, and the dxﬂ as well as
+the dxµ are components of vectors, it follows that the g
+µ? are the
+components of a contra-variant tensor*
+(contra-variant fundamental
+tensor). The tensor character of d
+ﬂ
+a
+(mixed fundamental
+*
+If we multiply (64) by ?x0
+a
+?xﬂ
+, sum over the ﬂ, and replace the d?µ by
+THE MEANING OF RELATIVITY 72
+tensor) accordingly follows, by (62). By means of the fundamental
+tensor, instead of tensors with co-variant index character, we
+can introduce tensors with contra-variant index character, and
+conversely. For example,
+A
+µ = g
+µaAa,
+Aµ = gµaA
+a
+,
+T
+s
+µ = g
+s?Tµ?.
+Volume Invariants. The volume element
+Z
+dx1 dx2 dx3 dx4 = dx
+is not an invariant. For by Jacobiís theorem,
+dx0 =
+
+
+
+
+dx0
+µ
+dx?
+
+
+
+
+dx. (65)
+But we can complement dx so that it becomes an invariant. If
+we form the determinant of the quantities
+g
+0
+µ? =
+?xa
+?x0
+µ
+?xﬂ
+?x0
+?
+gaﬂ,
+a transformation to the accented system, we obtain
+dx0
+a =
+?x0
+s
+?xµ
+?x0
+a
+?xﬂ
+g
+µﬂ d?0
+s
+.
+The statement made above follows from this, since, by (64), we must also
+have dx0
+a = g
+sa0
+d?0
+a, and both equations must hold for every choice of
+the d?0
+s
+.
+THE GENERAL THEORY 73
+we obtain, by a double application of the theorem of multiplication
+of determinants,
+g
+0 = |g
+0
+µ?| =
+
+
+
+
+?x?
+?x0
+µ
+
+
+
+
+2
+∑ |gµ?| =
+
+
+
+
+?x0
+µ
+?x?
+
+
+
+
+-2
+g. (66)
+We therefore get the invariant,
+p
+g
+0 dx0 =
+p
+g dx.
+Formation of Tensors by Differentiation. Although the algebraic
+operations of tensor formation have proved to be as
+simple as in the special case of invariance with respect to linear
+orthogonal transformations, nevertheless in the general case,
+the invariant differential operations are, unfortunately, considerably
+more complicated. The reason for this is as follows. If
+Aµ
+is a contra-variant vector, the coefficients of its transformation,
+?x0
+µ
+?x?
+, are independent of position only if the transformation
+is a linear one. For then the vector components, Aµ +
+?Aµ
+?xa
+dxa,
+at a neighbouring point transform in the same way as the Aµ
+,
+from which follows the vector character of the vector differentials,
+and the tensor character of ?Aµ
+?xa
+. But if the ?x0
+µ
+?x?
+are
+variable this is no longer true.
+That there are, nevertheless, in the general case, invariant
+differential operations for tensors, is recognized most satisfactorily
+in the following way, introduced by Levi-Civita and Weyl.
+Let (Aµ
+) be a contra-variant vector whose components are given
+with respect to the co-ordinate system of the x?. Let P1 and P2
+THE MEANING OF RELATIVITY 74
+be two infinitesimally near points of the continuum. For the infinitesimal
+region surrounding the point P1, there is, according
+to our way of considering the matter, a co-ordinate system of
+the X? (with imaginary X4-co-ordinate) for which the continuum
+is Euclidean. Let A
+µ
+(1) be the co-ordinates of the vector at
+the point P1. Imagine a vector drawn at the point P2, using the
+local system of the X?, with the same co-ordinates (parallel vector
+through P2), then this parallel vector is uniquely determined
+by the vector at P1 and the displacement. We designate this operation,
+whose uniqueness will appear in the sequel, the parallel
+displacement of the vector Aµ from P1 to the infinitesimally near
+point P2. If we form the vector difference of the vector (Aµ
+) at
+the point P2 and the vector obtained by parallel displacement
+from P1 to P2, we get a vector which may be regarded as the
+differential of the vector (Aµ
+) for the given displacement (dx?).
+This vector displacement can naturally also be considered
+with respect to the co-ordinate system of the x?. If A? are the
+co-ordinates of the vector at P1, A? + dA?
+the co-ordinates of
+the vector displaced to P2 along the interval (dx?), then the dA?
+do not vanish in this case. We know of these quantities, which
+do not have a vector character, that they must depend linearly
+and homogeneously upon the dx? and the A?
+. We therefore put
+dA? = -G
+?
+aﬂA
+a
+dxﬂ. (67)
+In addition, we can state that the G?
+aﬂ must be symmetrical
+with respect to the indices a and ﬂ. For we can assume from
+a representation by the aid of a Euclidean system of local coordinates
+that the same parallelogram will be described by the
+displacement of an element d
+(1)x? along a second element d
+(2)x?
+THE GENERAL THEORY 75
+as by a displacement of d
+(2)x? along d
+(1)x?. We must therefore
+have
+d
+(2)x? + (d
+(1)x? - G
+?
+aﬂ d
+(1)xa d
+(2)xﬂ)
+= d
+(1)x? + (d
+(2)x? - G
+?
+aﬂ d
+(2)xa d
+(1)xﬂ).
+The statement made above follows from this, after interchanging
+the indices of summation, a and ﬂ, on the right-hand side.
+Since the quantities gµ? determine all the metrical properties
+of the continuum, they must also determine the G?
+aﬂ. If we
+consider the invariant of the vector A?
+, that is, the square of its
+magnitude,
+gµ?A
+µA
+?
+,
+which is an invariant, this cannot change in a parallel displacement.
+We therefore have
+0 = d(gµ?A
+µA
+?
+) = ?gµ?
+?xa
+A
+µA
+?
+dxa + gµ?A
+µ
+dA? + gµ?A
+?
+dAµ
+or, by (67),
+
+?gµ?
+?xa
+- gµﬂG
+ﬂ
+?a - g?ﬂG
+ﬂ
+µa
+A
+µA
+?
+dxa = 0.
+Owing to the symmetry of the expression in the brackets
+with respect to the indices µ and ?, this equation can be valid
+for an arbitrary choice of the vectors (Aµ
+) and dx? only when
+the expression in the brackets vanishes for all combinations of
+the indices. By a cyclic interchange of the indices µ, ?, a, we
+obtain thus altogether three equations, from which we obtain,
+on taking into account the symmetrical property of the Ga
+µ?,
+
+µ?
+a
+
+= gaﬂG
+ﬂ
+µ?, (68)
+THE MEANING OF RELATIVITY 76
+in which, following Christoffel, the abbreviation has been used,
+
+µ?
+a
+
+=
+1
+2
+
+?gµa
+?x?
++
+?g?a
+?xµ
+-
+?gµ?
+?xa
+
+. (69)
+If we multiply (68) by g
+as and sum over the a, we obtain
+G
+a
+µ? =
+1
+2
+g
+sa 
+?gµa
+?x?
++
+?g?a
+?xµ
+-
+?gµ?
+?xa
+
+=
+µ?
+s
+	
+, (70)
+in which µ?
+s
+	
+is the Christoffel symbol of the second kind.
+Thus the quantities G are deduced from the gµ?. Equations
+(67) and (70) are the foundation for the following discussion.
+Co-variant Differentiation of Tensors. If (Aµ + dAµ
+) is
+the vector resulting from an infinitesimal parallel displacement
+from P1 to P2, and (Aµ + dAµ
+) the vector Aµ at the point P2,
+then the difference of these two,
+dAµ - dAµ =
+
+?Aµ
+?xs
++ Gµ
+saA
+a
+
+dxs,
+is also a vector. Since this is the case for an arbitrary choice of
+the dxs, it follows that
+A
+µ
+; s =
+?Aµ
+?xs
++ Gµ
+saA
+a
+(71)
+is a tensor, which we designate as the co-variant derivative of
+the tensor of the first rank (vector). Contracting this tensor, we
+obtain the divergence of the contra-variant tensor Aµ
+. In this
+we must observe that according to (70),
+G
+s
+µs =
+1
+2
+g
+sa ?gsa
+?xµ
+=
+1
+vg
+?
+vg
+?xµ
+. (72)
+THE GENERAL THEORY 77
+If we put, further,
+A
+µv
+g = A
+µ
+, (73)
+a quantity designated by Weyl as the contra-variant tensor density*
+of the first rank, it follows that,
+A =
+? A
+µ
+?xµ
+(74)
+is a scalar density.
+We get the law of parallel displacement for the co-variant
+vector Bµ by stipulating that the parallel displacement shall be
+effected in such a way that the scalar
+f = A
+µBµ
+remains unchanged, and that therefore
+A
+µ
+dBµ + Bµ dAµ
+vanishes for every value assigned to (Aµ
+). We therefore get
+dBµ = Ga
+µsAa dxs. (75)
+From this we arrive at the co-variant derivative of the covariant
+vector by the same process as that which led to (71),
+Bµ; s =
+?Bµ
+?xs
+- G
+a
+µsBa. (76)
+*This expression is justified, in that Aµvg dx = A
+µ
+dx has a tensor
+character. Every tensor, when multiplied by vg, changes into a tensor
+density. We employ capital Gothic letters for tensor densities.
+THE MEANING OF RELATIVITY 78
+By interchanging the indices µ and ﬂ, and subtracting, we get
+the skew-symmetrical tensor,
+fµs =
+?Bµ
+?xs
+-
+?Bs
+?xµ
+. (77)
+For the co-variant differentiation of tensors of the second
+and higher ranks we may use the process by which (75) was
+deduced. Let, for example, (Ast ) be a co-variant tensor of the
+second rank. Then AstE
+sF
+t
+is a scalar, if E and F are vectors.
+This expression must not be changed by the d-displacement;
+expressing this by a formula, we get, using (67), dAst , whence
+we get the desired co-variant derivative,
+Ast; ? =
+?Ast
+?x?
+- G
+a
+s?Aat - G
+a
+t ?Asa. (78)
+In order that the general law of co-variant differentiation of
+tensors may be clearly seen, we shall write down two co-variant
+derivatives deduced in an analogous way:
+A
+t
+s; ? =
+?At
+s
+?x?
+- G
+a
+s?A
+t
+a + Gt
+a?A
+a
+s
+, (79)
+A
+st
+; ? =
+?Ast
+?x?
++ Gs
+a?A
+at + Gt
+a?A
+sa
+. (80)
+The general law of formation now becomes evident. From these
+formulÊ we shall deduce some others which are of interest for
+the physical applications of the theory.
+In case Ast is skew-symmetrical, we obtain the tensor
+Ast ? =
+?Ast
+?x?
++
+?At ?
+?xs
++
+?A?s
+?xt
+, (81)
+THE GENERAL THEORY 79
+which is skew-symmetrical in all pairs of indices, by cyclic interchange
+and addition.
+If, in (78), we replace Ast by the fundamental tensor, gst ,
+then the right-hand side vanishes identically; an analogous statement
+holds for (80) with respect to g
+st ; that is, the co-variant
+derivatives of the fundamental tensor vanish. That this must be
+so we see directly in the local system of co-ordinates.
+In case Ast is skew-symmetrical, we obtain from (80), by
+contraction with respect to t and ?,
+A
+s =
+? A
+st
+?xt
+. (82)
+In the general case, from (79) and (80), by contraction with
+respect to t and ?, we obtain the equations,
+As =
+? A
+a
+s
+?xa
+- G
+a
+sﬂ A
+ﬂ
+a
+, (83)
+A
+s =
+? A
+sa
+?xa
++ Gs
+aﬂ A
+aﬂ
+. (84)
+The Riemann Tensor. If we have given a curve extending
+from the point P to the point G of the continuum, then a vector
+Aµ
+, given at P, may, by a parallel displacement, be moved
+along the curve to G. If the continuum is Euclidean (more generally,
+if by a suitable choice of co-ordinates the gµ? are constants)
+then the vector obtained at G as a result of this displacement
+does not depend upon the choice of the curve joining P and G.
+But otherwise, the result depends upon the path of the displacement.
+In this case, therefore, a vector suffers a change, ?Aµ
+(in its direction, not its magnitude), when it is carried from a
+THE MEANING OF RELATIVITY 80
+P G
+Fig. 4.
+point P of a closed curve, along the curve, and back to P. We
+shall now calculate this vector change:
+?A
+µ =
+I
+dAµ
+.
+As in Stokesí theorem for the line integral of a vector around
+a closed curve, this problem may be reduced to the integration
+around a closed curve with infinitely small linear dimensions; we
+shall limit ourselves to this case.
+We have, first, by (67),
+?A
+µ = -
+I
+G
+µ
+aﬂA
+a
+dxﬂ.
+In this, Gµ
+aﬂ is the value of this quantity at the variable
+point G of the path of integration. If we put
+?
+µ = (xµ)G - (xµ)P
+THE GENERAL THEORY 81
+and denote the value of Gµ
+aﬂ at P by G
+µ
+aﬂ, then we have, with
+sufficient accuracy,
+G
+µ
+aﬂ = G
+µ
+aﬂ +
+?G
+µ
+aﬂ
+?x?
+?
+?
+.
+Let, further, Aa be the value obtained from Aa by a parallel
+displacement along the curve from P to G. It may now easily
+be proved by means of (67) that Aµ - Aµ
+is infinitely small of
+the first order, while, for a curve of infinitely small dimensions
+of the first order, ?Aµ
+is infinitely small of the second order.
+Therefore there is an error of only the second order if we put
+A
+a = Aa - G
+a
+st As
+?
+t
+.
+If we introduce these values of Gµ
+aﬂ and Aa
+into the integral,
+we obtain, neglecting all quantities of a higher order of small
+quantities than the second,
+?A
+µ = -
+
+?G
+µ
+sﬂ
+?xa
+- G
+µ
+?ﬂG
+?
+sa
+A
+s
+I
+?
+a
+d?ﬂ
+. (85)
+The quantity removed from under the sign of integration refers
+to the point P. Subtracting 1
+2
+d(?
+a
+?
+ﬂ
+) from the integrand, we
+obtain
+1
+2
+I
+(?
+a
+d?ﬂ - ?
+ﬂ
+d?a
+).
+This skew-symmetrical tensor of the second rank, f
+aﬂ, characterizes
+the surface element bounded by the curve in magnitude
+and position. If the expression in the brackets in (85) were
+skew-symmetrical with respect to the indices a and ﬂ, we could
+THE MEANING OF RELATIVITY 82
+conclude its tensor character from (85). We can accomplish this
+by interchanging the summation indices a and ﬂ in (85) and
+adding the resulting equation to (85). We obtain
+2?A
+µ = -R
+µ
+saﬂA
+s
+f
+aﬂ
+, (86)
+in which
+R
+µ
+saﬂ = -
+?G
+µ
+sa
+?xﬂ
++
+?G
+µ
+sﬂ
+?xa
++ Gµ
+?aG
+?
+sﬂ - G
+µ
+?ﬂG
+?
+sa. (87)
+The tensor character of R
+µ
+saﬂ follows from (86); this is the
+Riemann curvature tensor of the fourth rank, whose properties of
+symmetry we do not need to go into. Its vanishing is a sufficient
+condition (disregarding the reality of the chosen co-ordinates)
+that the continuum is Euclidean.
+By contraction of the Riemann tensor with respect to the
+indices µ, ﬂ, we obtain the symmetrical tensor of the second
+rank,
+Rµ? = -
+?G
+a
+µ?
+?xa
++ Ga
+µﬂG
+ﬂ
+?a +
+?G
+a
+µa
+?x?
+- G
+a
+µ?G
+ﬂ
+aﬂ. (88)
+The last two terms vanish if the system of co-ordinates is so
+chosen that g = constant. From Rµ? we can form the scalar,
+R = g
+µ?Rµ?. (89)
+Straightest Geodetic Lines. A line may be constructed in
+such a way that its successive elements arise from each other by
+parallel displacements. This is the natural generalization of the
+straight line of the Euclidean geometry. For such a line, we have
+d
+
+dxµ
+ds 
+= -G
+µ
+aﬂ
+dxa
+ds dxﬂ.
+THE GENERAL THEORY 83
+The left-hand side is to be replaced by d
+2xµ
+ds2
+,
+*
+so that we have
+d
+2xµ
+ds2
++ Gµ
+aﬂ
+dxa
+ds
+dxﬂ
+ds = 0. (90)
+We get the same line if we find the line which gives a stationary
+value to the integral
+Z
+ds or Z p
+gµ? dxµ dx?
+between two points (geodetic line).
+*The direction vector at a neighbouring point of the curve results, by
+a parallel displacement along the line element (dxﬂ), from the direction
+vector of each point considered.
+LECTURE IV
+THE GENERAL THEORY OF RELATIVITY
+(continued)
+We are now in possession of the mathematical apparatus which
+is necessary to formulate the laws of the general theory of relativity.
+No attempt will be made in this presentation at systematic
+completeness, but single results and possibilities will
+be developed progressively from what is known and from the results
+obtained. Such a presentation is most suited to the present
+provisional state of our knowledge.
+A material particle upon which no force acts moves, according
+to the principle of inertia, uniformly in a straight line. In
+the four-dimensional continuum of the special theory of relativity
+(with real time co-ordinate) this is a real straight line. The
+natural, that is, the simplest, generalization of the straight line
+which is plausible in the system of concepts of Riemannís general
+theory of invariants is that of the straightest, or geodetic,
+line. We shall accordingly have to assume, in the sense of the
+principle of equivalence, that the motion of a material particle,
+under the action only of inertia and gravitation, is described by
+the equation,
+d
+2xµ
+ds2
++ Gµ
+aﬂ
+dxa
+ds
+dxﬂ
+ds = 0. (90)
+In fact, this equation reduces to that of a straight line if all the
+components, Gµ
+aﬂ, of the gravitational field vanish.
+How are these equations connected with Newtonís equations
+of motion? According to the special theory of relativity, the gµ?
+as well as the g
+µ?, have the values, with respect to an inertial
+84
+THE GENERAL THEORY 85
+system (with real time co-ordinate and suitable choice of the
+sign of ds2
+),
+-1 0 0 0
+0 -1 0 0
+0 0 -1 0
+0 0 0 1
+?
+???
+???
+. (91)
+The equations of motion then become
+d
+2xµ
+ds2
+= 0.
+We shall call this the ìfirst approximationî to the gµ?-field. In
+considering approximations it is often useful, as in the special
+theory of relativity, to use an imaginary x4-co-ordinate, as then
+the gµ?, to the first approximation, assume the values
+-1 0 0 0
+0 -1 0 0
+0 0 -1 0
+0 0 0 -1
+?
+???
+???
+. (91a)
+These values may be collected in the relation
+gµ? = -dµ?.
+To the second approximation we must then put
+gµ? = -dµ? + ?µ?, (92)
+where the ?µ? are to be regarded as small of the first order.
+THE MEANING OF RELATIVITY 86
+Both terms of our equation of motion are then small of the
+first order. If we neglect terms which, relatively to these, are
+small of the first order, we have to put
+ds2 = -dx?
+2 = dl2
+(1 - q
+2
+), (93)
+G
+µ
+aﬂ = -dµs
+aﬂ
+s
+
+= -
+
+aﬂ
+µ
+
+=
+1
+2
+
+??aﬂ
+?xµ
+-
+??aµ
+?xﬂ
+-
+??ﬂµ
+?xa
+
+. (94)
+We shall now introduce an approximation of a second kind. Let
+the velocity of the material particles be very small compared to
+that of light. Then ds will be the same as the time differential,
+dl. Further, dx1
+ds ,
+dx2
+ds ,
+dx3
+ds will vanish compared to dx4
+ds .
+We shall assume, in addition, that the gravitational field varies
+so little with the time that the derivatives of the ?µ? by x4 may
+be neglected. Then the equation of motion (for µ = 1, 2, 3)
+reduces to
+d
+2xµ
+dl2
+=
+?
+?xµ
+?44
+2
+
+. (90a)
+This equation is identical with Newtonís equation of motion for
+a material particle in a gravitational field, if we identify ?44
+2
+
+with the potential of the gravitational field; whether or not this
+is allowable, naturally depends upon the field equations of gravitation,
+that is, it depends upon whether or not this quantity
+satisfies, to a first approximation, the same laws of the field
+as the gravitational potential in Newtonís theory. A glance at
+(90) and (90a) shows that the Gµ
+aﬂ actually do play the ràole of
+the intensity of the gravitational field. These quantities do not
+have a tensor character.
+Equations (90) express the influence of inertia and gravitation
+upon the material particle. The unity of inertia and gravi-
+THE GENERAL THEORY 87
+tation is formally expressed by the fact that the whole left-hand
+side of (90) has the character of a tensor (with respect to any
+transformation of co-ordinates), but the two terms taken separately
+do not have tensor character, so that, in analogy with
+Newtonís equations, the first term would be regarded as the expression
+for inertia, and the second as the expression for the
+gravitational force.
+We must next attempt to find the laws of the gravitational
+field. For this purpose, Poissonís equation,
+?f = 4pK?
+of the Newtonian theory must serve as a model. This equation
+has its foundation in the idea that the gravitational field
+arises from the density ? of ponderable matter. It must also
+be so in the general theory of relativity. But our investigations
+of the special theory of relativity have shown that in place of
+the scalar density of matter we have the tensor of energy per
+unit volume. In the latter is included not only the tensor of
+the energy of ponderable matter, but also that of the electromagnetic
+energy. We have seen, indeed, that in a more complete
+analysis the energy tensor can be regarded only as a provisional
+means of representing matter. In reality, matter consists of electrically
+charged particles, and is to be regarded itself as a part,
+in fact, the principal part, of the electromagnetic field. It is
+only the circumstance that we have not sufficient knowledge of
+the electromagnetic field of concentrated charges that compels
+us, provisionally, to leave undetermined in presenting the theory,
+the true form of this tensor. From this point of view our
+problem now is to introduce a tensor, Tµ?, of the second rank,
+THE MEANING OF RELATIVITY 88
+whose structure we do not know provisionally, and which includes
+in itself the energy density of the electromagnetic field
+and of ponderable matter; we shall denote this in the following
+as the ìenergy tensor of matter.î
+According to our previous results, the principles of momentum
+and energy are expressed by the statement that the divergence
+of this tensor vanishes (47c). In the general theory of relativity,
+we shall have to assume as valid the corresponding general
+co-variant equation. If (Tµ?) denotes the co-variant energy tensor
+of matter, T
+?
+s
+the corresponding mixed tensor density, then,
+in accordance with (83), we must require that
+0 =
+? T
+a
+s
+?xa
+- G
+a
+sﬂ T
+ﬂ
+a
+(95)
+be satisfied. It must be remembered that besides the energy density
+of the matter there must also be given an energy density of
+the gravitational field, so that there can be no talk of principles
+of conservation of energy and momentum for matter alone. This
+is expressed mathematically by the presence of the second term
+in (95), which makes it impossible to conclude the existence of
+an integral equation of the form of (49). The gravitational field
+transfers energy and momentum to the ìmatter,î in that it exerts
+forces upon it and gives it energy; this is expressed by the
+second term in (95).
+If there is an analogue of Poissonís equation in the general
+theory of relativity, then this equation must be a tensor equation
+for the tensor gµ? of the gravitational potential; the energy
+tensor of matter must appear on the right-hand side of this
+equation. On the left-hand side of the equation there must be
+a differential tensor in the gµ?. We have to find this differen-
+THE GENERAL THEORY 89
+tial tensor. It is completely determined by the following three
+conditions:ó
+1. It may contain no differential coefficients of the gµ? higher
+than the second.
+2. It must be linear and homogeneous in these second differential
+coefficients.
+3. Its divergence must vanish identically.
+The first two of these conditions are naturally taken from
+Poissonís equation. Since it may be proved mathematically
+that all such differential tensors can be formed algebraically
+(i.e. without differentiation) from Riemannís tensor, our tensor
+must be of the form
+Rµ? + agµ?R,
+in which Rµ? and R are defined by (88) and (89) respectively.
+Further, it may be proved that the third condition requires a
+to have the value -
+1
+2
+. For the law of the gravitational field we
+therefore get the equation
+Rµ? -
+1
+2
+gµ?R = -?Tµ?. (96)
+Equation (95) is a consequence of this equation. ? denotes a
+constant, which is connected with the Newtonian gravitation
+constant.
+In the following I shall indicate the features of the theory
+which are interesting from the point of view of physics, using as
+little as possible of the rather involved mathematical method.
+It must first be shown that the divergence of the left-hand side
+actually vanishes. The energy principle for matter may be expressed,
+by (83),
+0 =
+? T
+a
+s
+?xa
+- G
+a
+sﬂ T
+ﬂ
+a
+, (97)
+THE MEANING OF RELATIVITY 90
+in which
+T
+a
+s = Tst g
+tav
+-g.
+The analogous operation, applied to the left-hand side of (96),
+will lead to an identity.
+In the region surrounding each world-point there are systems
+of co-ordinates for which, choosing the x4-co-ordinate imaginary,
+at the given point,
+gµ? = g
+µ? = -dµ? =
+(
+-1 if µ = ?,
+0 if µ 6= ?,
+and for which the first derivatives of the gµ? and the g
+µ? vanish.
+We shall verify the vanishing of the divergence of the left-hand
+side at this point. At this point the components Ga
+sﬂ vanish, so
+that we have to prove the vanishing only of
+?
+?xs
+v
+-g g?s(Rµ? -
+1
+2
+gµ?R)
+
+.
+Introducing (88) and (70) into this expression, we see that the
+only terms that remain are those in which third derivatives of
+the g
+µ? enter. Since the gµ? are to be replaced by -dµ?, we obtain,
+finally, only a few terms which may easily be seen to cancel
+each other. Since the quantity that we have formed has a tensor
+character, its vanishing is proved for every other system of coordinates
+also, and naturally for every other four-dimensional
+point. The energy principle of matter (97) is thus a mathematical
+consequence of the field equations (96).
+In order to learn whether the equations (96) are consistent
+with experience, we must, above all else, find out whether they
+THE GENERAL THEORY 91
+lead to the Newtonian theory as a first approximation. For this
+purpose we must introduce various approximations into these
+equations. We already know that Euclidean geometry and the
+law of the constancy of the velocity of light are valid, to a certain
+approximation, in regions of a great extent, as in the planetary
+system. If, as in the special theory of relativity, we take the
+fourth co-ordinate imaginary, this means that we must put
+gµ? = -dµ? + ?µ?, (98)
+in which the ?µ? are so small compared to 1 that we can neglect
+the higher powers of the ?µ? and their derivatives. If we do this,
+we learn nothing about the structure of the gravitational field, or
+of metrical space of cosmical dimensions, but we do learn about
+the influence of neighbouring masses upon physical phenomena.
+Before carrying through this approximation we shall transform
+(96). We multiply (96) by g
+µ?, summed over the µ and ?;
+observing the relation which follows from the definition of
+the g
+µ?
+,
+gµ?g
+µ? = 4,
+we obtain the equation
+R = ?gµ?Tµ? = ?T.
+If we put this value of R in (96) we obtain
+Rµ? = -?(Tµ? -
+1
+2
+gµ?T) = -?T*
+µ?. (96a)
+When the approximation which has been mentioned is carried
+out, we obtain for the left-hand side,
+-
+1
+2
+
+?
+2?µ?
+?xa
+2 +
+?
+2?aa
+?xµ ?x?
+-
+?
+2?µa
+?x? ?xa
+-
+?
+2??a
+?xµ ?xa
+
+THE MEANING OF RELATIVITY 92
+or
+-
+1
+2
+?
+2?µ?
+?xa
+2 +
+1
+2
+?
+?x?
+
+??0
+µa
+?xa
+
++
+1
+2
+?
+?xµ
+
+??0
+?a
+?xa
+
+,
+in which has been put
+?
+0
+µ? = ?µ? -
+1
+2
+?ssdµ?. (99)
+We must now note that equation (96) is valid for any system
+of co-ordinates. We have already specialized the system of
+co-ordinates in that we have chosen it so that within the region
+considered the gµ? differ infinitely little from the constant values
+-dµ?. But this condition remains satisfied in any infinitesimal
+change of co-ordinates, so that there are still four conditions
+to which the ?µ? may be subjected, provided these conditions
+do not conflict with the conditions for the order of magnitude of
+the ?µ?. We shall now assume that the system of co-ordinates
+is so chosen that the four relationsó
+0 =
+??0
+µ?
+?x?
+=
+??µ?
+?x?
+-
+1
+2
+??ss
+?xµ
+(100)
+are satisfied. Then (96a) takes the form
+?
+2?µ?
+?xa
+2 = 2?T*
+µ?. (96b)
+These equations may be solved by the method, familiar in
+electrodynamics, of retarded potentials; we get, in an easily
+understood notation,
+?µ? = -
+?
+2p
+Z
+T
+*
+µ?(x0, y0, z0, t - r)
+r
+dV0. (101)
+THE GENERAL THEORY 93
+In order to see in what sense this theory contains the Newtonian
+theory, we must consider in greater detail the energy
+tensor of matter. Considered phenomenologically, this energy
+tensor is composed of that of the electromagnetic field and of
+matter in the narrower sense. If we consider the different parts
+of this energy tensor with respect to their order of magnitude,
+it follows from the results of the special theory of relativity that
+the contribution of the electromagnetic field practically vanishes
+in comparison to that of ponderable matter. In our system of
+units, the energy of one gram of matter is equal to 1, compared
+to which the energy of the electric fields may be ignored, and
+also the energy of deformation of matter, and even the chemical
+energy. We get an approximation that is fully sufficient for our
+purpose if we put
+T
+µ? = s
+dxµ
+ds
+dx?
+ds ,
+ds2 = gµ? dxµ dx?.
+?
+?
+?
+(102)
+In this, s is the density at rest, that is, the density of the ponderable
+matter, in the ordinary sense, measured with the aid
+of a unit measuring rod, and referred to a Galilean system of
+co-ordinates moving with the matter.
+We observe, further, that in the co-ordinates we have chosen,
+we shall make only a relatively small error if we replace the gµ?
+by -dµ?, so that we put
+ds2 = -
+Xdxµ
+2
+. (102a)
+The previous developments are valid however rapidly the
+masses which generate the field may move relatively to our chosen
+system of quasi-Galilean co-ordinates. But in astronomy
+THE MEANING OF RELATIVITY 94
+we have to do with masses whose velocities, relatively to the
+co-ordinate system employed, are always small compared to the
+velocity of light, that is, small compared to 1, with our choice
+of the unit of time. We therefore get an approximation which is
+sufficient for nearly all practical purposes if in (101) we replace
+the retarded potential by the ordinary (non-retarded) potential,
+and if, for the masses which generate the field, we put
+dx1
+ds =
+dx2
+ds =
+dx3
+ds = 0,
+dx4
+ds =
+v
+-1 dl
+dl =
+v
+-1. (103)
+Then we get for T
+µ? and Tµ? the values
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 -s
+?
+???
+???
+. (104)
+For T we get the value s, and, finally, for T
+*
+µ? the values,
+s
+2
+0 0 0
+0
+s
+2
+0 0
+0 0
+s
+2
+0
+0 0 0 -
+s
+2
+?
+???????
+???????
+. (104a)
+We thus get, from (101),
+?11 = ?22 = ?33 = -
+?
+4p
+Z
+s dV0
+r
+,
+?44 = +
+?
+4p
+Z
+s dV0
+r
+,
+?
+???
+???
+(101a)
+THE GENERAL THEORY 95
+while all the other ?µ? vanish. The least of these equations,
+in connexion with equation (90a), contains Newtonís theory of
+gravitation. If we replace l by ct we get
+d
+2xµ
+dt2
+=
+?c2
+8p
+?
+?xµ
+Z
+s dV0
+r
+
+. (90b)
+We see that the Newtonian gravitation constant K, is connected
+with the constant ? that enters into our field equations by the
+relation
+K =
+?c2
+8p
+. (105)
+From the known numerical value of K, it therefore follows that
+? =
+8pK
+c
+2
+=
+8p ∑ 6.67 ∑ 10-8
+9 ∑ 1020 = 1.86 ∑ 10-27
+. (105a)
+From (101) we see that even in the first approximation the structure
+of the gravitational field differs fundamentally from that
+which is consistent with the Newtonian theory; this difference
+lies in the fact that the gravitational potential has the character
+of a tensor and not a scalar. This was not recognized in the past
+because only the component g44, to a first approximation, enters
+the equations of motion of material particles.
+In order now to be able to judge the behaviour of measuring
+rods and clocks from our results, we must observe the following.
+According to the principle of equivalence, the metrical relations
+of the Euclidean geometry are valid relatively to a Cartesian
+system of reference of infinitely small dimensions, and in a suitable
+state of motion (freely falling, and without rotation). We
+can make the same statement for local systems of co-ordinates
+THE MEANING OF RELATIVITY 96
+which, relatively to these, have small accelerations, and therefore
+for such systems of co-ordinates as are at rest relatively to
+the one we have selected. For such a local system, we have, for
+two neighbouring point events,
+ds2 = -dX1
+2 - dX2
+2 - dX3
+2 + dT2 = -dS2 + dT2
+,
+where dS is measured directly by a measuring rod and dT by
+a clock at rest relatively to the system; these are the naturally
+measured lengths and times. Since ds2
+, on the other hand, is
+known in terms of the co-ordinates x? employed in finite regions,
+in the form
+ds2 = gµ? dxµ dx?,
+we have the possibility of getting the relation between naturally
+measured lengths and times, on the one hand, and the corresponding
+differences of co-ordinates, on the other hand. As the
+division into space and time is in agreement with respect to the
+two systems of co-ordinates, so when we equate the two expressions
+for ds2 we get two relations. If, by (101a), we put
+ds2 = -
+
+1 +
+?
+4p
+Z
+s dV0
+r
+
+(dx1
+2 + dx2
+2 + dx3
+2
+)
++
+
+1 -
+?
+4p
+Z
+s dV0
+r
+
+dl2
+,
+we obtain, to a sufficiently close approximation,
+p
+dX1
+2 + dX2
+2 + dX3
+2
+=
+
+1 +
+?
+8p
+Z
+s dV0
+r
+ p
+dx1
+2 + dx2
+2 + dx3
+2
+,
+dT =
+
+1 -
+?
+8p
+Z
+s dV0
+r
+
+dl.
+?
+??????
+??????
+(106)
+THE GENERAL THEORY 97
+The unit measuring rod has therefore the length,
+1 -
+?
+8p
+Z
+s dV0
+r
+in respect to the system of co-ordinates we have selected. The
+particular system of co-ordinates we have selected insures that
+this length shall depend only upon the place, and not upon the
+direction. If we had chosen a different system of co-ordinates
+this would not be so. But however we may choose a system of
+co-ordinates, the laws of configuration of rigid rods do not agree
+with those of Euclidean geometry; in other words, we cannot
+choose any system of co-ordinates so that the co-ordinate differences,
+?x1, ?x2, ?x3, corresponding to the ends of a unit measuring
+rod, oriented in any way, shall always satisfy the relation
+?x1
+2 + ?x2
+2 + ?x3
+2 = 1. In this sense space is not Euclidean,
+but ìcurved.î It follows from the second of the relations above
+that the interval between two beats of the unit clock (dT = 1)
+corresponds to the ìtimeî
+1 +
+?
+8p
+Z
+s dV0
+r
+in the unit used in our system of co-ordinates. The rate of a
+clock is accordingly slower the greater is the mass of the ponderable
+matter in its neighbourhood. We therefore conclude that
+spectral lines which are produced on the sunís surface will be
+displaced towards the red, compared to the corresponding lines
+produced on the earth, by about 2 ∑ 10-6 of their wave-lengths.
+At first, this important consequence of the theory appeared to
+conflict with experiment; but results obtained during the past
+year seem to make the existence of this effect more probable, and
+THE MEANING OF RELATIVITY 98
+it can hardly be doubted that this consequence of the theory will
+be confirmed within the next year.
+Another important consequence of the theory, which can be
+tested experimentally, has to do with the path of rays of light.
+In the general theory of relativity also the velocity of light is
+everywhere the same, relatively to a local inertial system. This
+velocity is unity in our natural measure of time. The law of
+the propagation of light in general co-ordinates is therefore, according
+to the general theory of relativity, characterized, by the
+equation
+ds2 = 0.
+To within the approximation which we are using, and in the
+system of co-ordinates which we have selected, the velocity of
+light is characterized, according to (106), by the equation
+
+1+
+?
+4p
+Z
+s dV0
+r
+
+(dx1
+2+dx2
+2+dx3
+2
+) = 
+1-
+?
+4p
+Z
+s dV0
+r
+
+dl2
+.
+The velocity of light L, is therefore expressed in our co-ordinates
+by
+p
+dx1
+2 + dx2
+2 + dx3
+2
+dl = 1 -
+?
+4p
+Z
+s dV0
+r
+. (107)
+We can therefore draw the conclusion from this, that a ray of
+light passing near a large mass is deflected. If we imagine the
+sun, of mass M concentrated at the origin of our system of coordinates,
+then a ray of light, travelling parallel to the x3-axis,
+in the x1-x3 plane, at a distance ? from the origin, will be
+deflected, in all, by an amount
+a =
+Z +8
+-8
+1
+L
+?L
+?x1
+dx3
+THE GENERAL THEORY 99
+towards the sun. On performing the integration we get
+a =
+?M
+2p?
+. (108)
+The existence of this deflection, which amounts to 1.7
+00 for
+? equal to the radius of the sun, was confirmed, with remarkable
+accuracy, by the English Solar Eclipse Expedition in 1919, and
+most careful preparations have been made to get more exact
+observational data at the solar eclipse in 1922. It should be
+noted that this result, also, of the theory is not influenced by
+our arbitrary choice of a system of co-ordinates.
+This is the place to speak of the third consequence of the
+theory which can be tested by observation, namely, that which
+concerns the motion of the perihelion of the planet Mercury. The
+secular changes in the planetary orbits are known with such accuracy
+that the approximation we have been using is no longer
+sufficient for a comparison of theory and observation. It is necessary
+to go back to the general field equations (96). To solve
+this problem I made use of the method of successive approximations.
+Since then, however, the problem of the central symmetrical
+statical gravitational field has been completely solved by
+Schwarzschild and others; the derivation given by H. Weyl in his
+book, ìRaum-Zeit-Materie,î is particularly elegant. The calculation
+can be simplified somewhat if we do not go back directly
+to the equation (96), but base it upon a principle of variation
+that is equivalent to this equation. I shall indicate the procedure
+only in so far as is necessary for understanding the method.
+THE MEANING OF RELATIVITY 100
+In the case of a statical field, ds2 must have the form
+ds2 = -ds2 + f
+2
+dx4
+2
+,
+ds2 =
+X
+1ñ3
+?aﬂ dxa dxﬂ,
+?
+?
+?
+(109)
+where the summation on the right-hand side of the last equation
+is to be extended over the space variables only. The central
+symmetry of the field requires the ?µ? to be of the form,
+?aﬂ = µdaﬂ + ?xaxﬂ; (110)
+f
+2
+, µ and ? are functions of r =
+v
+x1
+2 + x2
+2 + x3
+2 only. One
+of these three functions can be chosen arbitrarily, because our
+system of co-ordinates is, a priori, completely arbitrary; for by
+a substitution
+x
+0
+4 = x4,
+x
+0
+a = F(r)xa,
+we can always insure that one of these three functions shall be
+an assigned function of r
+0
+. In place of (110) we can therefore
+put, without limiting the generality,
+?aﬂ = daﬂ + ?xaxﬂ. (110a)
+In this way the gµ? are expressed in terms of the two quantities
+? and f. These are to be determined as functions of r,
+by introducing them into equation (96), after first calculating
+THE GENERAL THEORY 101
+the Gs
+µ? from (109) and (110a). We have
+G
+s
+aﬂ =
+1
+2
+xs
+r
+∑
+?
+0xaxﬂ + 2?r daﬂ
+1 + ?r2
+(for a, ﬂ, s = 1, 2, 3),
+G
+4
+44 = Ga
+4ﬂ = G4
+aﬂ = 0 (for a, ﬂ = 1, 2, 3),
+G
+4
+4a =
+1
+2
+f
+-2
+?f 2
+?xa
+, G
+a
+44 = -
+1
+2
+g
+aﬂ ?f 2
+?xﬂ
+.
+?
+??????
+??????
+(110b)
+With the help of these results, the field equations furnish
+Schwarzschildís solution:
+ds2 =
+
+1 -
+A
+r
+
+dl2 -
+?
+?
+?
+dr2
+1 -
+A
+r
++ r
+2
+(sin2
+? df2 + d?2
+)
+?
+?
+? , (109a)
+in which we have put
+x4 = l,
+x1 = r sin ? sin f,
+x2 = r sin ? cos f,
+x3 = r cos ?,
+A =
+?M
+4p
+.
+?
+????????
+????????
+(109b)
+M denotes the sunís mass, centrally symmetrically placed
+about the origin of co-ordinates; the solution (109) is valid only
+outside of this mass, where all the Tµ? vanish. If the motion
+of the planet takes place in the x1-x2 plane then we must replace
+(109a) by
+ds2 =
+
+1 -
+A
+r
+
+dl2 -
+dr2
+1 -
+A
+r
+- r
+2
+df2
+. (109c)
+THE MEANING OF RELATIVITY 102
+The calculation of the planetary motion depends upon equation
+(90). From the first of equations (110b) and (90) we get,
+for the indices 1, 2, 3,
+d
+ds 
+xa
+dxﬂ
+ds - xﬂ
+dxa
+ds 
+= 0,
+or, if we integrate, and express the result in polar co-ordinates,
+r
+2
+df
+ds = constant. (111)
+From (90), for µ = 4, we get
+0 =
+d
+2
+l
+ds2
++
+1
+f
+2
+df 2
+dxa
+dxa
+ds
+dl
+ds =
+d
+2
+l
+ds2
++
+1
+f
+2
+df 2
+ds
+dl
+ds.
+From this, after multiplication by f
+2 and integration, we have
+f
+2
+dl
+ds = constant. (112)
+In (109c), (111) and (112) we have three equations between
+the four variables s, r, l and f, from which the motion of the
+planet may be calculated in the same way as in classical mechanics.
+The most important result we get from this is a secular
+rotation of the elliptic orbit of the planet in the same sense as
+the revolution of the planet, amounting in radians per revolution
+to
+24p
+3a
+2
+(1 - e
+2
+)c
+2T
+2
+, (113)
+THE GENERAL THEORY 103
+where
+a = the semi-major axis of the planetary orbit in centimetres.
+e = the numerical eccentricity.
+c = 3 ∑ 10+10
+, the velocity of light in vacuo.
+T = the period of revolution in seconds.
+This expression furnishes the explanation of the motion of the
+perihelion of the planet Mercury, which has been known for a
+hundred years (since Leverrier), and for which theoretical astronomy
+has hitherto been unable satisfactorily to account.
+There is no difficulty in expressing Maxwellís theory of the
+electromagnetic field in terms of the general theory of relativity;
+this is done by application of the tensor formation (81), (82)
+and (77). Let fµ be a tensor of the first rank, to be denoted
+as an electromagnetic 4-potential; then an electromagnetic field
+tensor may be defined by the relations,
+fµ? =
+?fµ
+?x?
+-
+?f?
+?xµ
+. (114)
+The second of Maxwellís systems of equations is then defined by
+the tensor equation, resulting from this,
+?fµ?
+?x?
++
+?f??
+?xµ
++
+?f?µ
+?x?
+= 0, (114a)
+and the first of Maxwellís systems of equations is defined by the
+tensor-density relation
+? F
+µ?
+?x?
+= J
+µ
+, (115)
+THE MEANING OF RELATIVITY 104
+in which
+F
+µ? =
+v
+-g gµ?g
+?tfst ,
+J
+µ =
+v
+-g ?
+dx?
+ds .
+If we introduce the energy tensor of the electromagnetic field
+into the right-hand side of (96), we obtain (115), for the special
+case J
+µ = 0, as a consequence of (96) by taking the divergence.
+This inclusion of the theory of electricity in the scheme of the
+general theory of relativity has been considered arbitrary and
+unsatisfactory by many theoreticians. Nor can we in this way
+conceive of the equilibrium of the electricity which constitutes
+the elementary electrically charged particles. A theory in which
+the gravitational field and the electromagnetic field enter as an
+essential entity would be much preferable. H. Weyl, and recently
+Th. Kaluza, have discovered some ingenious theorems along this
+direction; but concerning them, I am convinced that they do not
+bring us nearer to the true solution of the fundamental problem.
+I shall not go into this further, but shall give a brief discussion
+of the so-called cosmological problem, for without this, the considerations
+regarding the general theory of relativity would, in
+a certain sense, remain unsatisfactory.
+Our previous considerations, based upon the field equations
+(96), had for a foundation the conception that space on
+the whole is Galilean-Euclidean, and that this character is disturbed
+only by masses embedded in it. This conception was
+certainly justified as long as we were dealing with spaces of the
+order of magnitude of those that astronomy has to do with.
+But whether portions of the universe, however large they may
+be, are quasi-Euclidean, is a wholly different question. We can
+THE GENERAL THEORY 105
+make this clear by using an example from the theory of surfaces
+which we have employed many times. If a portion of a surface
+is observed by the eye to be practically plane, it does not at all
+follow that the whole surface has the form of a plane; the surface
+might just as well be a sphere, for example, of sufficiently large
+radius. The question as to whether the universe as a whole is
+non-Euclidean was much discussed from the geometrical point of
+view before the development of the theory of relativity. But with
+the theory of relativity, this problem has entered upon a new
+stage, for according to this theory the geometrical properties of
+bodies are not independent, but depend upon the distribution
+of masses.
+If the universe were quasi-Euclidean, then Mach was wholly
+wrong in his thought that inertia, as well as gravitation, depends
+upon a kind of mutual action between bodies. For in this case,
+with a suitably selected system of co-ordinates, the gµ? would
+be constant at infinity, as they are in the special theory of relativity,
+while within finite regions the gµ? would differ from these
+constant values by small amounts only, with a suitable choice
+of co-ordinates, as a result of the influence of the masses in fi-
+nite regions. The physical properties of space would not then be
+wholly independent, that is, uninfluenced by matter, but in the
+main they would be, and only in small measure, conditioned by
+matter. Such a dualistic conception is even in itself not satisfactory;
+there are, however, some important physical arguments
+against it, which we shall consider.
+The hypothesis that the universe is infinite and Euclidean
+at infinity, is, from the relativistic point of view, a complicated
+hypothesis. In the language of the general theory of relativity
+it demands that the Riemann tensor of the fourth rank Riklm
+THE MEANING OF RELATIVITY 106
+shall vanish at infinity, which furnishes twenty independent conditions,
+while only ten curvature components Rµ?, enter into
+the laws of the gravitational field. It is certainly unsatisfactory
+to postulate such a far-reaching limitation without any physical
+basis for it.
+But in the second place, the theory of relativity makes it
+appear probable that Mach was on the right road in his thought
+that inertia depends upon a mutual action of matter. For we
+shall show in the following that, according to our equations, inert
+masses do act upon each other in the sense of the relativity of
+inertia, even if only very feebly. What is to be expected along
+the line of Machís thought?
+1. The inertia of a body must increase when ponderable
+masses are piled up in its neighbourhood.
+2. A body must experience an accelerating force when
+neighbouring masses are accelerated, and, in fact, the
+force must be in the same direction as the acceleration.
+3. A rotating hollow body must generate inside of itself
+a ìCoriolis field,î which deflects moving bodies in the
+sense of the rotation, and a radial centrifugal field as
+well.
+We shall now show that these three effects, which are to be
+expected in accordance with Machís ideas, are actually present
+according to our theory, although their magnitude is so small
+that confirmation of them by laboratory experiments is not to be
+thought of. For this purpose we shall go back to the equations of
+motion of a material particle (90), and carry the approximations
+somewhat further than was done in equation (90a).
+THE GENERAL THEORY 107
+First, we consider ?44 as small of the first order. The square
+of the velocity of masses moving under the influence of the gravitational
+force is of the same order, according to the energy
+equation. It is therefore logical to regard the velocities of the
+material particles we are considering, as well as the velocities
+of the masses which generate the field, as small, of the order 1
+2
+.
+We shall now carry out the approximation in the equations that
+arise from the field equations (101) and the equations of motion
+(90) so far as to consider terms, in the second member
+of (90), that are linear in those velocities. Further, we shall not
+put ds and dl equal to each other, but, corresponding to the
+higher approximation, we shall put
+ds =
+v
+g44 dl =
+
+1 -
+?44
+2
+
+dl.
+From (90) we obtain, at first,
+d
+dl 
+1 +
+?44
+2
+ dxµ
+dl 
+= -G
+µ
+aﬂ
+dxa
+dl
+dxﬂ
+dl
+
+1 +
+?44
+2
+
+. (116)
+From (101) we get, to the approximation sought for,
+-?11 = -?22 = -?33 = ?44 =
+?
+4p
+Z
+s dV0
+r
+,
+?4a = -
+i?
+2
+Z s
+dxa
+ds dV0
+r
+,
+?aﬂ = 0,
+?
+???????
+???????
+(117)
+in which, in (117), a and ﬂ denote the space indices only.
+THE MEANING OF RELATIVITY 108
+On the right-hand side of (116) we can replace 1 + ?44
+2
+by 1
+and -G
+µ
+aﬂ by
+aﬂ
+µ
+
+. It is easy to see, in addition, that to this
+degree of approximation we must put
+
+44
+µ
+
+= -
+1
+2
+??44
+?xµ
++
+??4µ
+?x4
+,
+
+a4
+µ
+
+=
+1
+2
+
+??4µ
+?xa
+-
+??4a
+?xµ
+
+,
+
+aﬂ
+µ
+
+= 0,
+in which a, ﬂ and µ denote space indices. We therefore obtain
+from (116), in the usual vector notation,
+d
+dl
+
+(1 + s)v
+
+= grad s +
+? A
+?l + [rot A, v],
+s =
+?
+8p
+Z
+s dV0
+r
+,
+A =
+?
+2p
+Z s
+dxa
+dl dV0
+r
+.
+?
+?????????
+?????????
+(118)
+The equations of motion, (118), show now, in fact, that
+1. The inert mass is proportional to 1 + s, and therefore
+increases when ponderable masses approach the test
+body.
+2. There is an inductive action of accelerated masses,
+of the same sign, upon the test body. This is the
+term
+? A
+?l .
+THE GENERAL THEORY 109
+3. A material particle, moving perpendicularly to the axis
+of rotation inside a rotating hollow body, is deflected in
+the sense of the rotation (Coriolis field). The centrifugal
+action, mentioned above, inside a rotating hollow
+body, also follows from the theory, as has been shown
+by Thirring.*
+Although all of these effects are inaccessible to experiment,
+because ? is so small, nevertheless they certainly exist according
+to the general theory of relativity. We must see in them a
+strong support for Machís ideas as to the relativity of all inertial
+actions. If we think these ideas consistently through to the end
+we must expect the whole inertia, that is, the whole gµ?-field, to
+be determined by the matter of the universe, and not mainly by
+the boundary conditions at infinity.
+For a satisfactory conception of the gµ?-field of cosmical dimensions,
+the fact seems to be of significance that the relative
+velocity of the stars is small compared to the velocity of light.
+It follows from this that, with a suitable choice of co-ordinates,
+g44 is nearly constant in the universe, at least, in that part of
+the universe in which there is matter. The assumption appears
+natural, moreover, that there are stars in all parts of the universe,
+so that we may well assume that the inconstancy of g44 depends
+only upon the circumstance that matter is not distributed
+continuously, but is concentrated in single celestial bodies and
+systems of bodies. If we are willing to ignore these more local
+*That the centrifugal action must be inseparably connected with the
+existence of the Coriolis field may be recognized, even without calculation,
+in the special case of a co-ordinate system rotating uniformly relatively to
+an inertial system; our general co-variant equations naturally must apply
+to such a case.
+THE MEANING OF RELATIVITY 110
+non-uniformities of the density of matter and of the gµ?-field, in
+order to learn something of the geometrical properties of the universe
+as a whole, it appears natural to substitute for the actual
+distribution of masses a continuous distribution, and furthermore
+to assign to this distribution a uniform density s. In this
+imagined universe all points with space directions will be geometrically
+equivalent; with respect to its space extension it will
+have a constant curvature, and will be cylindrical with respect
+to its x4-co-ordinate. The possibility seems to be particularly
+satisfying that the universe is spatially bounded and thus, in
+accordance with our assumption of the constancy of s, is of
+constant curvature, being either spherical or elliptical; for then
+the boundary conditions at infinity which are so inconvenient
+from the standpoint of the general theory of relativity, may be
+replaced by the much more natural conditions for a closed surface.
+According to what has been said, we are to put
+ds2 = dx4
+2 - ?µ? dxµ dx?, (119)
+in which the indices µ and ? run from 1 to 3 only. The ?µ?
+will be such functions of x1, x2, x3 as correspond to a threedimensional
+continuum of constant positive curvature. We must
+now investigate whether such an assumption can satisfy the field
+equations of gravitation.
+In order to be able to investigate this, we must first find
+what differential conditions the three-dimensional manifold of
+constant curvature satisfies. A spherical manifold of three dimensions,
+embedded in a Euclidean continuum of four dimen-
+THE GENERAL THEORY 111
+sions,*
+is given by the equations
+x1
+2 + x2
+2 + x3
+2 + x4
+2 = a
+2
+,
+dx1
+2 + dx2
+2 + dx3
+2 + dx4
+2 = ds2
+.
+By eliminating x4, we get
+ds2 = dx1
+2 + dx2
+2 + dx3
+2 +
+(x1 dx1 + x2 dx2 + x3 dx3)
+2
+a
+2 - x1
+2 - x2
+2 - x3
+2
+.
+As far as terms of the third and higher degrees in the x?, we
+can put, in the neighbourhood of the origin of co-ordinates,
+ds2 =
+
+dµ? +
+xµx?
+a
+2
+
+dxµ dx?.
+Inside the brackets are the gµ? of the manifold in the neighbourhood
+of the origin. Since the first derivatives of the gµ?,
+and therefore also the Gs
+µ?, vanish at the origin, the calculation
+of the Rµ? for this manifold, by (88), is very simple at the origin.
+We have
+Rµ? = -
+2
+a
+2
+dµ? =
+2
+a
+2
+gµ?.
+Since the relation Rµ? =
+2
+a
+2
+gµ? is universally co-variant,
+and since all points of the manifold are geometrically equivalent,
+this relation holds for every system of co-ordinates, and
+everywhere in the manifold. In order to avoid confusion with
+*The aid of a fourth space dimension has naturally no significance except
+that of a mathematical artifice.
+THE MEANING OF RELATIVITY 112
+the four-dimensional continuum, we shall, in the following, designate
+quantities that refer to the three-dimensional continuum
+by Greek letters, and put
+Pµ? = -
+2
+a
+2
+?µ?. (120)
+We now proceed to apply the field equations (96) to our special
+case. From (119) we get for the four-dimensional manifold,
+Rµ? = Pµ? for the indices 1 to 3,
+R14 = R24 = R34 = R44 = 0.
+)
+(121)
+For the right-hand side of (96) we have to consider the energy
+tensor for matter distributed like a cloud of dust. According to
+what has gone before we must therefore put
+T
+µ? = s
+dxµ
+ds
+dx?
+ds
+specialized for the case of rest. But in addition, we shall add
+a pressure term that may be physically established as follows.
+Matter consists of electrically charged particles. On the basis
+of Maxwellís theory these cannot be conceived of as electromagnetic
+fields free from singularities. In order to be consistent
+with the facts, it is necessary to introduce energy terms, not
+contained in Maxwellís theory, so that the single electric particles
+may hold together in spite of the mutual repulsions between
+their elements, charged with electricity of one sign. For the sake
+of consistency with this fact, Poincar¥e has assumed a pressure
+to exist inside these particles which balances the electrostatic
+repulsion. It cannot, however, be asserted that this pressure
+THE GENERAL THEORY 113
+vanishes outside the particles. We shall be consistent with this
+circumstance if, in our phenomenological presentation, we add
+a pressure term. This must not, however, be confused with a
+hydrodynamical pressure, as it serves only for the energetic presentation
+of the dynamical relations inside matter. In this sense
+we put
+Tµ? = gµsg?ﬂ
+dxa
+ds
+dxﬂ
+ds - gµ?p. (122)
+In our special case we have, therefore, to put
+Tµ? = ?µ?p (for µ and ? from 1 to 3),
+T44 = s - p,
+T = -?
+µ??µ?p + s - p = s - 4p.
+Observing that the field equation (96) may be written in the
+form
+Rµ? = -?(Tµ? -
+1
+2
+gµ?T),
+we get from (96) the equations,
++
+2
+a
+2
+?µ? = ?
+s
+2
+- p
+
+?µ?,
+0 = -?
+s
+2
++ p
+
+.
+From this follows
+p = -
+s
+2
+,
+a =
+r
+2
+?s
+.
+?
+??
+??
+(123)
+If the universe is quasi-Euclidean, and its radius of curvature
+therefore infinite, then s would vanish. But it is improbable that
+THE MEANING OF RELATIVITY 114
+the mean density of matter in the universe is actually zero; this
+is our third argument against the assumption that the universe
+is quasi-Euclidean. Nor does it seem possible that our hypothetical
+pressure can vanish; the physical nature of this pressure can
+be appreciated only after we have a better theoretical knowledge
+of the electromagnetic field. According to the second of equations
+(123) the radius, a, of the universe is determined in terms
+of the total mass, M, of matter, by the equation
+a =
+M?
+4p
+2
+. (124)
+The complete dependence of the geometrical upon the physical
+properties becomes clearly apparent by means of this equation.
+Thus we may present the following arguments against the
+conception of a space-infinite, and for the conception of a spacebounded,
+universe:ó
+1. From the standpoint of the theory of relativity, the condition
+for a closed surface is very much simpler than the corresponding
+boundary condition at infinity of the quasi-Euclidean
+structure of the universe.
+2. The idea that Mach expressed, that inertia depends upon
+the mutual action of bodies, is contained, to a first approximation,
+in the equations of the theory of relativity; it follows
+from these equations that inertia depends, at least in part, upon
+mutual actions between masses. As it is an unsatisfactory assumption
+to make that inertia depends in part upon mutual
+actions, and in part upon an independent property of space,
+Machís idea gains in probability. But this idea of Machís corresponds
+only to a finite universe, bounded in space, and not to a
+quasi-Euclidean, infinite universe. From the standpoint of epis-
+THE GENERAL THEORY 115
+temology it is more satisfying to have the mechanical properties
+of space completely determined by matter, and this is the case
+only in a space-bounded universe.
+3. An infinite universe is possible only if the mean density of
+matter in the universe vanishes. Although such an assumption
+is logically possible, it is less probable than the assumption that
+there is a finite mean density of matter in the universe.
+INDEX
+A
+Accelerated masses, inductive
+action of, 108
+Addition and subtraction of
+tensors, 14
+ó theorem of velocities, 38
+B
+Biot-Savart force, 44
+C
+Centrifugal force, 64
+Clocks, moving, 38
+Compressible viscous fluid, 22
+Concept of space, 3
+ó time, 28
+Conditions of orthogonality, 7
+Congruence, theorems of, 3
+Conservation principles, 54
+Continuum, four-dimensional,
+31
+Contraction of tensors, 14
+Contra-variant vectors, 69
+ó tensors, 71
+Co-ordinates, preferred systems
+of, 8
+Co-variance of equation of
+continuity, 21
+Co-variant, 12 et seq.
+ó vector, 68
+Criticism of principle of inertia,
+62
+Criticisms of theory of
+relativity, 29
+Curvilinear co-ordinates, 65
+D
+Differentiation of tensors, 73, 76
+Displacement of spectral lines,
+97
+E
+Energy and mass, 45, 49
+ó tensor of electromagnetic
+field, 50
+ó ó of matter, 54
+Equation of continuity,
+co-variance of, 21
+Equations of motion of material
+particle, 50
+Equivalence of mass and
+energy, 49
+Equivalent spaces of reference,
+25
+Euclidean geometry, 4
+F
+Finiteness of universe, 105
+Fizeau, 28
+Four-dimensional continuum, 31
+Four-vector, 41
+116
+INDEX 117
+Fundamental tensor, 71
+G
+Galilean regions, 62
+ó transformation, 27
+Gauss, 65
+Geodetic lines, 82
+Geometry, Euclidean, 4
+Gravitation constant, 95
+Gravitational mass, 60
+H
+Homogeneity of space, 17
+Hydrodynamical equations, 54
+Hypotheses of pre-relativity
+physics, 73
+I
+Inductive action of accelerated
+masses, 108
+Inert and gravitational mass,
+equality of, 60
+Invariant, 9 et seq.
+Isotropy of space, 17
+K
+Kaluza, 104
+L
+Levi-Civita, 73
+Light-cone, 41
+Light ray, path of, 98
+Light-time, 33
+Linear orthogonal
+transformation, 7
+Lorentz electromotive force, 44
+ó transformation, 31
+M
+Mach, 59, 105, 106, 109, 114
+Mass and Energy, 45, 49
+ó equality of gravitational and
+inert, 60
+ó gravitational, 60
+Maxwellís equations, 23
+Mercury, perihelion of, 99, 103
+Michelson and Morley, 28
+Minkowski, 32
+Motion of particle, equations of,
+50
+Moving measuring rods and
+clocks, 38
+Multiplication of tensors, 14
+N
+Newtonian gravitation
+constant, 95
+O
+Operations on tensors, 13 et
+seq.
+Orthogonal transformations,
+linear, 7
+Orthogonality, conditions of, 7
+THE MEANING OF RELATIVITY 118
+P
+Path of light ray, 98
+Perihelion of Mercury, 99, 103
+Poissonís equation, 87
+Preferred systems of
+co-ordinates, 8
+Pre-relativity physics,
+hypotheses of, 26
+Principle of equivalence, 61
+ó inertia, criticism of, 62
+Principles of conservation, 54
+R
+Radius of Universe, 113
+Rank of tensor, 13
+Ray of light, path of, 98
+Reference, space of, 3
+Riemann, 68
+ó tensor, 79, 82, 105
+Rods (measuring) and clocks in
+motion, 38
+Rotation, 63
+S
+Simultaneity, 17, 29
+Sitter, 28
+Skew-symmetrical tensor, 15
+Solar Eclipse expedition (1919),
+99
+Space, Concept of, 2
+ó Homogeneity of, 17
+ó Isotropy of, 17
+Spaces of reference, 3
+ó equivalence of, 25
+Special Lorentz transformation,
+34
+Spectral lines, displacement of,
+97
+Straightest lines, 82
+Stress tensor, 22
+Symmetrical tensor, 15
+Systems of co-ordinates,
+preferred, 8
+T
+Tensor, 12 et seq., 68 et seq.
+ó Addition and subtraction of,
+14
+ó Contraction of, 14
+ó Fundamental, 71
+ó Multiplication of, 14
+ó operations, 13 et seq.
+ó Rank of, 13
+ó Symmetrical and
+Skew-symmetrical, 15
+Tensors, formation by
+differentiation, 73
+Theorem for addition of
+velocities, 38
+Theorems of congruence, 3
+Theory of relativity, criticisms
+of, 29
+Thirring, 109
+Time-concept, 28
+INDEX 119
+Time-space concept, 31
+Transformation, Galilean, 27
+ó Linear orthogonal, 7
+U
+Universe, Finiteness of, 105
+ó Radius of, 113
+V
+Vector, co-variant, 69
+ó contra-variant, 69
+Velocities, addition theorem of,
+38
+Viscous compressible fluid, 22
+W
+Weyl, 73, 99, 104
+PRINTED IN GREAT BRITAIN AT THE UNIVERSITY PRESS, ABERDEEN
+LICENSING
+End of Project Gutenbergís The Meaning of Relativity, by Albert Einstein
