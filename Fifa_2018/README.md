@@ -1,6 +1,6 @@
 
 # <center>FIFA 18 Player Dataset Exploration</center>
-![fifa](images\fifa.jpg)
+![fifa](images/fifa.jpg)
 
 # Table of contents
 1. [Initial Exploration](#initial)
