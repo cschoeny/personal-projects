@@ -1,0 +1,72 @@
+2018_03_08
+
+
+Median
+
+Jordan Spieth	11800	84.5	Rounds: 100.0
+Webb Simpson	8500	73.0	Rounds: 127.0
+Luke List	7800	74.75	Rounds: 137.0
+Chesson Hadley	7400	81.5	Rounds: 36.0
+Austin Cook	7100	81.0	Rounds: 39.0
+Brandon Harkins	7000	76.5	Rounds: 40.0
+Total Salary: $49600
+
+Max
+
+Justin Rose	10000	164.5	Rounds: 76.0
+Paul Casey	9800	171.5	Rounds: 114.0
+Chesson Hadley	7400	164.0	Rounds: 36.0
+Austin Cook	7100	164.5	Rounds: 39.0
+Brandon Harkins	7000	169.0	Rounds: 40.0
+Sung Kang	6800	164.5	Rounds: 136.0
+Total Salary: $48100
+
+Min
+
+Jordan Spieth	11800	16.0	Rounds: 100.0
+Luke List	7800	14.5	Rounds: 137.0
+Chesson Hadley	7400	16.5	Rounds: 36.0
+Austin Cook	7100	17.5	Rounds: 39.0
+Brandon Harkins	7000	14.0	Rounds: 40.0
+Vaughn Taylor	6700	13.5	Rounds: 123.0
+Total Salary: $47800
+
+Mean
+
+Jordan Spieth	11800	84.175	Rounds: 100.0
+Webb Simpson	8500	68.233	Rounds: 127.0
+Luke List	7800	68.8655	Rounds: 137.0
+Chesson Hadley	7400	78.9555	Rounds: 36.0
+Austin Cook	7100	77.7225	Rounds: 39.0
+Brandon Harkins	7000	72.3795	Rounds: 40.0
+Total Salary: $49600
+
+75th
+
+Jordan Spieth	11800	104.5	Rounds: 100.0
+Tony Finau	9400	92.0	Rounds: 138.0
+Chesson Hadley	7400	98.5	Rounds: 36.0
+Austin Cook	7100	97.0	Rounds: 39.0
+Stewart Cink	7000	85.625	Rounds: 124.0
+Brandon Harkins	7000	93.0	Rounds: 40.0
+Total Salary: $49700
+
+25th
+
+Jordan Spieth	11800	69.5	Rounds: 100.0
+Paul Casey	9800	54.0	Rounds: 114.0
+Chesson Hadley	7400	64.375	Rounds: 36.0
+Austin Cook	7100	64.0	Rounds: 39.0
+Brandon Harkins	7000	36.375	Rounds: 40.0
+Aaron Wise	6900	30.5	Rounds: 34.0
+Total Salary: $50000
+
+Cut
+
+Jordan Spieth	11800	0.867	Rounds: 100.0
+Webb Simpson	8500	0.733	Rounds: 127.0
+Chez Reavie	7900	0.742	Rounds: 139.0
+Chesson Hadley	7400	0.808	Rounds: 36.0
+Austin Cook	7100	0.792	Rounds: 39.0
+Brandon Harkins	7000	0.733	Rounds: 40.0
+Total Salary: $49700
