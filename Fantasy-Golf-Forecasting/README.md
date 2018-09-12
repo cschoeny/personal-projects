@@ -1782,4 +1782,4 @@ This has been a fun exploration in setting up an intelligent Monte Carlo simulat
 I look forward to simultaneously improving my data science skills and golf skills. For a parting image, here was my view at Hole-18 at the 2018 Genesis Open.
 
 
-![genesis](images\genesis.jpg)
+![genesis](images/genesis.jpg)
