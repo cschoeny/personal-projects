@@ -15,7 +15,6 @@ filenames = ['raw_2018/par3_bird_2018.csv', 'raw_2018/par4_eag_2018.csv', 'raw_2
              'raw_2018/par5_eag_2018.csv', 'raw_2018/par5_bird_2018.csv', 'raw_2018/bogey_2018.csv',
              'raw_2018/doublebogey_2018.csv']
 
-
 for idx, url in enumerate(url_list):
     f = requests.get(url).text  # gets the html text
     html = BeautifulSoup(f.replace('\n', ''), 'html.parser')  # parses the html
