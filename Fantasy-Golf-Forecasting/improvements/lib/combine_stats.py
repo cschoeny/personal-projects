@@ -41,7 +41,7 @@ def main():
     # Only take the columns we want
     df_stats = df_stats[['Rounds', 'B', 'DB', 'P3b', 'P3H', 'P4e', 'P4b', 'P4H', 'P5e', 'P5b', 'P5H']]
 
-    Save the final stats
+    # Save the final stats
     timestr = time.strftime("%Y-%m-%d")
     df_stats.to_pickle('../stats/combined/' + timestr + '.pkl')
 

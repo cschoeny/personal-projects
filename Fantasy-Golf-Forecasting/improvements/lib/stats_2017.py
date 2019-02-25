@@ -58,3 +58,7 @@ def main():
 
     # Saving dataframe
     df.to_pickle('../stats/stats_2017.pkl')
+
+
+if __name__ == '__main__':
+    main()

@@ -76,7 +76,7 @@ def main():
     df_stats['P5b'] = df_stats['P5b_2017'] * weight_2017 + df_stats['P5b_2018'] * weight_2018 + df_stats['P5b_2019'] * weight_2019
 
     # Only take the columns we want
-    df_stats = df_stats[['Rounds', 'B', 'DB', 'P3b', 'P3H', 'P4e', 'P4b', 'P4H', 'P5e', 'P5b', 'P5H']]
+    df_stats = df_stats[['Real_Rounds', 'Rounds', 'B', 'DB', 'P3b', 'P3H', 'P4e', 'P4b', 'P4H', 'P5e', 'P5b', 'P5H']]
 
     # Save the final stats
     timestr = time.strftime("%Y-%m-%d")

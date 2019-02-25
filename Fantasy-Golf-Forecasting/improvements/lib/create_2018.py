@@ -32,3 +32,7 @@ def main():
         with open(cur_filename, "w") as output:  # save the data to file
             writer = csv.writer(output, delimiter=',', lineterminator='\n')
             writer.writerows(csv_lines)
+
+
+if __name__ == '__main__':
+    main()
