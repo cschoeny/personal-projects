@@ -1,0 +1,72 @@
+2019-02-24
+
+
+Median
+
+Justin Thomas	10000	89.5	Rounds: 207.2482248694656
+Rickie Fowler	9000	82.5	Rounds: 188.2482248694656
+Gary Woodland	8800	81.0	Rounds: 233.24822486946556
+Tony Finau	7700	81.5	Rounds: 250.2482248694656
+Marc Leishman	7200	80.0	Rounds: 226.2482248694656
+Webb Simpson	7100	78.0	Rounds: 229.2482248694656
+Total Salary: $49800
+
+Max
+
+Rory McIlroy	10300	175.0	Rounds: 147.2482248694656
+Justin Thomas	10000	172.0	Rounds: 207.2482248694656
+Brooks Koepka	7800	181.0	Rounds: 176.2482248694656
+Marc Leishman	7200	173.5	Rounds: 226.2482248694656
+Webb Simpson	7100	170.5	Rounds: 229.2482248694656
+Abraham Ancer	7000	168.0	Rounds: 140.7653301326235
+Total Salary: $49400
+
+Min
+
+Tommy Fleetwood	9700	15.5	Rounds: 90.76533013262348
+Hideki Matsuyama	8500	15.0	Rounds: 194.2482248694656
+Patrick Cantlay	8400	15.5	Rounds: 172.2482248694656
+Phil Mickelson	8200	15.5	Rounds: 207.2482248694656
+Webb Simpson	7100	17.0	Rounds: 229.2482248694656
+Abraham Ancer	7000	16.0	Rounds: 140.7653301326235
+Total Salary: $48900
+
+Mean
+
+Justin Thomas	10000	93.1535	Rounds: 207.2482248694656
+Rickie Fowler	9000	85.691	Rounds: 188.2482248694656
+Gary Woodland	8800	84.3115	Rounds: 233.24822486946556
+Tony Finau	7700	84.058	Rounds: 250.2482248694656
+Marc Leishman	7200	82.8175	Rounds: 226.2482248694656
+Webb Simpson	7100	82.075	Rounds: 229.2482248694656
+Total Salary: $49800
+
+75th
+
+Justin Thomas	10000	106.625	Rounds: 207.2482248694656
+Rickie Fowler	9000	98.0	Rounds: 188.2482248694656
+Gary Woodland	8800	96.625	Rounds: 233.24822486946556
+Tony Finau	7700	96.0	Rounds: 250.2482248694656
+Marc Leishman	7200	94.0	Rounds: 226.2482248694656
+Webb Simpson	7100	91.5	Rounds: 229.2482248694656
+Total Salary: $49800
+
+25th
+
+Justin Thomas	10000	76.875	Rounds: 207.2482248694656
+Rickie Fowler	9000	70.875	Rounds: 188.2482248694656
+Gary Woodland	8800	69.0	Rounds: 233.24822486946556
+Tony Finau	7700	69.375	Rounds: 250.2482248694656
+Marc Leishman	7200	69.5	Rounds: 226.2482248694656
+Webb Simpson	7100	68.5	Rounds: 229.2482248694656
+Total Salary: $49800
+
+Cut
+
+Dustin Johnson	10600	0.994	Rounds: 182.2482248694656
+Rickie Fowler	9000	0.993	Rounds: 188.2482248694656
+Charles Howell	8700	0.993	Rounds: 238.24822486946556
+Paul Casey	7300	0.992	Rounds: 209.2482248694656
+Marc Leishman	7200	0.991	Rounds: 226.2482248694656
+Webb Simpson	7100	0.993	Rounds: 229.2482248694656
+Total Salary: $49900
