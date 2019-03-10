@@ -1,0 +1,72 @@
+2019-02-26
+
+
+Median
+
+Justin Thomas	11900	88.0	Rounds: 211.31837529512057
+Gary Woodland	9800	76.5	Rounds: 237.31837529512057
+Wyndham Clark	7400	76.5	Rounds: 38.3018018018018
+Sungjae Im	7300	79.5	Rounds: 44.3018018018018
+Scott Langley	6800	76.0	Rounds: 37.3018018018018
+Hank Lebioda	6400	71.5	Rounds: 28.3018018018018
+Total Salary: $49600
+
+Max
+
+Rickie Fowler	11200	183.5	Rounds: 192.31837529512057
+Brooks Koepka	10700	177.5	Rounds: 180.31837529512057
+Wyndham Clark	7400	181.5	Rounds: 38.3018018018018
+Sungjae Im	7300	177.5	Rounds: 44.3018018018018
+Ryan Palmer	7200	179.5	Rounds: 164.31837529512057
+Bronson Burgoon	6200	171.5	Rounds: 102.83548055827849
+Total Salary: $50000
+
+Min
+
+Justin Thomas	11900	11.5	Rounds: 211.31837529512057
+Chesson Hadley	7700	10.5	Rounds: 139.8354805582785
+Sungjae Im	7300	13.0	Rounds: 44.3018018018018
+Harold Varner	7300	11.0	Rounds: 240.31837529512057
+Cameron Davis	7200	11.5	Rounds: 37.3018018018018
+Trey Mullinax	7100	10.5	Rounds: 203.31837529512057
+Total Salary: $48500
+
+Mean
+
+Justin Thomas	11900	85.07155	Rounds: 211.31837529512057
+Gary Woodland	9800	71.29665	Rounds: 237.31837529512057
+Wyndham Clark	7400	71.49075	Rounds: 38.3018018018018
+Sungjae Im	7300	75.65215	Rounds: 44.3018018018018
+Scott Langley	6800	71.72325	Rounds: 37.3018018018018
+Hank Lebioda	6400	65.166	Rounds: 28.3018018018018
+Total Salary: $49600
+
+75th
+
+Justin Thomas	11900	107.5	Rounds: 211.31837529512057
+Gary Woodland	9800	93.0	Rounds: 237.31837529512057
+Wyndham Clark	7400	92.5	Rounds: 38.3018018018018
+Sungjae Im	7300	96.0	Rounds: 44.3018018018018
+Scott Langley	6800	91.0	Rounds: 37.3018018018018
+Hank Lebioda	6400	86.5	Rounds: 28.3018018018018
+Total Salary: $49600
+
+25th
+
+Justin Thomas	11900	69.0	Rounds: 211.31837529512057
+Gary Woodland	9800	34.5	Rounds: 237.31837529512057
+Wyndham Clark	7400	35.5	Rounds: 38.3018018018018
+Sungjae Im	7300	58.5	Rounds: 44.3018018018018
+Scott Langley	6800	52.375	Rounds: 37.3018018018018
+Hank Lebioda	6400	32.0	Rounds: 28.3018018018018
+Total Salary: $49600
+
+Cut
+
+Justin Thomas	11900	0.8054	Rounds: 211.31837529512057
+Webb Simpson	9600	0.7092	Rounds: 233.31837529512057
+Wyndham Clark	7400	0.7109	Rounds: 38.3018018018018
+Sungjae Im	7300	0.7652	Rounds: 44.3018018018018
+Anders Albertson	6800	0.6838	Rounds: 34.3018018018018
+Scott Langley	6800	0.7546	Rounds: 37.3018018018018
+Total Salary: $49800
