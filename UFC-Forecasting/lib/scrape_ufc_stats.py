@@ -8,11 +8,11 @@ def create_csv(filename):
     """
     Creats a new csv with only the UFC stats headers.
     """
-    url = 'http://ufcstats.com/event-details/a79bfbc01b2264d6'
+    url = 'http://ufcstats.com/fight-details/01a4827b3596d111'
     f = requests.get(url).text
     html = BeautifulSoup(f.replace('\n', ''), 'html.parser')
-    table = html.find('table', class_='b-fight-details__table b-fight-details__table_style_margin-top b-fight-details__table_type_event-details js-fight-table')  # get the headers
-    headings = [t.text.strip() for t in table.find('thead').find_all('th')]
+    table = html.find(class_='b-fight-details__table-head')
+    headings = [t.text.strip() for t in table.find_all('th')]
     csv_lines = []
     csv_lines.append(headings)
 
@@ -31,19 +31,41 @@ def get_event_urls(page_url):
     return [a['href'] for a in table.find_all('a', href=True)]
 
 
-def get_fight_data(event_url):
+def get_fight_urls(event_url):
     """
-    Returns a list with the relevant fight details for the winners of a specific event
+    Returns the individual UFC fight URLs from the event page
     """
     f = requests.get(event_url).text
     html = BeautifulSoup(f.replace('\n', ''), 'html.parser')
-    table = html.find('table', class_='b-fight-details__table b-fight-details__table_style_margin-top b-fight-details__table_type_event-details js-fight-table')  # get the headers
+    table = html.find(class_='b-fight-details__table-body')
+    urls = [a['href'] for a in table.find_all('a', href=True)]
+    return [url for url in urls if 'fight-details' in url]
+
+
+def get_fight_data(fight_url):
+    """
+    Returns a list with the relevant fight details for the winner of a specific fight
+    """
+    f = requests.get(fight_url).text
+    html = BeautifulSoup(f.replace('\n', ''), 'html.parser')
+    WL = html.find_all(class_='b-fight-details__person')
+    if WL[0].text.strip()[0] == 'W':
+        winner = 0
+    elif WL[1].text.strip()[0] == 'W':
+        winner = 1
+    else:  # Weird situation like a draw or no contest
+        return None  # Need to test to see what happens if None is appended to csv list
+    table = html.find(class_='b-fight-details__table-body')
     info_list = []
-    for tr in table.find('tbody').find_all('tr'):  # get all the data
-        info = [td.text.strip().split('  ')[0]
+    for tr in table.find_all('tr'):  # get all the data
+        info = [td.text.strip()
                 for td in tr.find_all('td')]
         info_list.append(info)
-    return info_list
+
+    if winner == 0:
+        return [info_0.partition('  ')[0] for info_0 in info_list[0]]
+    elif winner == 1:
+        return [info_1.partition('  ')[2].strip() for info_1 in info_list[0]]
 
 
 def append_to_csv(filename, event_stats):
@@ -61,7 +83,7 @@ def initial_setup():
     """
     # First let's create the file with the headers.
     dirname = os.path.abspath('')
-    filename = dirname + "/data/UFC_stats.csv"
+    filename = dirname + "/data/UFC_statistics.csv"
     create_csv(filename)
 
     # Data goes back to the beginning of 2016
@@ -76,4 +98,14 @@ def initial_setup():
     for page_url in page_urls:
         event_urls = get_event_urls(page_url)
         for event_url in event_urls:
-            append_to_csv(filename, get_fight_data(event_url))
+            fight_urls = get_fight_urls(event_url)
+            for fight_url in fight_urls:
+                try:
+                    fight_data = get_fight_data(fight_url)
+                except IndexError as error:  # In case of weird parsing issues
+                    print(error)
+                else:
+                    if fight_data is None:
+                        continue
+                    else:
+                        append_to_csv(filename, [fight_data])
