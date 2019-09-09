@@ -105,6 +105,31 @@ def append_to_csv(filename, event_stats):
         writer.writerows(event_stats)
 
 
+def add_new_event(event_url):
+    """
+    This needs to add the relevant stats to both stats csv files.
+    """
+    # First let's add on to the ufc_event_stats
+    dirname = os.path.abspath('')
+    filename = dirname + "/data/event_stats.csv"
+    event_data = get_fight_data_event(event_url)
+    append_to_csv(filename, event_data)
+
+    # Second, add to the fights csv
+    filename = dirname + "/data/fight_stats.csv"
+    fight_urls = get_fight_urls(event_url)
+    for fight_url in fight_urls:
+        try:
+            fight_data = get_fight_data_fight(fight_url)
+        except IndexError as error:  # In case of weird parsing issues
+            print(error)
+        else:
+            if fight_data is None:
+                continue
+            else:
+                append_to_csv(filename, [fight_data])
+
+
 def initial_setup():
     """
     This should only be run once. After this should only be appending.
@@ -119,17 +144,17 @@ def initial_setup():
 
     # First, let's create the event specific stats csv.
     dirname = os.path.abspath('')
-    filename = dirname + "/data/UFC_statistics.csv"
+    filename = dirname + "/data/event_stats.csv"
     create_csv_fight(filename)
 
     for page_url in page_urls:
         event_urls = get_event_urls(page_url)
         for event_url in event_urls:
-            fight_data = get_fight_data_event(event_url)
-            append_to_csv(filename, fight_data)
+            event_data = get_fight_data_event(event_url)
+            append_to_csv(filename, event_data)
 
     # Second, let's create the fight specific stats csv.
-    filename = dirname + "/data/UFC_statistics.csv"
+    filename = dirname + "/data/fight_stats.csv"
     create_csv_fight(filename)
 
     # For each page, get the event urls and add the data
