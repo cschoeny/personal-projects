@@ -8,7 +8,7 @@ def create_csv_fight(filename):
     """
     Creats a new csv with only the UFC stats headers. Fight based page.
     """
-    url = 'http://ufcstats.com/fight-details/01a4827b3596d111'
+    url = 'http://ufcstats.com/fight-details/357a34207d70da69'
     f = requests.get(url).text
     html = BeautifulSoup(f.replace('\n', ''), 'html.parser')
     table = html.find(class_='b-fight-details__table-head')
@@ -130,6 +130,23 @@ def add_new_event(event_url):
                 append_to_csv(filename, [fight_data])
 
 
+def add_missing_fights_to_fight_stats(fight_urls):
+    dirname = os.path.abspath('')
+    filename = dirname + "/data/fight_stats.csv"
+
+    for fight_url in fight_urls:
+        try:
+            fight_data = get_fight_data_fight(fight_url)
+        except IndexError as error:  # In case of weird parsing issues
+            print(fight_url)
+            print(error)
+        else:
+            if fight_data is None:
+                continue
+            else:
+                append_to_csv(filename, [fight_data])
+
+
 def initial_setup():
     """
     This should only be run once. After this should only be appending.
@@ -148,27 +165,49 @@ def initial_setup():
     create_csv_fight(filename)
 
     for page_url in page_urls:
-        event_urls = get_event_urls(page_url)
+        try:
+            event_urls = get_event_urls(page_url)
+        except Exception as error:
+            print(page_url)
+            print(error)
         for event_url in event_urls:
-            event_data = get_fight_data_event(event_url)
+            try:
+                event_data = get_fight_data_event(event_url)
+            except Exception as error:
+                print(event_url)
+                print(error)
             append_to_csv(filename, event_data)
 
     # Second, let's create the fight specific stats csv.
     filename = dirname + "/data/fight_stats.csv"
-    create_csv_fight(filename)
+    create_csv_event(filename)
 
     # For each page, get the event urls and add the data
     for page_url in page_urls:
-        event_urls = get_event_urls(page_url)
+        try:
+            event_urls = get_event_urls(page_url)
+        except Exception as error:
+            print(page_url)
+            print(error)
         for event_url in event_urls:
-            fight_urls = get_fight_urls(event_url)
+            try:
+                fight_urls = get_fight_urls(event_url)
+            except Exception as error:
+                print(event_url)
+                print(error)
             for fight_url in fight_urls:
                 try:
                     fight_data = get_fight_data_fight(fight_url)
                 except IndexError as error:  # In case of weird parsing issues
+                    print(fight_url)
                     print(error)
                 else:
                     if fight_data is None:
                         continue
                     else:
                         append_to_csv(filename, [fight_data])
+
+# a = get_fight_data_event('http://ufcstats.com/event-details/70167689d6a01793')
+#
+# b = get_event_urls('http://ufcstats.com/statistics/events/completed?page=1')
+# b
