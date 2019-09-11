@@ -162,7 +162,7 @@ def initial_setup():
     # First, let's create the event specific stats csv.
     dirname = os.path.abspath('')
     filename = dirname + "/data/event_stats.csv"
-    create_csv_fight(filename)
+    create_csv_event(filename)
 
     for page_url in page_urls:
         try:
@@ -180,7 +180,7 @@ def initial_setup():
 
     # Second, let's create the fight specific stats csv.
     filename = dirname + "/data/fight_stats.csv"
-    create_csv_event(filename)
+    create_csv_fight(filename)
 
     # For each page, get the event urls and add the data
     for page_url in page_urls:
