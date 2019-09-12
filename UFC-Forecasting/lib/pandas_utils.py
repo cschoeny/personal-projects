@@ -43,5 +43,36 @@ def read_clean_save_fight_stats():
     df.to_pickle(filename_pkl)
 
 
-def merge_two_stat_sources():
-    pass
+def merge_two_stat_sources_and_score():
+    dirname = os.path.abspath('')
+    filename_event_pkl = dirname + "/data/event_stats.pkl"
+    filename_fight_pkl = dirname + "/data/fight_stats.pkl"
+
+    df_e = pd.read_pickle(filename_event_pkl)
+    df_f = pd.read_pickle(filename_fight_pkl)
+
+    df = df_e.merge(df_f, how='inner', left_on=['Fighter', 'Str', 'Td', 'Pass', 'Sub'], right_on=['Fighter', 'Sig. str.', 'Td', 'Pass', 'Sub. att'])
+    df = df.drop_duplicates()
+
+    def round_points(round, time):
+        if round == 1:
+            return 90
+        elif round == 2:
+            return 70
+        elif round == 3 or round == 5:
+            if time == '5:00':
+                return 40
+            else:
+                return 50
+        elif round == 4:
+            return 50
+        else:
+            raise ValueError('Not valid round information')
+
+    df['Round_Points'] = df.apply(lambda x: round_points(x['Round'], x['Time']), axis=1)
+    df['DK_Points'] = 0.5 * df['Str'] + 5 * df['Td'] + 2 * df['Sub'] + 3 * df['Sub'] + 5 * df['Pass'] + 10 * df['KD'] + 2 * df['Rev.']
+
+    df = df.drop(['W/L', 'Sig. str.', 'Sub. att', 'Round_Points'], axis=1)
+
+    filename_pkl = dirname + "/data/combined_stats.pkl"
+    df.to_pickle(filename_pkl)
