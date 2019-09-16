@@ -18,7 +18,7 @@ convert_dict = {'Str': int,
                 'Sub': int,
                 'Pass': int,
                 'Round': int
-               }
+                }
 
 df = df.astype(convert_dict)
 df.head()
@@ -38,9 +38,12 @@ df = df.drop(['Sig. str. %', 'Total str.', 'Td %'], axis=1)
 df.head()
 
 # Need to right a function to only take the 1st number in Sig str & TD columns
+
+
 def landed(num_of_num):
     num, _, _ = num_of_num.partition(' of')
     return int(num)
+
 
 aa = landed('56 of 154')
 type(aa)
@@ -53,7 +56,7 @@ df.info()
 
 # Now let's test how to properly merge them
 
-#First read in the 2 pkl files
+# First read in the 2 pkl files
 dirname = os.path.abspath('')
 filename_event_pkl = dirname + "/data/event_stats.pkl"
 filename_fight_pkl = dirname + "/data/fight_stats.pkl"
@@ -84,17 +87,33 @@ df.head()
 
 # Now time to add the score
 # Let's first make a round point column
+
+
 def round_points(round, time):
-    if round==1:
+    if round == 1:
         return 90
-    elif round==2:
-        return 70:
-    elif round==3 or round==5:
-        if time=='5:00':
+    elif round == 2:
+        return 70
+    elif round == 3 or round == 5:
+        if time == '5:00':
             return 40
         else:
             return 50
-    elif round==4:
+    elif round == 4:
         return 50
     else:
         raise ValueError('Not valid round information')
+
+
+df['Round_Points'] = df.apply(lambda x: round_points(x['Round'], x['Time']), axis=1)
+
+df['DK_Points'] = 0.5*df['Str'] + 5*df['Td'] + 2*df['Sub'] + 3*df['Sub'] + 5*df['Pass'] + 10*df['KD'] + 2*df['Rev.'] + df['Round_Points']
+
+df.head()
+
+# Let's also clean up the method column to combine Decisions
+def combine_dec(method):
+    if 'DEC' in method:
+        return 'DEC'
+    else:
+        return method

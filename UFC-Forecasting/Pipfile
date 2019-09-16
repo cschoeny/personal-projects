@@ -8,6 +8,9 @@ numpy = "*"
 pandas = "*"
 bs4 = "*"
 requests = "*"
+jupyterlab = "*"
+seaborn = "*"
+sklearn = "*"
 
 [dev-packages]
 flake8 = "*"
