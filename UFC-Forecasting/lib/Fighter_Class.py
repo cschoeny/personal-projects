@@ -9,7 +9,8 @@ class Fighter():
     The main purpose of the Fighter class is to be able to sample DK_Points for a specific fighter given specific victory conditions.
     """
 
-    def __init__(self, weight_class, five_round=False):
+    def __init__(self, name, weight_class, five_round=False):
+        self.name = name
         self.weight_class = weight_class
         self.five_round = five_round
 
@@ -47,27 +48,27 @@ class Fighter():
         filename_pkl = dirname + "/data/combined_stats.pkl"
         return pd.read_pickle(filename_pkl)
 
-    def load_dec_round(self):
+    def load_dec_round_cat(self):
         if self.five_round:
             return '5 DEC'
         else:
             return '3 DEC'
 
-    def sample_DK_Points(self, method, round=None):
+    def sample_DK_Points(self, method, round):
+        # Create the fight 0 scenario
         """
         First try with weight class, and if not evnough significant data points, then average with dropped weight class.
+        In the case that we have less than the min_fights, we actually take 2 samples fro the overall dict to weight it higher.
+        Refactored so that round_cat is the round input and it's necessary.
         """
         self.input_checks(method, round)
-        if method in ['KO/TKO', 'SUB']:
-            if self.df.loc[(self.df['Weight class'] == self.weight_class) & (self.df['Round_Cat'] == round) & (self.df['Method'] == method), 'DK_Points'].shape[0] > self.MIN_SAMPLES:
-                return self.WC_kernel_dict[method][round].sample()
-            else:
-                return np.mean([self.WC_kernel_dict[method][round].sample(), self.kernel_dict[method][round].sample()])
+        num_examples = self.df.loc[(self.df['Weight class'] == self.weight_class) & (self.df['Round_Cat'] == round) & (self.df['Method'] == method), 'DK_Points'].shape[0]
+        if num_examples == 0:
+            return int(self.kernel_dict[method][round].sample())
+        elif num_examples >= self.MIN_SAMPLES:
+            return int(self.WC_kernel_dict[method][round].sample())
         else:
-            if self.df.loc[(self.df['Weight class'] == self.weight_class) & (self.df['Round_Cat'] == self.dec_round_cat), 'DK_Points'].shape[0] > self.MIN_SAMPLES:
-                return self.WC_kernel_dict['DEC'].sample()
-            else:
-                return np.mean([self.WC_kernel_dict['DEC'].sample(), self.kernel_dict['DEC'].sample()])
+            return int(np.mean([self.WC_kernel_dict[method][round].sample(), self.kernel_dict[method][round].sample(), self.kernel_dict[method][round].sample()]))
 
     def create_WC_kernel_dict(self):
         # WILL NEED to come back and handle cases where x is empty.
@@ -81,10 +82,15 @@ class Fighter():
             WC_kernel_dict[method] = {}
             for round in rounds:
                 x = np.array(self.df.loc[(self.df['Weight class'] == self.weight_class) & (self.df['Round_Cat'] == round) & (self.df['Method'] == method), 'DK_Points']).reshape(-1, 1)
-                kde = KernelDensity().fit(x)
-                WC_kernel_dict[method][round] = kde
+                if x.shape[0] > 0:
+                    kde = KernelDensity().fit(x)
+                    WC_kernel_dict[method][round] = kde
 
-        WC_kernel_dict['DEC'] = np.array(self.df.loc[(self.df['Weight class'] == self.weight_class) & (self.df['Round_Cat'] == self.dec_round_cat), 'DK_Points']).reshape(-1, 1)
+        x = np.array(self.df.loc[(self.df['Weight class'] == self.weight_class) & (self.df['Round_Cat'] == self.dec_round_cat), 'DK_Points']).reshape(-1, 1)
+        if x.shape[0] > 0:
+            kde = KernelDensity().fit(x)
+            WC_kernel_dict['DEC'] = {}
+            WC_kernel_dict['DEC'][self.dec_round_cat] = kde
 
         return WC_kernel_dict
 
@@ -98,10 +104,15 @@ class Fighter():
         for method in methods:
             kernel_dict[method] = {}
             for round in rounds:
-                x = np.array(self.df.loc[(self.df['Round'] == round) & (self.df['Method'] == method), 'DK_Points']).reshape(-1, 1)
-                kde = KernelDensity().fit(x)
-                kernel_dict[method][round] = kde
+                x = np.array(self.df.loc[(self.df['Round_Cat'] == round) & (self.df['Method'] == method), 'DK_Points']).reshape(-1, 1)
+                if x.shape[0] > 0:
+                    kde = KernelDensity().fit(x)
+                    kernel_dict[method][round] = kde
 
-        kernel_dict['DEC'] = np.array(self.df.loc[self.df['Round_Cat'] == self.dec_round_cat, 'DK_Points']).reshape(-1, 1)
+        x = np.array(self.df.loc[self.df['Round_Cat'] == self.dec_round_cat, 'DK_Points']).reshape(-1, 1)
+        if x.shape[0] > 0:
+            kde = KernelDensity().fit(x)
+            kernel_dict['DEC'] = {}
+            kernel_dict['DEC'][self.dec_round_cat] = kde
 
         return kernel_dict
