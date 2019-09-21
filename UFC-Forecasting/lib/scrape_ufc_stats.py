@@ -206,8 +206,3 @@ def initial_setup():
                         continue
                     else:
                         append_to_csv(filename, [fight_data])
-
-# a = get_fight_data_event('http://ufcstats.com/event-details/70167689d6a01793')
-#
-# b = get_event_urls('http://ufcstats.com/statistics/events/completed?page=1')
-# b

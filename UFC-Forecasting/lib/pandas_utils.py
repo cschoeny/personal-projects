@@ -96,3 +96,11 @@ def merge_two_stat_sources_and_score():
 
     filename_pkl = dirname + "/data/combined_stats.pkl"
     df.to_pickle(filename_pkl)
+
+
+def parse_dk(date_of_event):
+    dirname = os.path.abspath('')
+    filename = dirname + "/data/dk_data/" + date_of_event + ".csv"
+    df = pd.read_csv(filename)
+    df = df.sort_values('Game Info')
+    return [list(df.Name), list(df.Salary)]

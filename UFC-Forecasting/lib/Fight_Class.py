@@ -108,6 +108,7 @@ class Fight():
                 else:
                     inner.append(next(rounds_A))
                 inner.append(self.Fighter_A.sample_DK_Points(inner[1], inner[2]))
+                inner.append(self.Fighter_A.salary)
             else:  # Fighter_B wins
                 inner.append(next(methods_B))
                 if inner[-1] == 'DEC':
@@ -115,6 +116,7 @@ class Fight():
                 else:
                     inner.append(next(rounds_B))
                 inner.append(self.Fighter_B.sample_DK_Points(inner[1], inner[2]))
+                inner.append(self.Fighter_B.salary)
             overall.append(inner)
 
         return overall

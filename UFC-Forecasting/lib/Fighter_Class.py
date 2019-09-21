@@ -9,8 +9,9 @@ class Fighter():
     The main purpose of the Fighter class is to be able to sample DK_Points for a specific fighter given specific victory conditions.
     """
 
-    def __init__(self, name, weight_class, five_round=False):
+    def __init__(self, name, salary, weight_class, five_round=False):
         self.name = name
+        self.salary = salary
         self.weight_class = weight_class
         self.five_round = five_round
 
