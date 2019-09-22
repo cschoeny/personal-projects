@@ -118,6 +118,7 @@ new_nuts = map(tuple, nuts_list)
 final_count = Counter(new_nuts)
 
 final_count.most_common(10)
+# once in a while a weird bug where only 4 fighters are on the winning card.... not sure where bug lives.
 
 end = time.time()
 total_time = end - start
