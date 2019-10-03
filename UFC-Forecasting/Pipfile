@@ -12,6 +12,7 @@ jupyterlab = "*"
 seaborn = "*"
 sklearn = "*"
 pulp = "*"
+lxml = "*"
 
 [dev-packages]
 flake8 = "*"

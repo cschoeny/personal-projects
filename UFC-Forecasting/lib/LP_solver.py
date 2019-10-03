@@ -25,34 +25,8 @@ def event_nuts(names, salaries, points):
     return [name for name in names if x[name].varValue == 1]
 #
 #
-# # Initialize the LP
+# Initialize the LP
 # team = pulp.LpProblem("MaxScore", pulp.LpMaximize)
-#
-# # Create the LP variables. Binary variable for each fighter.
-# names = ['Irene Aldana',
-#          'Vanessa Melo',
-#          'Brandon Moreno',
-#          'Askar Askarov',
-#          'Steven Peterson',
-#          'Martin Bravo',
-#          'Angela Hill',
-#          'Ariane Carnelossi',
-#          'Sijara Eubanks',
-#          'Bethe Correia',
-#          'Paul Craig',
-#          'Vinicius Moreira',
-#          'Carla Esparza',
-#          'Alexa Grasso',
-#          'Jose Quinonez',
-#          'Carlos Huachin',
-#          'Claudio Puelles',
-#          'Marcos Mariano',
-#          'Tyson Nam',
-#          'Sergio Pettis',
-#          'Polo Reyes',
-#          'Kyle Nelson',
-#          'Jeremy Stephens',
-#          'Yair Rodriguez']
 #
 # # small example FIRST
 # names = ['clayton', 'matt', 'diego', 'jeff']
