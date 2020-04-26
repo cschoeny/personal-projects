@@ -1,7 +1,7 @@
 import pulp
 
 
-def event_nuts(names, salaries, points):
+def event_nuts(names, salaries, points, verbose=0):
     # Create the LP
     team = pulp.LpProblem("MaxScore", pulp.LpMaximize)
 
@@ -22,31 +22,7 @@ def event_nuts(names, salaries, points):
     # Solve the LP
     team.solve()
 
-    return [name for name in names if x[name].varValue == 1]
-#
-#
-# Initialize the LP
-# team = pulp.LpProblem("MaxScore", pulp.LpMaximize)
-#
-# # small example FIRST
-# names = ['clayton', 'matt', 'diego', 'jeff']
-# salaries = [50, 60, 30, 25]
-# scores = [100, 200, 150, 115]
-# # set up variables
-# x = pulp.LpVariable.dict('x_%s', names, cat='Binary')
-# x
-# # set up objective function
-# # maximize the dot product of the variable vector and the score vector
-# score = dict(zip(names, scores))
-# team += sum(score[i] * x[i] for i in names)
-# # salary constraint
-# salary = dict(zip(names, salaries))
-# team += sum(salary[i] * x[i] for i in names) <= 100
-# # num fighters constraint
-# team += sum(x[i] for i in names) == 2
-# team
-# # solve
-# team.solve()
-#
-# for i in names:
-#     print(x[i].varValue)
+    if verbose == 0:
+        return [name for name in names if x[name].varValue == 1]
+    else:
+        return [name for name in names if x[name].varValue == 1], pulp.value(team.objective)
