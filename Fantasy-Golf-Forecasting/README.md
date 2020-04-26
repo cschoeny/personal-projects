@@ -27,7 +27,7 @@ This section has three main components. First, I present preliminary background 
 ## Daily Fantasy Background <a name="background"></a>
 Daily fantasy sports is a marriage between traditional sports gambling and season-long fantasy leagues. For a traditional sports bet, the gambler would place a wager on a specific outcome, i.e., the Los Angeles Lakers will beat the Cleveland Cavaliers by at least 6 points this Saturday. On the other hand, in a season-long fantasy league, players will start the season by drafting a team (filling out the roster with enough athletes in each position), and the athletes earn "points" each week through specific actions. As a simple example, an NFL running back receives 1 point for every 10 yards rushing, 6 points per touchdown, and -2 points per fumble. Throughout the season, players face each other in head-to-head matches and can waive/trade athletes.
 
-Daily fantasy sports perfectly blends these two competition types. Players choose a team for a specific event (or a weekend of competition) and the athletes earn points for various actions. Instead of a draft where each athlete is chosen by at most one player, athletes are assigned a salary value, and each player chooses his team while being constrained to a total salary. While the daily fantasy sports industry is still smaller than the season-long fantasy industry, the numbers still impress. Due to a very aggressive--and overbearing--marketing campaign by DraftKings and FanDuel (which account for roughly 90% of the daily fantasy market), the industry hit peak growth in 2015. While the overall rates of growth have largely stagnated, over [\$3 Billion is spent annually](https://www.bostonglobe.com/business/2017/01/06/daily-fantasy-sports-business-gets-dose-reality/8ShpChIgaD2S8UKguJbdQP/story.html) by players on entry-fees. As such, there are plenty of premium websites offering help, but they often charge exorbitant amounts, such as [\$99/month](https://www.rotoql.com/new-pricing/). However, with some programming and statistical knowledge--and a little bit of elbow grease--we can render these sites irrelevant. 
+Daily fantasy sports perfectly blends these two competition types. Players choose a team for a specific event (or a weekend of competition) and the athletes earn points for various actions. Instead of a draft where each athlete is chosen by at most one player, athletes are assigned a salary value, and each player chooses his team while being constrained to a total salary. While the daily fantasy sports industry is still smaller than the season-long fantasy industry, the numbers still impress. Due to a very aggressive--and overbearing--marketing campaign by DraftKings and FanDuel (which account for roughly 90% of the daily fantasy market), the industry hit peak growth in 2015. While the overall rates of growth have largely stagnated, over [\$3 Billion is spent annually](https://www.bostonglobe.com/business/2017/01/06/daily-fantasy-sports-business-gets-dose-reality/8ShpChIgaD2S8UKguJbdQP/story.html) by players on entry-fees. As such, there are plenty of premium websites offering help, but they often charge exorbitant amounts, such as [\$99/month](https://www.rotoql.com/new-pricing/). However, with some programming and statistical knowledge--and a little bit of elbow grease--we can render these sites irrelevant.
 
 Let's take a look at a concrete example of how choosing a team works: in DraftKing's daily fantasy golf, each player has \$50,000 salary to spend and must draft 6 golfers. Obviously, the more points an athlete is expected to get, the higher his salary. Here are the highest salaried players for the 2018 Arnold Palmer Invitational:
 
@@ -109,7 +109,7 @@ filenames = ['raw_2017\\par3_bird_2017.csv', 'raw_2017\\par4_eag_2017.csv', 'raw
              'raw_2017\\doublebogey_2017.csv']
 
 
-#%% 
+#%%
 for idx, url in enumerate(url_list):
     f = requests.get(url).text #gets the html text
     html = BeautifulSoup(f.replace('\n',''), 'html.parser') #parses the html
@@ -139,12 +139,12 @@ url_list = ['https://www.pgatour.com/stats/stat.112.html', #par 3 birdie or bett
        'https://www.pgatour.com/stats/stat.02419.html', #bogey average
        'https://www.pgatour.com/stats/stat.02415.html'] #birdie to bogey ratio (to get DB)
 #
-filenames = ['raw_2018\\par3_bird_2018.csv', 'raw_2018\\par4_eag_2018.csv', 'raw_2018\\par4_bird_2018.csv', 
+filenames = ['raw_2018\\par3_bird_2018.csv', 'raw_2018\\par4_eag_2018.csv', 'raw_2018\\par4_bird_2018.csv',
              'raw_2018\\par5_eag_2018.csv', 'raw_2018\\par5_bird_2018.csv', 'raw_2018\\bogey_2018.csv',
              'raw_2018\\doublebogey_2018.csv']
 
 
-#%% 
+#%%
 for idx, url in enumerate(url_list):
     f = requests.get(url).text #gets the html text
     html = BeautifulSoup(f.replace('\n',''), 'html.parser') #parses the html
@@ -188,7 +188,7 @@ df_db = df_db.rename(index=str, columns={'TOTAL BOGEYS AND WORSE':'DBoW'})
 df_bir3 = pd.read_csv('raw_2017\\par3_bird_2017.csv', header=0, index_col='PLAYER NAME', usecols=['PLAYER NAME', 'PAR 3 BIRDIES OR BETTER', 'PAR 3 HOLES'])
 df_bir3 = df_bir3.rename(index=str, columns={'PAR 3 BIRDIES OR BETTER':'P3b', 'PAR 3 HOLES':'P3H'})
 
-df_eag4 = pd.read_csv('raw_2017\\par4_eag_2017.csv', header=0, index_col='PLAYER NAME', usecols=['PLAYER NAME', 'TOTAL']) 
+df_eag4 = pd.read_csv('raw_2017\\par4_eag_2017.csv', header=0, index_col='PLAYER NAME', usecols=['PLAYER NAME', 'TOTAL'])
 df_eag4 = df_eag4.rename(index=str, columns={'TOTAL':'P4e'})
 
 df_bir4 = pd.read_csv('raw_2017\\par4_bird_2017.csv', header=0, index_col='PLAYER NAME', usecols=['PLAYER NAME', 'PAR 4 BIRDIES OR BETTER', 'PAR 4 HOLES'])
@@ -233,19 +233,6 @@ df.head()
 
 
 <div>
-<style>
-    .dataframe thead tr:only-child th {
-        text-align: right;
-    }
-
-    .dataframe thead th {
-        text-align: left;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -363,19 +350,6 @@ df.tail()
 
 
 <div>
-<style>
-    .dataframe thead tr:only-child th {
-        text-align: right;
-    }
-
-    .dataframe thead th {
-        text-align: left;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -499,7 +473,7 @@ df_db = df_db.rename(index=str, columns={'TOTAL BOGEYS AND WORSE':'DBoW'})
 df_bir3 = pd.read_csv('raw_2018\\par3_bird_2018.csv', header=0, index_col='PLAYER NAME', usecols=['PLAYER NAME', 'PAR 3 BIRDIES OR BETTER', 'PAR 3 HOLES'])
 df_bir3 = df_bir3.rename(index=str, columns={'PAR 3 BIRDIES OR BETTER':'P3b', 'PAR 3 HOLES':'P3H'})
 
-df_eag4 = pd.read_csv('raw_2018\\par4_eag_2018.csv', header=0, index_col='PLAYER NAME', usecols=['PLAYER NAME', 'TOTAL']) 
+df_eag4 = pd.read_csv('raw_2018\\par4_eag_2018.csv', header=0, index_col='PLAYER NAME', usecols=['PLAYER NAME', 'TOTAL'])
 df_eag4 = df_eag4.rename(index=str, columns={'TOTAL':'P4e'})
 
 df_bir4 = pd.read_csv('raw_2018\\par4_bird_2018.csv', header=0, index_col='PLAYER NAME', usecols=['PLAYER NAME', 'PAR 4 BIRDIES OR BETTER', 'PAR 4 HOLES'])
@@ -603,19 +577,6 @@ df_dk.head()
 
 
 <div>
-<style>
-    .dataframe thead tr:only-child th {
-        text-align: right;
-    }
-
-    .dataframe thead th {
-        text-align: left;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -814,7 +775,7 @@ par5=4
 #If these don't add up raise an exception
 if par3+par4+par5 != 18:
     raise NameError('Pars dont add up to 18')
-    
+
 #%% Set the draftkings scoring system
 pts_b = 3
 pts_e = 8
@@ -873,13 +834,13 @@ Since we will be calculating outcomes per round, we need to get the probability 
 
 # def len_iter(items):
 #         return sum(1 for _ in items)
-    
+
 # def consecutive_one(data):
 #     return max(len_iter(run) for val, run in groupby(data) if val)
 
 # #now time for the monte carlo analysis
 # trials=100000
-# results = np.empty(trials) 
+# results = np.empty(trials)
 # final_results = np.zeros(19)   
 # for b in range(3,13):
 #     for k in range(trials):
@@ -908,11 +869,11 @@ Bogeys are calculated per round and birdies/eagles are calculated per hole. In a
 sims = 10000
 
 #%% Calculate poisson rates
-df_dk['B/R'] = df_dk['B'].div(df_dk['Rounds']) 
-df_dk['DB/R'] = df_dk['DB'].div(df_dk['Rounds']) 
+df_dk['B/R'] = df_dk['B'].div(df_dk['Rounds'])
+df_dk['DB/R'] = df_dk['DB'].div(df_dk['Rounds'])
 df_dk['3b/H'] = df_dk['P3b'].div(df_dk['P3H'])
 df_dk['4e/H'] = df_dk['P4e'].div(df_dk['P4H'])
-df_dk['4b/H'] = df_dk['P4b'].div(df_dk['P4H']) 
+df_dk['4b/H'] = df_dk['P4b'].div(df_dk['P4H'])
 df_dk['5e/H'] = df_dk['P5e'].div(df_dk['P5H'])
 df_dk['5b/H'] = df_dk['P5b'].div(df_dk['P5H'])
 
@@ -925,7 +886,7 @@ for player_idx in range(num_players):
     cur_birdies5 = np.random.poisson(df_dk.iloc[player_idx]['5b/H']*par5, [1, sims, 4])
     cur_birdies = cur_birdies3+cur_birdies4+cur_birdies5
     birdies[player_idx,:,:] = cur_birdies
-    
+
 eagles = np.empty([num_players, sims, 4])
 for player_idx in range(num_players):
     cur_eagles4 = np.random.poisson(df_dk.iloc[player_idx]['4e/H']*par4, [1, sims, 4])
@@ -937,12 +898,12 @@ bogeys = np.empty([num_players, sims, 4])
 for player_idx in range(num_players):
     cur_bogeys = np.random.poisson(df_dk.iloc[player_idx]['B/R'], [1, sims, 4])
     bogeys[player_idx,:,:] = cur_bogeys
-    
+
 doublebogeys = np.empty([num_players, sims, 4])
 for player_idx in range(num_players):
     cur_doublebogeys = np.random.poisson(df_dk.iloc[player_idx]['DB/R'], [1, sims, 4])
     doublebogeys[player_idx,:,:] = cur_doublebogeys
-    
+
 pars = np.full([num_players, sims, 4], 18)
 pars = pars-birdies-eagles-bogeys-doublebogeys
 pars[pars<0]=0
@@ -1036,7 +997,7 @@ from scipy.stats import rankdata
 made_cut=np.empty([num_players,sims])
 for cur_sim in range(sims):
     after2 = np.sum(scores[:,cur_sim,0:2], axis=1)
-    made_cut[:,cur_sim] = rankdata(after2, method='min')<=70 
+    made_cut[:,cur_sim] = rankdata(after2, method='min')<=70
 missed_cut = (made_cut-1)*(-1)
 ```
 
@@ -1081,7 +1042,7 @@ dk_placement_score = pts_place(ranking)
 dk_scores[:,:,0] = dk_scores[:,:,0] + dk_placement_score #might as well add it onto the first day
 
 #Now we need to add a bonus score if players have all 4 rounds below 70
-A4U70_array=np.max(scores, axis=2)<70 
+A4U70_array=np.max(scores, axis=2)<70
 dk_scores[:,:,2] = dk_scores[:,:,2] + A4U70_array*pts_4U70 #we put it in this on the 3rd round so that it gets zeroed out if CUT
 
 #Now we need to 0 out the scores from days 3 and 4 for those that did not make the cut
@@ -1129,19 +1090,6 @@ df_results.head(10)
 
 
 <div>
-<style>
-    .dataframe thead tr:only-child th {
-        text-align: right;
-    }
-
-    .dataframe thead th {
-        text-align: left;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -1352,7 +1300,7 @@ This graph hints at the fact that if a golfer has a less than 50% chance of maki
 import seaborn as sns
 df_corr = df_results.drop(['Rounds', 'Have_Data'], axis=1)
 corr = df_corr.corr()
-sns.heatmap(corr, 
+sns.heatmap(corr,
             xticklabels=corr.columns.values,
             yticklabels=corr.columns.values)
 ```
@@ -1402,7 +1350,7 @@ sns.violinplot(x=df_compare.Golfer, y=df_compare.Score);
 
 # Linear Programming <a name="lp"></a>
 
-It's finally time to use linear programming to make our lineups. We will run a linear program on each of the 7 point metrics we calculated in the previous section. 
+It's finally time to use linear programming to make our lineups. We will run a linear program on each of the 7 point metrics we calculated in the previous section.
 
 **Objective Function**
 * Maximize *points*
@@ -1468,7 +1416,7 @@ for i in names:
 f.write('Total Salary: $' + str(total_salary))
 
 
-        
+
 #%% Let's set up the LP for highest max score
 
 #initialize the LP problem
@@ -1504,7 +1452,7 @@ for i in names:
         total_salary += df_results.loc[i]['Salary']
         f.write(i + '\t' + str(salary[i]) + '\t' + str(df_results.loc[i]['dk_max']) + '\t' + 'Rounds: ' +  str(df_results.loc[i]['Rounds']) + '\n')
 f.write('Total Salary: $' + str(total_salary))
-        
+
 #%% Let's set up the LP for highest min score
 
 #initialize the LP problem
@@ -1645,7 +1593,7 @@ for i in names:
         total_salary += df_results.loc[i]['Salary']
         f.write(i + '\t' + str(salary[i]) + '\t' + str(df_results.loc[i]['dk_25']) + '\t' + 'Rounds: ' +  str(df_results.loc[i]['Rounds']) + '\n')
 f.write('Total Salary: $' + str(total_salary))
-        
+
 #%% Let's set up the LP for highest make the cut percentage
 
 #initialize the LP problem
@@ -1695,10 +1643,10 @@ print(file_contents)
 ```
 
     2018_03_15
-    
-    
+
+
     Median
-    
+
     Hideki Matsuyama	9700	81.5	Rounds: 93.0
     Tommy Fleetwood	9500	76.5	Rounds: 16.0
     Alexander Noren	9200	80.5	Rounds: 24.0
@@ -1706,9 +1654,9 @@ print(file_contents)
     Chesson Hadley	7100	77.0	Rounds: 38.0
     Brandon Harkins	6900	75.5	Rounds: 42.0
     Total Salary: $49500
-    
+
     Max
-    
+
     Hideki Matsuyama	9700	175.0	Rounds: 93.0
     Tommy Fleetwood	9500	182.5	Rounds: 16.0
     Alexander Noren	9200	186.5	Rounds: 24.0
@@ -1716,9 +1664,9 @@ print(file_contents)
     Chesson Hadley	7100	175.5	Rounds: 38.0
     Brandon Harkins	6900	177.0	Rounds: 42.0
     Total Salary: $49700
-    
+
     Min
-    
+
     Tommy Fleetwood	9500	11.0	Rounds: 16.0
     Alexander Noren	9200	12.5	Rounds: 24.0
     Brian Harman	8500	11.0	Rounds: 134.0
@@ -1726,9 +1674,9 @@ print(file_contents)
     Austin Cook	7100	10.0	Rounds: 43.0
     Vaughn Taylor	7100	10.0	Rounds: 123.0
     Total Salary: $49100
-    
+
     Mean
-    
+
     Hideki Matsuyama	9700	79.4391	Rounds: 93.0
     Tommy Fleetwood	9500	72.3864	Rounds: 16.0
     Alexander Noren	9200	79.2198	Rounds: 24.0
@@ -1736,9 +1684,9 @@ print(file_contents)
     Chesson Hadley	7100	73.8162	Rounds: 38.0
     Brandon Harkins	6900	71.7117	Rounds: 42.0
     Total Salary: $49500
-    
+
     75th
-    
+
     Hideki Matsuyama	9700	98.0	Rounds: 93.0
     Tommy Fleetwood	9500	91.5	Rounds: 16.0
     Alexander Noren	9200	96.625	Rounds: 24.0
@@ -1746,9 +1694,9 @@ print(file_contents)
     Chesson Hadley	7100	91.5	Rounds: 38.0
     Brandon Harkins	6900	90.5	Rounds: 42.0
     Total Salary: $49500
-    
+
     25th
-    
+
     Hideki Matsuyama	9700	65.5	Rounds: 93.0
     Alexander Noren	9200	65.5	Rounds: 24.0
     Brian Harman	8500	58.0	Rounds: 134.0
@@ -1756,9 +1704,9 @@ print(file_contents)
     Austin Cook	7100	61.5	Rounds: 43.0
     Chesson Hadley	7100	60.5	Rounds: 38.0
     Total Salary: $50000
-    
+
     Cut
-    
+
     Hideki Matsuyama	9700	0.8391	Rounds: 93.0
     Alexander Noren	9200	0.8557	Rounds: 24.0
     Brian Harman	8500	0.7989	Rounds: 134.0
