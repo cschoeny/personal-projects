@@ -24,6 +24,8 @@
 # Overview <a name="overview"></a>
 This section has three main components. First, I present preliminary background information explaining the basics of daily fantasy sports. Second, I offer my thoughts regarding the pros/cons to various techniques we can employ in choosing our lineup. Lastly, I outline the approach we will take.
 
+(Note from 05/25/2020: I have rearranged the file structure of this project. All the code can be found in the /lib directory.)
+
 ## Daily Fantasy Background <a name="background"></a>
 Daily fantasy sports is a marriage between traditional sports gambling and season-long fantasy leagues. For a traditional sports bet, the gambler would place a wager on a specific outcome, i.e., the Los Angeles Lakers will beat the Cleveland Cavaliers by at least 6 points this Saturday. On the other hand, in a season-long fantasy league, players will start the season by drafting a team (filling out the roster with enough athletes in each position), and the athletes earn "points" each week through specific actions. As a simple example, an NFL running back receives 1 point for every 10 yards rushing, 6 points per touchdown, and -2 points per fumble. Throughout the season, players face each other in head-to-head matches and can waive/trade athletes.
 
