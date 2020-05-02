@@ -1,6 +1,6 @@
 ## Welcome
 
-Welcome to my personal project in which I build a model to help choose UFC lineups for gambling on Draftkings (DK). This readme will not be a full tutorial like the one I have for the [fantasy golf](https://github.com/cschoeny/personal-projects/tree/ufc/Fantasy-Golf-Forecasting); rather, I will simply describe the methodology. See that readme for a primer on daily fantasy sports and the types of DK contests. In this project, our goal is to construct a lineup to win a large GPP.
+Welcome to my personal project in which I build a model to help choose UFC lineups for gambling on Draftkings (DK). This readme will not be a full tutorial like the one I have for the [fantasy golf](https://github.com/cschoeny/personal-projects/tree/ufc/Fantasy-Golf-Forecasting); rather, I will simply describe the methodology. See that readme for a primer on daily fantasy sports and the types of DK contests. In this project, our goal is to construct a lineup to win a large GPP. While the odds of winning a large GPP are _very_ low, following this methodology should transform these odds from simply playing a random lottery to making some well informed wagers.
 
 ![UFC_DK_pic](images/ufc_dk.png)
 
@@ -9,6 +9,8 @@ Welcome to my personal project in which I build a model to help choose UFC lineu
 Recall that in my Fantasy Golf project I built a probabilistic model, based on a Poisson Process, for how each golfer would score on a particular hole. I then used a Monte Carlo simulation in conjunction with linear programming to choose an optimal lineup.
 
 Here we take a related, but slightly different approach. The key insight in this project is to leverage Vegas odds for the probabilities of victory / method of victory, but to rely on our self-built database for probabilistic distributions of DK scoring (based on weight class and round + method of victory). We then simulate the entire UFC event tens of thousands of times, and ultimately choose the specific 6-fighter lineup (which meets the DK salary requirements) that has won the most simulated events.
+
+Philosophically, imagine an infinite parallel universes in which the UFC event occurs, and that the winners / methods of victory have some probabilistic distribution that the Vegas odds capture. We want to find the most often optimal (or, to borrow from poker vernacular, the nuts) lineup. While the odds of winning a large GPP are _very_ low, following this methodology should transform these odds from simply playing a random lottery to making some well informed wagers.
 
 The following list describes the overall approach.
 
@@ -53,6 +55,38 @@ Additionally, we pass in the number of fights to simulate. Inside the fight inst
 #### Event Class
 An event instance contains all the individual fight instances, normally around 12. For each individual event simulation, we run the LP optimization to get the optimal lineup (for that specific event realization).
 
+## Sample Output
+After simulating the upcoming UFC 249 event 10,000 times, the main result of this program is an ordered list of the lineups that had the highest DK points possible given salary constraints (for that specific event realization); the number after the salary shows the number of times that the lineup was optimal.
+```python
+[(('Anthony Pettis',
+   'Greg Hardy',
+   'Carla Esparza',
+   'Tony Ferguson',
+   'Ronaldo Souza',
+   'Charles Rosa'),
+  30),
+ (('Donald Cerrone',
+   'Greg Hardy',
+   'Michelle Waterson',
+   'Tony Ferguson',
+   'Ronaldo Souza',
+   'Bryce Mitchell'),
+  24),
+ (('Henry Cejudo',
+   'Anthony Pettis',
+   'Greg Hardy',
+   'Carla Esparza',
+   'Ronaldo Souza',
+   'Charles Rosa'),
+  18),
+ (('Anthony Pettis',
+   'Yorgan de Castro',
+   'Carla Esparza',
+   'Tony Ferguson',
+   'Ronaldo Souza',
+   'Bryce Mitchell'),
+  15),...
+```
 ___
 
 ### Note on Tools

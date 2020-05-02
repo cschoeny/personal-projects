@@ -20,7 +20,7 @@ from lib.Event_Class import Event
 
 ##################################################
 # Create the Fighters
-date_of_event = '2020-01-18'
+date_of_event = '2020-05-09'
 names, salaries = pu.parse_dk(date_of_event)
 
 # Get the full odds table
@@ -28,36 +28,38 @@ table = so.get_odds_table(1)
 
 # Properly format the names in accordance with the odds table
 # Keep editing these until the function prints an empty list
-names[0] = 'J.J. Aldrich'
+names[13] = 'Ronaldo Souza'
+names[7] = 'Yorgan de Castro'
 
 print(so.full_names_that_need_cleaning(names, table))
 # names
 # Properly format the short names in accordance with the odds table
 # Keep editing these until the function prints an empty list
 # names
-short_names = ['Aldrich',
-               'Mazo',
-               'Elliott',
-               'Askarov',
-               'Barber',
-               'Modafferi',
-               'Ledet',
-               'Camur',
+short_names = ['Spann',
+               'Alvey',
+               'Cruz',
+               'Cejudo',
                'Cerrone',
-               'McGregor',
-               'Haqparast',
-               'Dober',
-               'Ferreira',
                'Pettis',
-               'Yusuff',
-               'Fili',
-               'Greene',
-               'Oleinik',
-               'Holm',
-               'Pennington',
-               'Kelleher',
-               'Osbourne']
-
+               'Hardy',
+               'Castro',
+               'Waterson',
+               'Esparza',
+               'Gaethje',
+               'Ferguson',
+               'Hall',
+               'Souza',
+               'Kattar',
+               'Stephens',
+               'Luque',
+               'Price',
+               'Rosa',
+               'Mitchell',
+               'Rozenstruik',
+               'Ngannou',
+               'Werdum',
+               'Oleinik']
 
 print(so.short_names_that_need_cleaning(short_names, table))
 
@@ -75,38 +77,40 @@ print(so.short_names_that_need_cleaning(short_names, table))
 
 # Assign which fights are 5 round fights
 championship = [False] * len(names)
-championship[8], championship[9] = (True, True)
+championship[10], championship[11] = (True, True)
 
 
 # Create the odds list of dictionaries
 odds = []
 for full_name, short_name, five_round in zip(names, short_names, championship):
     odds.append(so.get_odds_for_fighter(full_name, short_name, table, five_round))
-# names
+
 # Manually create the weightclasses
 weightclasses = [
-    "Women's Flyweight",
-    "Women's Flyweight",
-    "Flyweight",
-    "Flyweight",
-    "Women's Flyweight",
-    "Women's Flyweight",
-    "Light Heavyweight",
-    "Light Heavyweight",
-    "Welterweight",
-    "Welterweight",
-    "Lightweight",
-    "Lightweight",
-    "Lightweight",
-    "Lightweight",
-    "Featherweight",
-    "Featherweight",
-    "Heavyweight",
-    "Heavyweight",
-    "Women's Bantamweight",
-    "Women's Bantamweight",
-    "Bantamweight",
-    "Bantamweight"
+    'Light Heavyweight',
+    'Light Heavyweight',
+    'Bantamweight',
+    'Bantamweight',
+    'Welterweight',
+    'Welterweight',
+    'Heavyweight',
+    'Heavyweight',
+    "Women's Strawweight",
+    "Women's Strawweight",
+    'Lightweight',
+    'Lightweight',
+    'Middleweight',
+    'Middleweight',
+    'Featherweight',
+    'Featherweight',
+    'Welterweight',
+    'Welterweight',
+    'Featherweight',
+    'Featherweight',
+    'Heavyweight',
+    'Heavyweight',
+    'Heavyweight',
+    'Heavyweight'
 ]
 
 
@@ -119,7 +123,7 @@ fighter_list = [Fighter(*fighter_attribute) for fighter_attribute in fighter_att
 # Create the fights
 start = time.time()
 
-num_fights_sim = 50000
+num_fights_sim = 10000
 fight_list = []
 for idx in range(0, len(fighter_list), 2):
     fight_list.append(Fight(fighter_list[idx], odds[idx], fighter_list[idx + 1], odds[idx + 1], num_fights_sim))
