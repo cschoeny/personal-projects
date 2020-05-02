@@ -1,0 +1,21 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+numpy = "*"
+pandas = "*"
+bs4 = "*"
+requests = "*"
+jupyterlab = "*"
+seaborn = "*"
+sklearn = "*"
+pulp = "*"
+lxml = "*"
+
+[dev-packages]
+flake8 = "*"
+
+[requires]
+python_version = "3.7.0"
