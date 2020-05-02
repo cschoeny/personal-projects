@@ -2,6 +2,8 @@
 
 Welcome to my personal project in which I build a model to help choose UFC lineups for gambling on Draftkings (DK). This readme will not be a full tutorial like the one I have for the [fantasy golf](https://github.com/cschoeny/personal-projects/tree/ufc/Fantasy-Golf-Forecasting); rather, I will simply describe the methodology. See that readme for a primer on daily fantasy sports and the types of DK contests. In this project, our goal is to construct a lineup to win a large GPP.
 
+![UFC_DK_pic](images/ufc_dk.png)
+
 ## Methodology
 
 Recall that in my Fantasy Golf project I built a probabilistic model, based on a Poisson Process, for how each golfer would score on a particular hole. I then used a Monte Carlo simulation in conjunction with linear programming to choose an optimal lineup.
