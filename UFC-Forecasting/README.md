@@ -92,3 +92,15 @@ ___
 ### Note on Tools
 
 This project is done entirely in _Python_. The _Beautiful Soup_ package was invaluable in scraping fight results and Vegas odds. I used _sklearn_ to perform the kernel density estimation. The _Pandas_ library was the main workhorse in this project as we used dataframes as our main data structure. I used _PuLP_ to run the linear programming optimization.
+
+___
+
+### Bonus
+
+It's fun to be able to work on data science projects on subjects that I'm passionate about. The programming / statistics / gambling side of things is obvious, but martial arts has also been a constant in my life.
+
+In my youth, I trained in Tae Kwon Do for a decade, earning a 2nd degree black belt. Muay Thai played an important role in both my undergrad and graduate studies at UCLA.
+
+I've long been a fan of MMA and the UFC, having spent countless hours watching fights and posting on message boards. I've also been lucky enough to attend multiple MMA events live. The following is a picture of me and some friends with UFC Heavyweight Champion Andrei Arlovski.
+
+![ufc_pic](images/arlovski.jpg)
